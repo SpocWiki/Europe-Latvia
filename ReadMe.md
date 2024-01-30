@@ -111,8 +111,8 @@ id: Latvia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Latvia//
-markerFolder: ./Latvia//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Latvia] 
