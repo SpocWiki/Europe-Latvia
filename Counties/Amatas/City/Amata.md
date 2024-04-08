@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.35] 
-[geo-lat::57.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.35] 
+[has_place_latitude::57.18] 
 [name::Amata] 
 State ::  
 Country :: [[Russia]]  

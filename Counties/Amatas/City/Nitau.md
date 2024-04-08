@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.28] 
-[geo-lat::57.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.28] 
+[has_place_latitude::57.07] 
 [name::Nitau] 
 State ::  
 Country :: [[Russia]]  

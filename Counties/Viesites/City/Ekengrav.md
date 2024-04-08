@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.45] 
-[geo-lat::56.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.45] 
+[has_place_latitude::56.37] 
 [name::Ekengrav] 
 State ::  
 Country :: [[Russia]]  

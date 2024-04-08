@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.43] 
-[geo-lat::56.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.43] 
+[has_place_latitude::56.68] 
 [name::Koknese] 
 State ::  
 Country :: [[Russia]]  
