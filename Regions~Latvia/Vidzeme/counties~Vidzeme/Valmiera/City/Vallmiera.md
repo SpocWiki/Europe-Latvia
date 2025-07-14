@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vallmiera.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.public.md) 
+### [Vallmiera](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Valmiera/City/Vallmiera.md) 
 
-### [Vallmiera.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.internal.md) 
+### [Vallmiera.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Valmiera/City/Vallmiera.public.md) 
 
-### [Vallmiera.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.protect.md) 
+### [Vallmiera.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Valmiera/City/Vallmiera.internal.md) 
 
-### [Vallmiera.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.private.md) 
+### [Vallmiera.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Valmiera/City/Vallmiera.protect.md) 
 
-### [Vallmiera.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.personal.md) 
+### [Vallmiera.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Valmiera/City/Vallmiera.private.md) 
 
-### [Vallmiera.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.secret.md)
+### [Vallmiera.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Valmiera/City/Vallmiera.personal.md) 
+
+### [Vallmiera.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Valmiera/City/Vallmiera.secret.md)
 

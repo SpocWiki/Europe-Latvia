@@ -41,15 +41,17 @@ markerFolder: ./Stopinu/
 
 ## Confidential Links & Embeds: 
 
-### [Stopinu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStopinu.public.md) 
+### [Stopinu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.md) 
 
-### [Stopinu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStopinu.internal.md) 
+### [Stopinu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.public.md) 
 
-### [Stopinu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStopinu.protect.md) 
+### [Stopinu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.internal.md) 
 
-### [Stopinu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStopinu.private.md) 
+### [Stopinu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.protect.md) 
 
-### [Stopinu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStopinu.personal.md) 
+### [Stopinu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.private.md) 
 
-### [Stopinu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStopinu.secret.md)
+### [Stopinu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.personal.md) 
+
+### [Stopinu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.secret.md)
 

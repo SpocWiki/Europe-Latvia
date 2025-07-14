@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\LatviaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\LatviaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\LatviaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\LatviaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\LatviaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\LatviaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/License.secret.md)
 

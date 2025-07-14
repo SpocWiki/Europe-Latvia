@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saldus.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.public.md) 
+### [Saldus](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.md) 
 
-### [Saldus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.internal.md) 
+### [Saldus.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.public.md) 
 
-### [Saldus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.protect.md) 
+### [Saldus.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.internal.md) 
 
-### [Saldus.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.private.md) 
+### [Saldus.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.protect.md) 
 
-### [Saldus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.personal.md) 
+### [Saldus.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.private.md) 
 
-### [Saldus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.secret.md)
+### [Saldus.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.personal.md) 
+
+### [Saldus.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.secret.md)
 

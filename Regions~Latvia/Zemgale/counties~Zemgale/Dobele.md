@@ -41,15 +41,17 @@ markerFolder: ./Dobele/
 
 ## Confidential Links & Embeds: 
 
-### [Dobele.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleDobele.public.md) 
+### [Dobele](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Dobele.md) 
 
-### [Dobele.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleDobele.internal.md) 
+### [Dobele.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Dobele.public.md) 
 
-### [Dobele.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleDobele.protect.md) 
+### [Dobele.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Dobele.internal.md) 
 
-### [Dobele.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleDobele.private.md) 
+### [Dobele.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Dobele.protect.md) 
 
-### [Dobele.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleDobele.personal.md) 
+### [Dobele.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Dobele.private.md) 
 
-### [Dobele.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleDobele.secret.md)
+### [Dobele.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Dobele.personal.md) 
+
+### [Dobele.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Dobele.secret.md)
 

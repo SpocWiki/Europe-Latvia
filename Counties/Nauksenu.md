@@ -41,15 +41,17 @@ markerFolder: ./Nauksenu/
 
 ## Confidential Links & Embeds: 
 
-### [Nauksenu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.public.md) 
+### [Nauksenu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.md) 
 
-### [Nauksenu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.internal.md) 
+### [Nauksenu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.public.md) 
 
-### [Nauksenu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.protect.md) 
+### [Nauksenu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.internal.md) 
 
-### [Nauksenu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.private.md) 
+### [Nauksenu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.protect.md) 
 
-### [Nauksenu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.personal.md) 
+### [Nauksenu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.private.md) 
 
-### [Nauksenu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.secret.md)
+### [Nauksenu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.personal.md) 
+
+### [Nauksenu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.secret.md)
 

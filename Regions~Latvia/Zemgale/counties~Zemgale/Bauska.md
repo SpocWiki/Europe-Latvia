@@ -41,15 +41,17 @@ markerFolder: ./Bauska/
 
 ## Confidential Links & Embeds: 
 
-### [Bauska.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleBauska.public.md) 
+### [Bauska](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.md) 
 
-### [Bauska.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleBauska.internal.md) 
+### [Bauska.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.public.md) 
 
-### [Bauska.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleBauska.protect.md) 
+### [Bauska.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.internal.md) 
 
-### [Bauska.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleBauska.private.md) 
+### [Bauska.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.protect.md) 
 
-### [Bauska.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleBauska.personal.md) 
+### [Bauska.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.private.md) 
 
-### [Bauska.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleBauska.secret.md)
+### [Bauska.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.personal.md) 
+
+### [Bauska.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.secret.md)
 

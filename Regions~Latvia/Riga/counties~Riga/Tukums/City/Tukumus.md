@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tukumus.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.public.md) 
+### [Tukumus](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.md) 
 
-### [Tukumus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.internal.md) 
+### [Tukumus.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.public.md) 
 
-### [Tukumus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.protect.md) 
+### [Tukumus.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.internal.md) 
 
-### [Tukumus.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.private.md) 
+### [Tukumus.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.protect.md) 
 
-### [Tukumus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.personal.md) 
+### [Tukumus.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.private.md) 
 
-### [Tukumus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.secret.md)
+### [Tukumus.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.personal.md) 
+
+### [Tukumus.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.secret.md)
 

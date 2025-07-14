@@ -41,15 +41,17 @@ markerFolder: ./Ropazu/
 
 ## Confidential Links & Embeds: 
 
-### [Ropazu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.public.md) 
+### [Ropazu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.md) 
 
-### [Ropazu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.internal.md) 
+### [Ropazu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.public.md) 
 
-### [Ropazu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.protect.md) 
+### [Ropazu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.internal.md) 
 
-### [Ropazu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.private.md) 
+### [Ropazu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.protect.md) 
 
-### [Ropazu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.personal.md) 
+### [Ropazu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.private.md) 
 
-### [Ropazu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.secret.md)
+### [Ropazu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.personal.md) 
+
+### [Ropazu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.secret.md)
 

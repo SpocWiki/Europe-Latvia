@@ -41,15 +41,17 @@ markerFolder: ./Salacgrivas/
 
 ## Confidential Links & Embeds: 
 
-### [Salacgrivas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalacgrivas.public.md) 
+### [Salacgrivas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.md) 
 
-### [Salacgrivas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalacgrivas.internal.md) 
+### [Salacgrivas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.public.md) 
 
-### [Salacgrivas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalacgrivas.protect.md) 
+### [Salacgrivas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.internal.md) 
 
-### [Salacgrivas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalacgrivas.private.md) 
+### [Salacgrivas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.protect.md) 
 
-### [Salacgrivas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalacgrivas.personal.md) 
+### [Salacgrivas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.private.md) 
 
-### [Salacgrivas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalacgrivas.secret.md)
+### [Salacgrivas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.personal.md) 
+
+### [Salacgrivas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.secret.md)
 

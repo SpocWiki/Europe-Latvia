@@ -41,15 +41,17 @@ markerFolder: ./Kekavas/
 
 ## Confidential Links & Embeds: 
 
-### [Kekavas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKekavas.public.md) 
+### [Kekavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.md) 
 
-### [Kekavas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKekavas.internal.md) 
+### [Kekavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.public.md) 
 
-### [Kekavas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKekavas.protect.md) 
+### [Kekavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.internal.md) 
 
-### [Kekavas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKekavas.private.md) 
+### [Kekavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.protect.md) 
 
-### [Kekavas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKekavas.personal.md) 
+### [Kekavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.private.md) 
 
-### [Kekavas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKekavas.secret.md)
+### [Kekavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.personal.md) 
+
+### [Kekavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.secret.md)
 

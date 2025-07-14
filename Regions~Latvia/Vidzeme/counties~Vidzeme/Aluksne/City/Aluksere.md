@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aluksere.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.public.md) 
+### [Aluksere](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne/City/Aluksere.md) 
 
-### [Aluksere.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.internal.md) 
+### [Aluksere.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne/City/Aluksere.public.md) 
 
-### [Aluksere.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.protect.md) 
+### [Aluksere.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne/City/Aluksere.internal.md) 
 
-### [Aluksere.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.private.md) 
+### [Aluksere.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne/City/Aluksere.protect.md) 
 
-### [Aluksere.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.personal.md) 
+### [Aluksere.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne/City/Aluksere.private.md) 
 
-### [Aluksere.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.secret.md)
+### [Aluksere.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne/City/Aluksere.personal.md) 
+
+### [Aluksere.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne/City/Aluksere.secret.md)
 

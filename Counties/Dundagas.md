@@ -41,15 +41,17 @@ markerFolder: ./Dundagas/
 
 ## Confidential Links & Embeds: 
 
-### [Dundagas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesDundagas.public.md) 
+### [Dundagas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.md) 
 
-### [Dundagas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesDundagas.internal.md) 
+### [Dundagas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.public.md) 
 
-### [Dundagas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesDundagas.protect.md) 
+### [Dundagas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.internal.md) 
 
-### [Dundagas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesDundagas.private.md) 
+### [Dundagas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.protect.md) 
 
-### [Dundagas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesDundagas.personal.md) 
+### [Dundagas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.private.md) 
 
-### [Dundagas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesDundagas.secret.md)
+### [Dundagas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.personal.md) 
+
+### [Dundagas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.secret.md)
 

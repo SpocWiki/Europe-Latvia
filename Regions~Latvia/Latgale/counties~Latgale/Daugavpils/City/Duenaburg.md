@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Duenaburg.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.public.md) 
+### [Duenaburg](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils/City/Duenaburg.md) 
 
-### [Duenaburg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.internal.md) 
+### [Duenaburg.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils/City/Duenaburg.public.md) 
 
-### [Duenaburg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.protect.md) 
+### [Duenaburg.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils/City/Duenaburg.internal.md) 
 
-### [Duenaburg.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.private.md) 
+### [Duenaburg.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils/City/Duenaburg.protect.md) 
 
-### [Duenaburg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.personal.md) 
+### [Duenaburg.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils/City/Duenaburg.private.md) 
 
-### [Duenaburg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.secret.md)
+### [Duenaburg.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils/City/Duenaburg.personal.md) 
+
+### [Duenaburg.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils/City/Duenaburg.secret.md)
 

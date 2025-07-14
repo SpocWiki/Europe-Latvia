@@ -41,15 +41,17 @@ markerFolder: ./Pargaujas/
 
 ## Confidential Links & Embeds: 
 
-### [Pargaujas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPargaujas.public.md) 
+### [Pargaujas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.md) 
 
-### [Pargaujas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPargaujas.internal.md) 
+### [Pargaujas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.public.md) 
 
-### [Pargaujas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPargaujas.protect.md) 
+### [Pargaujas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.internal.md) 
 
-### [Pargaujas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPargaujas.private.md) 
+### [Pargaujas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.protect.md) 
 
-### [Pargaujas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPargaujas.personal.md) 
+### [Pargaujas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.private.md) 
 
-### [Pargaujas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPargaujas.secret.md)
+### [Pargaujas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.personal.md) 
+
+### [Pargaujas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.secret.md)
 

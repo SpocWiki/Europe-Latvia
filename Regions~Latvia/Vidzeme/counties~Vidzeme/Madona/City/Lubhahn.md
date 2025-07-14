@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lubhahn.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityLubhahn.public.md) 
+### [Lubhahn](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.md) 
 
-### [Lubhahn.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityLubhahn.internal.md) 
+### [Lubhahn.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.public.md) 
 
-### [Lubhahn.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityLubhahn.protect.md) 
+### [Lubhahn.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.internal.md) 
 
-### [Lubhahn.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityLubhahn.private.md) 
+### [Lubhahn.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.protect.md) 
 
-### [Lubhahn.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityLubhahn.personal.md) 
+### [Lubhahn.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.private.md) 
 
-### [Lubhahn.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityLubhahn.secret.md)
+### [Lubhahn.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.personal.md) 
+
+### [Lubhahn.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.secret.md)
 

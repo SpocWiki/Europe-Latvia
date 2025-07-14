@@ -41,15 +41,17 @@ markerFolder: ./Smiltenes/
 
 ## Confidential Links & Embeds: 
 
-### [Smiltenes.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSmiltenes.public.md) 
+### [Smiltenes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Smiltenes.md) 
 
-### [Smiltenes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSmiltenes.internal.md) 
+### [Smiltenes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Smiltenes.public.md) 
 
-### [Smiltenes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSmiltenes.protect.md) 
+### [Smiltenes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Smiltenes.internal.md) 
 
-### [Smiltenes.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSmiltenes.private.md) 
+### [Smiltenes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Smiltenes.protect.md) 
 
-### [Smiltenes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSmiltenes.personal.md) 
+### [Smiltenes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Smiltenes.private.md) 
 
-### [Smiltenes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSmiltenes.secret.md)
+### [Smiltenes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Smiltenes.personal.md) 
+
+### [Smiltenes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Smiltenes.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Krustpils/
 
 ## Confidential Links & Embeds: 
 
-### [Krustpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKrustpils.public.md) 
+### [Krustpils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.md) 
 
-### [Krustpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKrustpils.internal.md) 
+### [Krustpils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.public.md) 
 
-### [Krustpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKrustpils.protect.md) 
+### [Krustpils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.internal.md) 
 
-### [Krustpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKrustpils.private.md) 
+### [Krustpils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.protect.md) 
 
-### [Krustpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKrustpils.personal.md) 
+### [Krustpils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.private.md) 
 
-### [Krustpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKrustpils.secret.md)
+### [Krustpils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.personal.md) 
+
+### [Krustpils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.secret.md)
 

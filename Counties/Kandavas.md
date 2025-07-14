@@ -41,15 +41,17 @@ markerFolder: ./Kandavas/
 
 ## Confidential Links & Embeds: 
 
-### [Kandavas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKandavas.public.md) 
+### [Kandavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.md) 
 
-### [Kandavas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKandavas.internal.md) 
+### [Kandavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.public.md) 
 
-### [Kandavas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKandavas.protect.md) 
+### [Kandavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.internal.md) 
 
-### [Kandavas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKandavas.private.md) 
+### [Kandavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.protect.md) 
 
-### [Kandavas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKandavas.personal.md) 
+### [Kandavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.private.md) 
 
-### [Kandavas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKandavas.secret.md)
+### [Kandavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.personal.md) 
+
+### [Kandavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.secret.md)
 

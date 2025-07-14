@@ -41,15 +41,17 @@ markerFolder: ./Salas/
 
 ## Confidential Links & Embeds: 
 
-### [Salas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalas.public.md) 
+### [Salas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.md) 
 
-### [Salas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalas.internal.md) 
+### [Salas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.public.md) 
 
-### [Salas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalas.protect.md) 
+### [Salas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.internal.md) 
 
-### [Salas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalas.private.md) 
+### [Salas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.protect.md) 
 
-### [Salas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalas.personal.md) 
+### [Salas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.private.md) 
 
-### [Salas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalas.secret.md)
+### [Salas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.personal.md) 
+
+### [Salas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.secret.md)
 

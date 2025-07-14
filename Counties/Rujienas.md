@@ -41,15 +41,17 @@ markerFolder: ./Rujienas/
 
 ## Confidential Links & Embeds: 
 
-### [Rujienas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRujienas.public.md) 
+### [Rujienas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.md) 
 
-### [Rujienas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRujienas.internal.md) 
+### [Rujienas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.public.md) 
 
-### [Rujienas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRujienas.protect.md) 
+### [Rujienas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.internal.md) 
 
-### [Rujienas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRujienas.private.md) 
+### [Rujienas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.protect.md) 
 
-### [Rujienas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRujienas.personal.md) 
+### [Rujienas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.private.md) 
 
-### [Rujienas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRujienas.secret.md)
+### [Rujienas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.personal.md) 
+
+### [Rujienas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.secret.md)
 

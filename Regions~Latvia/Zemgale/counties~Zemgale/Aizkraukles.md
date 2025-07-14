@@ -41,15 +41,17 @@ markerFolder: ./Aizkraukles/
 
 ## Confidential Links & Embeds: 
 
-### [Aizkraukles.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleAizkraukles.public.md) 
+### [Aizkraukles](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Aizkraukles.md) 
 
-### [Aizkraukles.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleAizkraukles.internal.md) 
+### [Aizkraukles.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Aizkraukles.public.md) 
 
-### [Aizkraukles.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleAizkraukles.protect.md) 
+### [Aizkraukles.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Aizkraukles.internal.md) 
 
-### [Aizkraukles.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleAizkraukles.private.md) 
+### [Aizkraukles.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Aizkraukles.protect.md) 
 
-### [Aizkraukles.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleAizkraukles.personal.md) 
+### [Aizkraukles.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Aizkraukles.private.md) 
 
-### [Aizkraukles.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleAizkraukles.secret.md)
+### [Aizkraukles.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Aizkraukles.personal.md) 
+
+### [Aizkraukles.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Aizkraukles.secret.md)
 

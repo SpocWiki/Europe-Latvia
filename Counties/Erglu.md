@@ -41,15 +41,17 @@ markerFolder: ./Erglu/
 
 ## Confidential Links & Embeds: 
 
-### [Erglu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesErglu.public.md) 
+### [Erglu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Erglu.md) 
 
-### [Erglu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesErglu.internal.md) 
+### [Erglu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Erglu.public.md) 
 
-### [Erglu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesErglu.protect.md) 
+### [Erglu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Erglu.internal.md) 
 
-### [Erglu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesErglu.private.md) 
+### [Erglu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Erglu.protect.md) 
 
-### [Erglu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesErglu.personal.md) 
+### [Erglu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Erglu.private.md) 
 
-### [Erglu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesErglu.secret.md)
+### [Erglu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Erglu.personal.md) 
+
+### [Erglu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Erglu.secret.md)
 

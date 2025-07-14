@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Amata.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityAmata.public.md) 
+### [Amata](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Amata.md) 
 
-### [Amata.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityAmata.internal.md) 
+### [Amata.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Amata.public.md) 
 
-### [Amata.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityAmata.protect.md) 
+### [Amata.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Amata.internal.md) 
 
-### [Amata.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityAmata.private.md) 
+### [Amata.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Amata.protect.md) 
 
-### [Amata.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityAmata.personal.md) 
+### [Amata.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Amata.private.md) 
 
-### [Amata.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityAmata.secret.md)
+### [Amata.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Amata.personal.md) 
+
+### [Amata.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Amata.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Vilakas/
 
 ## Confidential Links & Embeds: 
 
-### [Vilakas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVilakas.public.md) 
+### [Vilakas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.md) 
 
-### [Vilakas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVilakas.internal.md) 
+### [Vilakas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.public.md) 
 
-### [Vilakas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVilakas.protect.md) 
+### [Vilakas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.internal.md) 
 
-### [Vilakas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVilakas.private.md) 
+### [Vilakas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.protect.md) 
 
-### [Vilakas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVilakas.personal.md) 
+### [Vilakas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.private.md) 
 
-### [Vilakas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVilakas.secret.md)
+### [Vilakas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.personal.md) 
+
+### [Vilakas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.secret.md)
 

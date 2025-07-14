@@ -41,15 +41,17 @@ markerFolder: ./Pavilostas/
 
 ## Confidential Links & Embeds: 
 
-### [Pavilostas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPavilostas.public.md) 
+### [Pavilostas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.md) 
 
-### [Pavilostas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPavilostas.internal.md) 
+### [Pavilostas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.public.md) 
 
-### [Pavilostas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPavilostas.protect.md) 
+### [Pavilostas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.internal.md) 
 
-### [Pavilostas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPavilostas.private.md) 
+### [Pavilostas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.protect.md) 
 
-### [Pavilostas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPavilostas.personal.md) 
+### [Pavilostas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.private.md) 
 
-### [Pavilostas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPavilostas.secret.md)
+### [Pavilostas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.personal.md) 
+
+### [Pavilostas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.secret.md)
 

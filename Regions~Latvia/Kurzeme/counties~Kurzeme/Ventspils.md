@@ -41,15 +41,17 @@ markerFolder: ./Ventspils/
 
 ## Confidential Links & Embeds: 
 
-### [Ventspils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeVentspils.public.md) 
+### [Ventspils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.md) 
 
-### [Ventspils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeVentspils.internal.md) 
+### [Ventspils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.public.md) 
 
-### [Ventspils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeVentspils.protect.md) 
+### [Ventspils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.internal.md) 
 
-### [Ventspils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeVentspils.private.md) 
+### [Ventspils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.protect.md) 
 
-### [Ventspils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeVentspils.personal.md) 
+### [Ventspils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.private.md) 
 
-### [Ventspils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeVentspils.secret.md)
+### [Ventspils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.personal.md) 
+
+### [Ventspils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Saulkrastu/
 
 ## Confidential Links & Embeds: 
 
-### [Saulkrastu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSaulkrastu.public.md) 
+### [Saulkrastu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.md) 
 
-### [Saulkrastu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSaulkrastu.internal.md) 
+### [Saulkrastu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.public.md) 
 
-### [Saulkrastu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSaulkrastu.protect.md) 
+### [Saulkrastu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.internal.md) 
 
-### [Saulkrastu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSaulkrastu.private.md) 
+### [Saulkrastu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.protect.md) 
 
-### [Saulkrastu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSaulkrastu.personal.md) 
+### [Saulkrastu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.private.md) 
 
-### [Saulkrastu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSaulkrastu.secret.md)
+### [Saulkrastu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.personal.md) 
+
+### [Saulkrastu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.secret.md)
 

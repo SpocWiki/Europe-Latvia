@@ -41,15 +41,17 @@ markerFolder: ./Strencu/
 
 ## Confidential Links & Embeds: 
 
-### [Strencu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStrencu.public.md) 
+### [Strencu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Strencu.md) 
 
-### [Strencu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStrencu.internal.md) 
+### [Strencu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Strencu.public.md) 
 
-### [Strencu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStrencu.protect.md) 
+### [Strencu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Strencu.internal.md) 
 
-### [Strencu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStrencu.private.md) 
+### [Strencu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Strencu.protect.md) 
 
-### [Strencu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStrencu.personal.md) 
+### [Strencu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Strencu.private.md) 
 
-### [Strencu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesStrencu.secret.md)
+### [Strencu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Strencu.personal.md) 
+
+### [Strencu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Strencu.secret.md)
 

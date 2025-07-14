@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bolvi.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Balvu\CityBolvi.public.md) 
+### [Bolvi](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu/City/Bolvi.md) 
 
-### [Bolvi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Balvu\CityBolvi.internal.md) 
+### [Bolvi.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu/City/Bolvi.public.md) 
 
-### [Bolvi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Balvu\CityBolvi.protect.md) 
+### [Bolvi.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu/City/Bolvi.internal.md) 
 
-### [Bolvi.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Balvu\CityBolvi.private.md) 
+### [Bolvi.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu/City/Bolvi.protect.md) 
 
-### [Bolvi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Balvu\CityBolvi.personal.md) 
+### [Bolvi.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu/City/Bolvi.private.md) 
 
-### [Bolvi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Balvu\CityBolvi.secret.md)
+### [Bolvi.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu/City/Bolvi.personal.md) 
+
+### [Bolvi.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu/City/Bolvi.secret.md)
 

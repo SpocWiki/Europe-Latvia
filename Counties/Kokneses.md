@@ -41,15 +41,17 @@ markerFolder: ./Kokneses/
 
 ## Confidential Links & Embeds: 
 
-### [Kokneses.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.public.md) 
+### [Kokneses](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.md) 
 
-### [Kokneses.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.internal.md) 
+### [Kokneses.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.public.md) 
 
-### [Kokneses.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.protect.md) 
+### [Kokneses.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.internal.md) 
 
-### [Kokneses.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.private.md) 
+### [Kokneses.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.protect.md) 
 
-### [Kokneses.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.personal.md) 
+### [Kokneses.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.private.md) 
 
-### [Kokneses.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.secret.md)
+### [Kokneses.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.personal.md) 
+
+### [Kokneses.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.secret.md)
 

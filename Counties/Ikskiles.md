@@ -41,15 +41,17 @@ markerFolder: ./Ikskiles/
 
 ## Confidential Links & Embeds: 
 
-### [Ikskiles.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIkskiles.public.md) 
+### [Ikskiles](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.md) 
 
-### [Ikskiles.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIkskiles.internal.md) 
+### [Ikskiles.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.public.md) 
 
-### [Ikskiles.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIkskiles.protect.md) 
+### [Ikskiles.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.internal.md) 
 
-### [Ikskiles.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIkskiles.private.md) 
+### [Ikskiles.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.protect.md) 
 
-### [Ikskiles.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIkskiles.personal.md) 
+### [Ikskiles.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.private.md) 
 
-### [Ikskiles.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIkskiles.secret.md)
+### [Ikskiles.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.personal.md) 
+
+### [Ikskiles.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.secret.md)
 

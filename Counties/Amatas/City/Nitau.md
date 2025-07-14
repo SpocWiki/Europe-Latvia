@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nitau.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityNitau.public.md) 
+### [Nitau](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Nitau.md) 
 
-### [Nitau.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityNitau.internal.md) 
+### [Nitau.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Nitau.public.md) 
 
-### [Nitau.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityNitau.protect.md) 
+### [Nitau.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Nitau.internal.md) 
 
-### [Nitau.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityNitau.private.md) 
+### [Nitau.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Nitau.protect.md) 
 
-### [Nitau.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityNitau.personal.md) 
+### [Nitau.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Nitau.private.md) 
 
-### [Nitau.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Amatas\CityNitau.secret.md)
+### [Nitau.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Nitau.personal.md) 
+
+### [Nitau.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas/City/Nitau.secret.md)
 

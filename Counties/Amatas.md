@@ -41,15 +41,17 @@ markerFolder: ./Amatas/
 
 ## Confidential Links & Embeds: 
 
-### [Amatas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAmatas.public.md) 
+### [Amatas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas.md) 
 
-### [Amatas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAmatas.internal.md) 
+### [Amatas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas.public.md) 
 
-### [Amatas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAmatas.protect.md) 
+### [Amatas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas.internal.md) 
 
-### [Amatas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAmatas.private.md) 
+### [Amatas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas.protect.md) 
 
-### [Amatas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAmatas.personal.md) 
+### [Amatas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas.private.md) 
 
-### [Amatas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAmatas.secret.md)
+### [Amatas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas.personal.md) 
+
+### [Amatas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Amatas.secret.md)
 

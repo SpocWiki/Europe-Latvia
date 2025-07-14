@@ -41,15 +41,17 @@ markerFolder: ./Ligatnes/
 
 ## Confidential Links & Embeds: 
 
-### [Ligatnes.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.public.md) 
+### [Ligatnes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.md) 
 
-### [Ligatnes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.internal.md) 
+### [Ligatnes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.public.md) 
 
-### [Ligatnes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.protect.md) 
+### [Ligatnes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.internal.md) 
 
-### [Ligatnes.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.private.md) 
+### [Ligatnes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.protect.md) 
 
-### [Ligatnes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.personal.md) 
+### [Ligatnes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.private.md) 
 
-### [Ligatnes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.secret.md)
+### [Ligatnes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.personal.md) 
+
+### [Ligatnes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.secret.md)
 

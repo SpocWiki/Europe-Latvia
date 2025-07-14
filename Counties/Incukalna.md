@@ -41,15 +41,17 @@ markerFolder: ./Incukalna/
 
 ## Confidential Links & Embeds: 
 
-### [Incukalna.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIncukalna.public.md) 
+### [Incukalna](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.md) 
 
-### [Incukalna.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIncukalna.internal.md) 
+### [Incukalna.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.public.md) 
 
-### [Incukalna.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIncukalna.protect.md) 
+### [Incukalna.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.internal.md) 
 
-### [Incukalna.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIncukalna.private.md) 
+### [Incukalna.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.protect.md) 
 
-### [Incukalna.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIncukalna.personal.md) 
+### [Incukalna.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.private.md) 
 
-### [Incukalna.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIncukalna.secret.md)
+### [Incukalna.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.personal.md) 
+
+### [Incukalna.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.secret.md)
 

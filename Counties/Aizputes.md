@@ -41,15 +41,17 @@ markerFolder: ./Aizputes/
 
 ## Confidential Links & Embeds: 
 
-### [Aizputes.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAizputes.public.md) 
+### [Aizputes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.md) 
 
-### [Aizputes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAizputes.internal.md) 
+### [Aizputes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.public.md) 
 
-### [Aizputes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAizputes.protect.md) 
+### [Aizputes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.internal.md) 
 
-### [Aizputes.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAizputes.private.md) 
+### [Aizputes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.protect.md) 
 
-### [Aizputes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAizputes.personal.md) 
+### [Aizputes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.private.md) 
 
-### [Aizputes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAizputes.secret.md)
+### [Aizputes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.personal.md) 
+
+### [Aizputes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goldingen.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGoldingen.public.md) 
+### [Goldingen](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.md) 
 
-### [Goldingen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGoldingen.internal.md) 
+### [Goldingen.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.public.md) 
 
-### [Goldingen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGoldingen.protect.md) 
+### [Goldingen.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.internal.md) 
 
-### [Goldingen.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGoldingen.private.md) 
+### [Goldingen.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.protect.md) 
 
-### [Goldingen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGoldingen.personal.md) 
+### [Goldingen.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.private.md) 
 
-### [Goldingen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGoldingen.secret.md)
+### [Goldingen.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.personal.md) 
+
+### [Goldingen.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.secret.md)
 

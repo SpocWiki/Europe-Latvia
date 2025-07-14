@@ -41,15 +41,17 @@ markerFolder: ./Skrundas/
 
 ## Confidential Links & Embeds: 
 
-### [Skrundas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSkrundas.public.md) 
+### [Skrundas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.md) 
 
-### [Skrundas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSkrundas.internal.md) 
+### [Skrundas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.public.md) 
 
-### [Skrundas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSkrundas.protect.md) 
+### [Skrundas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.internal.md) 
 
-### [Skrundas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSkrundas.private.md) 
+### [Skrundas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.protect.md) 
 
-### [Skrundas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSkrundas.personal.md) 
+### [Skrundas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.private.md) 
 
-### [Skrundas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSkrundas.secret.md)
+### [Skrundas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.personal.md) 
+
+### [Skrundas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mitau.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.public.md) 
+### [Mitau](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava/City/Mitau.md) 
 
-### [Mitau.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.internal.md) 
+### [Mitau.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava/City/Mitau.public.md) 
 
-### [Mitau.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.protect.md) 
+### [Mitau.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava/City/Mitau.internal.md) 
 
-### [Mitau.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.private.md) 
+### [Mitau.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava/City/Mitau.protect.md) 
 
-### [Mitau.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.personal.md) 
+### [Mitau.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava/City/Mitau.private.md) 
 
-### [Mitau.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.secret.md)
+### [Mitau.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava/City/Mitau.personal.md) 
+
+### [Mitau.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava/City/Mitau.secret.md)
 

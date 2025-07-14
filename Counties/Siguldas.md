@@ -41,15 +41,17 @@ markerFolder: ./Siguldas/
 
 ## Confidential Links & Embeds: 
 
-### [Siguldas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSiguldas.public.md) 
+### [Siguldas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.md) 
 
-### [Siguldas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSiguldas.internal.md) 
+### [Siguldas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.public.md) 
 
-### [Siguldas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSiguldas.protect.md) 
+### [Siguldas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.internal.md) 
 
-### [Siguldas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSiguldas.private.md) 
+### [Siguldas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.protect.md) 
 
-### [Siguldas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSiguldas.personal.md) 
+### [Siguldas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.private.md) 
 
-### [Siguldas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSiguldas.secret.md)
+### [Siguldas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.personal.md) 
+
+### [Siguldas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.secret.md)
 

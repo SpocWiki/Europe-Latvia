@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Golkovska.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.public.md) 
+### [Golkovska](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene/City/Golkovska.md) 
 
-### [Golkovska.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.internal.md) 
+### [Golkovska.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene/City/Golkovska.public.md) 
 
-### [Golkovska.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.protect.md) 
+### [Golkovska.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene/City/Golkovska.internal.md) 
 
-### [Golkovska.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.private.md) 
+### [Golkovska.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene/City/Golkovska.protect.md) 
 
-### [Golkovska.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.personal.md) 
+### [Golkovska.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene/City/Golkovska.private.md) 
 
-### [Golkovska.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.secret.md)
+### [Golkovska.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene/City/Golkovska.personal.md) 
+
+### [Golkovska.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene/City/Golkovska.secret.md)
 

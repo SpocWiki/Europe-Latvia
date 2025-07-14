@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ludza.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.public.md) 
+### [Ludza](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.md) 
 
-### [Ludza.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.internal.md) 
+### [Ludza.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.public.md) 
 
-### [Ludza.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.protect.md) 
+### [Ludza.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.internal.md) 
 
-### [Ludza.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.private.md) 
+### [Ludza.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.protect.md) 
 
-### [Ludza.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.personal.md) 
+### [Ludza.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.private.md) 
 
-### [Ludza.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.secret.md)
+### [Ludza.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.personal.md) 
+
+### [Ludza.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.secret.md)
 

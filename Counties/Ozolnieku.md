@@ -41,15 +41,17 @@ markerFolder: ./Ozolnieku/
 
 ## Confidential Links & Embeds: 
 
-### [Ozolnieku.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOzolnieku.public.md) 
+### [Ozolnieku](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.md) 
 
-### [Ozolnieku.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOzolnieku.internal.md) 
+### [Ozolnieku.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.public.md) 
 
-### [Ozolnieku.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOzolnieku.protect.md) 
+### [Ozolnieku.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.internal.md) 
 
-### [Ozolnieku.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOzolnieku.private.md) 
+### [Ozolnieku.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.protect.md) 
 
-### [Ozolnieku.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOzolnieku.personal.md) 
+### [Ozolnieku.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.private.md) 
 
-### [Ozolnieku.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOzolnieku.secret.md)
+### [Ozolnieku.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.personal.md) 
+
+### [Ozolnieku.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.secret.md)
 

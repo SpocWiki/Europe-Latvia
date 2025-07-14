@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Riga.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.public.md) 
+### [Riga](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.md) 
 
-### [Riga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.internal.md) 
+### [Riga.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.public.md) 
 
-### [Riga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.protect.md) 
+### [Riga.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.internal.md) 
 
-### [Riga.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.private.md) 
+### [Riga.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.protect.md) 
 
-### [Riga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.personal.md) 
+### [Riga.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.private.md) 
 
-### [Riga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.secret.md)
+### [Riga.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.personal.md) 
+
+### [Riga.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.secret.md)
 

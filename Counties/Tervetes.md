@@ -41,15 +41,17 @@ markerFolder: ./Tervetes/
 
 ## Confidential Links & Embeds: 
 
-### [Tervetes.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesTervetes.public.md) 
+### [Tervetes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.md) 
 
-### [Tervetes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesTervetes.internal.md) 
+### [Tervetes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.public.md) 
 
-### [Tervetes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesTervetes.protect.md) 
+### [Tervetes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.internal.md) 
 
-### [Tervetes.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesTervetes.private.md) 
+### [Tervetes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.protect.md) 
 
-### [Tervetes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesTervetes.personal.md) 
+### [Tervetes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.private.md) 
 
-### [Tervetes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesTervetes.secret.md)
+### [Tervetes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.personal.md) 
+
+### [Tervetes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.secret.md)
 

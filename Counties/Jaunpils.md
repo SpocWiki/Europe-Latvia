@@ -41,15 +41,17 @@ markerFolder: ./Jaunpils/
 
 ## Confidential Links & Embeds: 
 
-### [Jaunpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJaunpils.public.md) 
+### [Jaunpils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.md) 
 
-### [Jaunpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJaunpils.internal.md) 
+### [Jaunpils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.public.md) 
 
-### [Jaunpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJaunpils.protect.md) 
+### [Jaunpils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.internal.md) 
 
-### [Jaunpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJaunpils.private.md) 
+### [Jaunpils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.protect.md) 
 
-### [Jaunpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJaunpils.personal.md) 
+### [Jaunpils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.private.md) 
 
-### [Jaunpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJaunpils.secret.md)
+### [Jaunpils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.personal.md) 
+
+### [Jaunpils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.secret.md)
 

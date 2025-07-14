@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grobina.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGrobina.public.md) 
+### [Grobina](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Grobina.md) 
 
-### [Grobina.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGrobina.internal.md) 
+### [Grobina.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Grobina.public.md) 
 
-### [Grobina.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGrobina.protect.md) 
+### [Grobina.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Grobina.internal.md) 
 
-### [Grobina.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGrobina.private.md) 
+### [Grobina.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Grobina.protect.md) 
 
-### [Grobina.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGrobina.personal.md) 
+### [Grobina.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Grobina.private.md) 
 
-### [Grobina.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityGrobina.secret.md)
+### [Grobina.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Grobina.personal.md) 
+
+### [Grobina.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Grobina.secret.md)
 

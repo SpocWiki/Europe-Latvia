@@ -41,15 +41,17 @@ markerFolder: ./Ciblas/
 
 ## Confidential Links & Embeds: 
 
-### [Ciblas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesCiblas.public.md) 
+### [Ciblas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.md) 
 
-### [Ciblas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesCiblas.internal.md) 
+### [Ciblas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.public.md) 
 
-### [Ciblas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesCiblas.protect.md) 
+### [Ciblas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.internal.md) 
 
-### [Ciblas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesCiblas.private.md) 
+### [Ciblas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.protect.md) 
 
-### [Ciblas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesCiblas.personal.md) 
+### [Ciblas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.private.md) 
 
-### [Ciblas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesCiblas.secret.md)
+### [Ciblas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.personal.md) 
+
+### [Ciblas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.secret.md)
 

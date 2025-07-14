@@ -41,15 +41,17 @@ markerFolder: ./Mersraga/
 
 ## Confidential Links & Embeds: 
 
-### [Mersraga.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMersraga.public.md) 
+### [Mersraga](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mersraga.md) 
 
-### [Mersraga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMersraga.internal.md) 
+### [Mersraga.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mersraga.public.md) 
 
-### [Mersraga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMersraga.protect.md) 
+### [Mersraga.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mersraga.internal.md) 
 
-### [Mersraga.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMersraga.private.md) 
+### [Mersraga.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mersraga.protect.md) 
 
-### [Mersraga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMersraga.personal.md) 
+### [Mersraga.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mersraga.private.md) 
 
-### [Mersraga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMersraga.secret.md)
+### [Mersraga.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mersraga.personal.md) 
+
+### [Mersraga.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mersraga.secret.md)
 

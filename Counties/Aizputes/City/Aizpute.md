@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aizpute.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Aizputes\CityAizpute.public.md) 
+### [Aizpute](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes/City/Aizpute.md) 
 
-### [Aizpute.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Aizputes\CityAizpute.internal.md) 
+### [Aizpute.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes/City/Aizpute.public.md) 
 
-### [Aizpute.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Aizputes\CityAizpute.protect.md) 
+### [Aizpute.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes/City/Aizpute.internal.md) 
 
-### [Aizpute.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Aizputes\CityAizpute.private.md) 
+### [Aizpute.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes/City/Aizpute.protect.md) 
 
-### [Aizpute.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Aizputes\CityAizpute.personal.md) 
+### [Aizpute.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes/City/Aizpute.private.md) 
 
-### [Aizpute.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Aizputes\CityAizpute.secret.md)
+### [Aizpute.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes/City/Aizpute.personal.md) 
+
+### [Aizpute.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aizputes/City/Aizpute.secret.md)
 

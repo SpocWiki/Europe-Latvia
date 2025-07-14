@@ -41,15 +41,17 @@ markerFolder: ./Rojas/
 
 ## Confidential Links & Embeds: 
 
-### [Rojas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRojas.public.md) 
+### [Rojas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rojas.md) 
 
-### [Rojas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRojas.internal.md) 
+### [Rojas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rojas.public.md) 
 
-### [Rojas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRojas.protect.md) 
+### [Rojas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rojas.internal.md) 
 
-### [Rojas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRojas.private.md) 
+### [Rojas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rojas.protect.md) 
 
-### [Rojas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRojas.personal.md) 
+### [Rojas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rojas.private.md) 
 
-### [Rojas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRojas.secret.md)
+### [Rojas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rojas.personal.md) 
+
+### [Rojas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rojas.secret.md)
 

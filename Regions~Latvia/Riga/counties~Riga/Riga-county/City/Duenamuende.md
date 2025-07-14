@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Duenamuende.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.public.md) 
+### [Duenamuende](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Duenamuende.md) 
 
-### [Duenamuende.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.internal.md) 
+### [Duenamuende.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Duenamuende.public.md) 
 
-### [Duenamuende.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.protect.md) 
+### [Duenamuende.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Duenamuende.internal.md) 
 
-### [Duenamuende.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.private.md) 
+### [Duenamuende.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Duenamuende.protect.md) 
 
-### [Duenamuende.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.personal.md) 
+### [Duenamuende.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Duenamuende.private.md) 
 
-### [Duenamuende.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.secret.md)
+### [Duenamuende.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Duenamuende.personal.md) 
+
+### [Duenamuende.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Duenamuende.secret.md)
 

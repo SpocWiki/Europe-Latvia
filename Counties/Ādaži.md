@@ -41,15 +41,17 @@ markerFolder: ./Ādaži/
 
 ## Confidential Links & Embeds: 
 
-### [Ādaži.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesĀdaži.public.md) 
+### [Ādaži](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.md) 
 
-### [Ādaži.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesĀdaži.internal.md) 
+### [Ādaži.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.public.md) 
 
-### [Ādaži.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesĀdaži.protect.md) 
+### [Ādaži.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.internal.md) 
 
-### [Ādaži.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesĀdaži.private.md) 
+### [Ādaži.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.protect.md) 
 
-### [Ādaži.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesĀdaži.personal.md) 
+### [Ādaži.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.private.md) 
 
-### [Ādaži.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesĀdaži.secret.md)
+### [Ādaži.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.personal.md) 
+
+### [Ādaži.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.secret.md)
 

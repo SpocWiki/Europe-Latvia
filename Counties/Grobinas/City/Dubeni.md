@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dubeni.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.public.md) 
+### [Dubeni](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Dubeni.md) 
 
-### [Dubeni.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.internal.md) 
+### [Dubeni.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Dubeni.public.md) 
 
-### [Dubeni.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.protect.md) 
+### [Dubeni.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Dubeni.internal.md) 
 
-### [Dubeni.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.private.md) 
+### [Dubeni.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Dubeni.protect.md) 
 
-### [Dubeni.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.personal.md) 
+### [Dubeni.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Dubeni.private.md) 
 
-### [Dubeni.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.secret.md)
+### [Dubeni.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Dubeni.personal.md) 
+
+### [Dubeni.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Dubeni.secret.md)
 

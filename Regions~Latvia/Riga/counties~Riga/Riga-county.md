@@ -41,15 +41,17 @@ markerFolder: ./Riga/
 
 ## Confidential Links & Embeds: 
 
-### [Riga-county.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.public.md) 
+### [Riga-county](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county.md) 
 
-### [Riga-county.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.internal.md) 
+### [Riga-county.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county.public.md) 
 
-### [Riga-county.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.protect.md) 
+### [Riga-county.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county.internal.md) 
 
-### [Riga-county.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.private.md) 
+### [Riga-county.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county.protect.md) 
 
-### [Riga-county.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.personal.md) 
+### [Riga-county.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county.private.md) 
 
-### [Riga-county.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.secret.md)
+### [Riga-county.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county.personal.md) 
+
+### [Riga-county.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county.secret.md)
 

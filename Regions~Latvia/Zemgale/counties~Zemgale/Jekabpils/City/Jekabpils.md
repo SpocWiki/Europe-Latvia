@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jekabpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.public.md) 
+### [Jekabpils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.md) 
 
-### [Jekabpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.internal.md) 
+### [Jekabpils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.public.md) 
 
-### [Jekabpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.protect.md) 
+### [Jekabpils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.internal.md) 
 
-### [Jekabpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.private.md) 
+### [Jekabpils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.protect.md) 
 
-### [Jekabpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.personal.md) 
+### [Jekabpils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.private.md) 
 
-### [Jekabpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.secret.md)
+### [Jekabpils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.personal.md) 
+
+### [Jekabpils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cesis.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.public.md) 
+### [Cesis](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/City/Cesis.md) 
 
-### [Cesis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.internal.md) 
+### [Cesis.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/City/Cesis.public.md) 
 
-### [Cesis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.protect.md) 
+### [Cesis.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/City/Cesis.internal.md) 
 
-### [Cesis.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.private.md) 
+### [Cesis.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/City/Cesis.protect.md) 
 
-### [Cesis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.personal.md) 
+### [Cesis.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/City/Cesis.private.md) 
 
-### [Cesis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.secret.md)
+### [Cesis.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/City/Cesis.personal.md) 
+
+### [Cesis.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/City/Cesis.secret.md)
 

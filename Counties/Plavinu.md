@@ -41,15 +41,17 @@ markerFolder: ./Plavinu/
 
 ## Confidential Links & Embeds: 
 
-### [Plavinu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPlavinu.public.md) 
+### [Plavinu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Plavinu.md) 
 
-### [Plavinu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPlavinu.internal.md) 
+### [Plavinu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Plavinu.public.md) 
 
-### [Plavinu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPlavinu.protect.md) 
+### [Plavinu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Plavinu.internal.md) 
 
-### [Plavinu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPlavinu.private.md) 
+### [Plavinu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Plavinu.protect.md) 
 
-### [Plavinu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPlavinu.personal.md) 
+### [Plavinu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Plavinu.private.md) 
 
-### [Plavinu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesPlavinu.secret.md)
+### [Plavinu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Plavinu.personal.md) 
+
+### [Plavinu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Plavinu.secret.md)
 

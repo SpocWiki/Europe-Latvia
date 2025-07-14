@@ -41,15 +41,17 @@ markerFolder: ./Mazsalacas/
 
 ## Confidential Links & Embeds: 
 
-### [Mazsalacas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMazsalacas.public.md) 
+### [Mazsalacas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mazsalacas.md) 
 
-### [Mazsalacas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMazsalacas.internal.md) 
+### [Mazsalacas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mazsalacas.public.md) 
 
-### [Mazsalacas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMazsalacas.protect.md) 
+### [Mazsalacas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mazsalacas.internal.md) 
 
-### [Mazsalacas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMazsalacas.private.md) 
+### [Mazsalacas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mazsalacas.protect.md) 
 
-### [Mazsalacas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMazsalacas.personal.md) 
+### [Mazsalacas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mazsalacas.private.md) 
 
-### [Mazsalacas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMazsalacas.secret.md)
+### [Mazsalacas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mazsalacas.personal.md) 
+
+### [Mazsalacas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Mazsalacas.secret.md)
 

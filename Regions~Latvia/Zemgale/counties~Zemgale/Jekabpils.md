@@ -41,15 +41,17 @@ markerFolder: ./Jekabpils/
 
 ## Confidential Links & Embeds: 
 
-### [Jekabpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.public.md) 
+### [Jekabpils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.md) 
 
-### [Jekabpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.internal.md) 
+### [Jekabpils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.public.md) 
 
-### [Jekabpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.protect.md) 
+### [Jekabpils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.internal.md) 
 
-### [Jekabpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.private.md) 
+### [Jekabpils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.protect.md) 
 
-### [Jekabpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.personal.md) 
+### [Jekabpils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.private.md) 
 
-### [Jekabpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.secret.md)
+### [Jekabpils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.personal.md) 
+
+### [Jekabpils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.secret.md)
 

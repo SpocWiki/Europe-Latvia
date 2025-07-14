@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zilupe.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.public.md) 
+### [Zilupe](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.md) 
 
-### [Zilupe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.internal.md) 
+### [Zilupe.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.public.md) 
 
-### [Zilupe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.protect.md) 
+### [Zilupe.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.internal.md) 
 
-### [Zilupe.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.private.md) 
+### [Zilupe.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.protect.md) 
 
-### [Zilupe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.personal.md) 
+### [Zilupe.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.private.md) 
 
-### [Zilupe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.secret.md)
+### [Zilupe.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.personal.md) 
+
+### [Zilupe.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.secret.md)
 

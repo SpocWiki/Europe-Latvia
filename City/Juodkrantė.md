@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Juodkrantė.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.public.md) 
+### [Juodkrantė](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/City/Juodkrantė.md) 
 
-### [Juodkrantė.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.internal.md) 
+### [Juodkrantė.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/City/Juodkrantė.public.md) 
 
-### [Juodkrantė.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.protect.md) 
+### [Juodkrantė.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/City/Juodkrantė.internal.md) 
 
-### [Juodkrantė.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.private.md) 
+### [Juodkrantė.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/City/Juodkrantė.protect.md) 
 
-### [Juodkrantė.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.personal.md) 
+### [Juodkrantė.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/City/Juodkrantė.private.md) 
 
-### [Juodkrantė.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.secret.md)
+### [Juodkrantė.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/City/Juodkrantė.personal.md) 
+
+### [Juodkrantė.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/City/Juodkrantė.secret.md)
 

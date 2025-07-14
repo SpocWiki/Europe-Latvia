@@ -41,15 +41,17 @@ markerFolder: ./Baltinavas/
 
 ## Confidential Links & Embeds: 
 
-### [Baltinavas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBaltinavas.public.md) 
+### [Baltinavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.md) 
 
-### [Baltinavas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBaltinavas.internal.md) 
+### [Baltinavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.public.md) 
 
-### [Baltinavas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBaltinavas.protect.md) 
+### [Baltinavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.internal.md) 
 
-### [Baltinavas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBaltinavas.private.md) 
+### [Baltinavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.protect.md) 
 
-### [Baltinavas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBaltinavas.personal.md) 
+### [Baltinavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.private.md) 
 
-### [Baltinavas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBaltinavas.secret.md)
+### [Baltinavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.personal.md) 
+
+### [Baltinavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.secret.md)
 

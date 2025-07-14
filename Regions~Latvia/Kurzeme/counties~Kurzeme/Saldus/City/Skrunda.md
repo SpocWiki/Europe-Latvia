@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skrunda.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.public.md) 
+### [Skrunda](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus/City/Skrunda.md) 
 
-### [Skrunda.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.internal.md) 
+### [Skrunda.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus/City/Skrunda.public.md) 
 
-### [Skrunda.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.protect.md) 
+### [Skrunda.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus/City/Skrunda.internal.md) 
 
-### [Skrunda.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.private.md) 
+### [Skrunda.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus/City/Skrunda.protect.md) 
 
-### [Skrunda.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.personal.md) 
+### [Skrunda.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus/City/Skrunda.private.md) 
 
-### [Skrunda.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.secret.md)
+### [Skrunda.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus/City/Skrunda.personal.md) 
+
+### [Skrunda.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus/City/Skrunda.secret.md)
 

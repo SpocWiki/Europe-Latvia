@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuldiga.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.public.md) 
+### [Kuldiga](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga/City/Kuldiga.md) 
 
-### [Kuldiga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.internal.md) 
+### [Kuldiga.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga/City/Kuldiga.public.md) 
 
-### [Kuldiga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.protect.md) 
+### [Kuldiga.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga/City/Kuldiga.internal.md) 
 
-### [Kuldiga.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.private.md) 
+### [Kuldiga.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga/City/Kuldiga.protect.md) 
 
-### [Kuldiga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.personal.md) 
+### [Kuldiga.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga/City/Kuldiga.private.md) 
 
-### [Kuldiga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.secret.md)
+### [Kuldiga.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga/City/Kuldiga.personal.md) 
+
+### [Kuldiga.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga/City/Kuldiga.secret.md)
 

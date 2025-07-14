@@ -41,15 +41,17 @@ markerFolder: ./Beverinas/
 
 ## Confidential Links & Embeds: 
 
-### [Beverinas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBeverinas.public.md) 
+### [Beverinas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.md) 
 
-### [Beverinas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBeverinas.internal.md) 
+### [Beverinas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.public.md) 
 
-### [Beverinas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBeverinas.protect.md) 
+### [Beverinas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.internal.md) 
 
-### [Beverinas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBeverinas.private.md) 
+### [Beverinas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.protect.md) 
 
-### [Beverinas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBeverinas.personal.md) 
+### [Beverinas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.private.md) 
 
-### [Beverinas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBeverinas.secret.md)
+### [Beverinas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.personal.md) 
+
+### [Beverinas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.secret.md)
 

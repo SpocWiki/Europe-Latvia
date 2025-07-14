@@ -41,15 +41,17 @@ markerFolder: ./Burtnieku/
 
 ## Confidential Links & Embeds: 
 
-### [Burtnieku.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBurtnieku.public.md) 
+### [Burtnieku](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.md) 
 
-### [Burtnieku.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBurtnieku.internal.md) 
+### [Burtnieku.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.public.md) 
 
-### [Burtnieku.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBurtnieku.protect.md) 
+### [Burtnieku.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.internal.md) 
 
-### [Burtnieku.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBurtnieku.private.md) 
+### [Burtnieku.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.protect.md) 
 
-### [Burtnieku.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBurtnieku.personal.md) 
+### [Burtnieku.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.private.md) 
 
-### [Burtnieku.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBurtnieku.secret.md)
+### [Burtnieku.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.personal.md) 
+
+### [Burtnieku.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Kraslavas/
 
 ## Confidential Links & Embeds: 
 
-### [Kraslavas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleKraslavas.public.md) 
+### [Kraslavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.md) 
 
-### [Kraslavas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleKraslavas.internal.md) 
+### [Kraslavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.public.md) 
 
-### [Kraslavas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleKraslavas.protect.md) 
+### [Kraslavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.internal.md) 
 
-### [Kraslavas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleKraslavas.private.md) 
+### [Kraslavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.protect.md) 
 
-### [Kraslavas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleKraslavas.personal.md) 
+### [Kraslavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.private.md) 
 
-### [Kraslavas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleKraslavas.secret.md)
+### [Kraslavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.personal.md) 
+
+### [Kraslavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.secret.md)
 

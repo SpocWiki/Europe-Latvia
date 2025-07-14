@@ -41,15 +41,17 @@ markerFolder: ./Kuldigas/
 
 ## Confidential Links & Embeds: 
 
-### [Kuldiga.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeKuldiga.public.md) 
+### [Kuldiga](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga.md) 
 
-### [Kuldiga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeKuldiga.internal.md) 
+### [Kuldiga.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga.public.md) 
 
-### [Kuldiga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeKuldiga.protect.md) 
+### [Kuldiga.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga.internal.md) 
 
-### [Kuldiga.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeKuldiga.private.md) 
+### [Kuldiga.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga.protect.md) 
 
-### [Kuldiga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeKuldiga.personal.md) 
+### [Kuldiga.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga.private.md) 
 
-### [Kuldiga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeKuldiga.secret.md)
+### [Kuldiga.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga.personal.md) 
+
+### [Kuldiga.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Kuldiga.secret.md)
 
