@@ -40,11 +40,16 @@ markerFolder: ./Preilu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu|Preilu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.public|Preilu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.internal|Preilu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.protect|Preilu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.private|Preilu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.personal|Preilu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.secret|Preilu.secret]] 
+
+### [Preilu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgalePreilu.public.md) 
+
+### [Preilu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgalePreilu.internal.md) 
+
+### [Preilu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgalePreilu.protect.md) 
+
+### [Preilu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgalePreilu.private.md) 
+
+### [Preilu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgalePreilu.personal.md) 
+
+### [Preilu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgalePreilu.secret.md)
 

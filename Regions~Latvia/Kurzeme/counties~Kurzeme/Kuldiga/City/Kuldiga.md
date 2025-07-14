@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kuldiga|Kuldiga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kuldiga.public|Kuldiga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kuldiga.internal|Kuldiga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kuldiga.protect|Kuldiga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kuldiga.private|Kuldiga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kuldiga.personal|Kuldiga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kuldiga.secret|Kuldiga.secret]] 
+
+### [Kuldiga.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.public.md) 
+
+### [Kuldiga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.internal.md) 
+
+### [Kuldiga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.protect.md) 
+
+### [Kuldiga.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.private.md) 
+
+### [Kuldiga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.personal.md) 
+
+### [Kuldiga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Kuldiga\CityKuldiga.secret.md)
+

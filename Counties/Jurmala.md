@@ -40,11 +40,16 @@ markerFolder: ./Jurmala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Jurmala|Jurmala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Jurmala.public|Jurmala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jurmala.internal|Jurmala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Jurmala.protect|Jurmala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Jurmala.private|Jurmala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jurmala.personal|Jurmala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Jurmala.secret|Jurmala.secret]] 
+
+### [Jurmala.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJurmala.public.md) 
+
+### [Jurmala.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJurmala.internal.md) 
+
+### [Jurmala.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJurmala.protect.md) 
+
+### [Jurmala.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJurmala.private.md) 
+
+### [Jurmala.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJurmala.personal.md) 
+
+### [Jurmala.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesJurmala.secret.md)
 

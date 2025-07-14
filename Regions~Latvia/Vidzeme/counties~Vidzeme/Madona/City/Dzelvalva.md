@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Dzelvalva|Dzelvalva]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Dzelvalva.public|Dzelvalva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Dzelvalva.internal|Dzelvalva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Dzelvalva.protect|Dzelvalva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Dzelvalva.private|Dzelvalva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Dzelvalva.personal|Dzelvalva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Dzelvalva.secret|Dzelvalva.secret]] 
+
+### [Dzelvalva.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityDzelvalva.public.md) 
+
+### [Dzelvalva.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityDzelvalva.internal.md) 
+
+### [Dzelvalva.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityDzelvalva.protect.md) 
+
+### [Dzelvalva.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityDzelvalva.private.md) 
+
+### [Dzelvalva.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityDzelvalva.personal.md) 
+
+### [Dzelvalva.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityDzelvalva.secret.md)
+

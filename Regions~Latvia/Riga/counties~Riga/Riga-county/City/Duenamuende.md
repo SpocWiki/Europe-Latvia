@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Duenamuende|Duenamuende]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Duenamuende.public|Duenamuende.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Duenamuende.internal|Duenamuende.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Duenamuende.protect|Duenamuende.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Duenamuende.private|Duenamuende.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Duenamuende.personal|Duenamuende.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Duenamuende.secret|Duenamuende.secret]] 
+
+### [Duenamuende.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.public.md) 
+
+### [Duenamuende.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.internal.md) 
+
+### [Duenamuende.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.protect.md) 
+
+### [Duenamuende.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.private.md) 
+
+### [Duenamuende.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.personal.md) 
+
+### [Duenamuende.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityDuenamuende.secret.md)
+

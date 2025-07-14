@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Daugavpils|Daugavpils]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Daugavpils.public|Daugavpils.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Daugavpils.internal|Daugavpils.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Daugavpils.protect|Daugavpils.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Daugavpils.private|Daugavpils.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Daugavpils.personal|Daugavpils.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Daugavpils.secret|Daugavpils.secret]] 
+
+### [Daugavpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDaugavpils.public.md) 
+
+### [Daugavpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDaugavpils.internal.md) 
+
+### [Daugavpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDaugavpils.protect.md) 
+
+### [Daugavpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDaugavpils.private.md) 
+
+### [Daugavpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDaugavpils.personal.md) 
+
+### [Daugavpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDaugavpils.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Ekengrav|Ekengrav]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Ekengrav.public|Ekengrav.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Ekengrav.internal|Ekengrav.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Ekengrav.protect|Ekengrav.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Ekengrav.private|Ekengrav.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Ekengrav.personal|Ekengrav.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Ekengrav.secret|Ekengrav.secret]] 
+
+### [Ekengrav.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Viesites\CityEkengrav.public.md) 
+
+### [Ekengrav.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Viesites\CityEkengrav.internal.md) 
+
+### [Ekengrav.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Viesites\CityEkengrav.protect.md) 
+
+### [Ekengrav.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Viesites\CityEkengrav.private.md) 
+
+### [Ekengrav.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Viesites\CityEkengrav.personal.md) 
+
+### [Ekengrav.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Viesites\CityEkengrav.secret.md)
+

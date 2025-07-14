@@ -40,11 +40,16 @@ markerFolder: ./Auces/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces|Auces]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.public|Auces.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.internal|Auces.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.protect|Auces.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.private|Auces.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.personal|Auces.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.secret|Auces.secret]] 
+
+### [Auces.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAuces.public.md) 
+
+### [Auces.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAuces.internal.md) 
+
+### [Auces.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAuces.protect.md) 
+
+### [Auces.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAuces.private.md) 
+
+### [Auces.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAuces.personal.md) 
+
+### [Auces.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAuces.secret.md)
 

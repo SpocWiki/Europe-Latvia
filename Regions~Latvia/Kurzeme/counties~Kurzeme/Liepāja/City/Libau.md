@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Libau|Libau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Libau.public|Libau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Libau.internal|Libau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Libau.protect|Libau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Libau.private|Libau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Libau.personal|Libau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Libau.secret|Libau.secret]] 
+
+### [Libau.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Liepāja\CityLibau.public.md) 
+
+### [Libau.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Liepāja\CityLibau.internal.md) 
+
+### [Libau.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Liepāja\CityLibau.protect.md) 
+
+### [Libau.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Liepāja\CityLibau.private.md) 
+
+### [Libau.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Liepāja\CityLibau.personal.md) 
+
+### [Libau.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Liepāja\CityLibau.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Jaun_Jelgava|Jaun_Jelgava]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Jaun_Jelgava.public|Jaun_Jelgava.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Jaun_Jelgava.internal|Jaun_Jelgava.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Jaun_Jelgava.protect|Jaun_Jelgava.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Jaun_Jelgava.private|Jaun_Jelgava.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Jaun_Jelgava.personal|Jaun_Jelgava.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Jaun_Jelgava.secret|Jaun_Jelgava.secret]] 
+
+### [Jaun_Jelgava.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Jaunjelgavas\CityJaun_Jelgava.public.md) 
+
+### [Jaun_Jelgava.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Jaunjelgavas\CityJaun_Jelgava.internal.md) 
+
+### [Jaun_Jelgava.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Jaunjelgavas\CityJaun_Jelgava.protect.md) 
+
+### [Jaun_Jelgava.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Jaunjelgavas\CityJaun_Jelgava.private.md) 
+
+### [Jaun_Jelgava.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Jaunjelgavas\CityJaun_Jelgava.personal.md) 
+
+### [Jaun_Jelgava.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Jaunjelgavas\CityJaun_Jelgava.secret.md)
+

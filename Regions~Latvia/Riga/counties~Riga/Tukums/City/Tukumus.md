@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Tukumus|Tukumus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Tukumus.public|Tukumus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Tukumus.internal|Tukumus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Tukumus.protect|Tukumus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Tukumus.private|Tukumus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Tukumus.personal|Tukumus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Tukumus.secret|Tukumus.secret]] 
+
+### [Tukumus.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.public.md) 
+
+### [Tukumus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.internal.md) 
+
+### [Tukumus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.protect.md) 
+
+### [Tukumus.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.private.md) 
+
+### [Tukumus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.personal.md) 
+
+### [Tukumus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Tukums\CityTukumus.secret.md)
+

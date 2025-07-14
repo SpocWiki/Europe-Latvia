@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Zilupe|Zilupe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Zilupe.public|Zilupe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Zilupe.internal|Zilupe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Zilupe.protect|Zilupe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Zilupe.private|Zilupe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Zilupe.personal|Zilupe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Zilupe.secret|Zilupe.secret]] 
+
+### [Zilupe.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.public.md) 
+
+### [Zilupe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.internal.md) 
+
+### [Zilupe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.protect.md) 
+
+### [Zilupe.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.private.md) 
+
+### [Zilupe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.personal.md) 
+
+### [Zilupe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Zilupes\CityZilupe.secret.md)
+

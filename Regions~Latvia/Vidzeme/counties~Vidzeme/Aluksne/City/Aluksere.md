@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Aluksere|Aluksere]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Aluksere.public|Aluksere.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Aluksere.internal|Aluksere.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Aluksere.protect|Aluksere.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Aluksere.private|Aluksere.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Aluksere.personal|Aluksere.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Aluksere.secret|Aluksere.secret]] 
+
+### [Aluksere.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.public.md) 
+
+### [Aluksere.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.internal.md) 
+
+### [Aluksere.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.protect.md) 
+
+### [Aluksere.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.private.md) 
+
+### [Aluksere.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.personal.md) 
+
+### [Aluksere.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Aluksne\CityAluksere.secret.md)
+

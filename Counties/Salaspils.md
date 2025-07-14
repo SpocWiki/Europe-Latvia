@@ -40,11 +40,16 @@ markerFolder: ./Salaspils/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Salaspils|Salaspils]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Salaspils.public|Salaspils.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Salaspils.internal|Salaspils.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Salaspils.protect|Salaspils.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Salaspils.private|Salaspils.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Salaspils.personal|Salaspils.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Salaspils.secret|Salaspils.secret]] 
+
+### [Salaspils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalaspils.public.md) 
+
+### [Salaspils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalaspils.internal.md) 
+
+### [Salaspils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalaspils.protect.md) 
+
+### [Salaspils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalaspils.private.md) 
+
+### [Salaspils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalaspils.personal.md) 
+
+### [Salaspils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSalaspils.secret.md)
 

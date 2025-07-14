@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Ludza|Ludza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Ludza.public|Ludza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Ludza.internal|Ludza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Ludza.protect|Ludza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Ludza.private|Ludza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Ludza.personal|Ludza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Ludza.secret|Ludza.secret]] 
+
+### [Ludza.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.public.md) 
+
+### [Ludza.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.internal.md) 
+
+### [Ludza.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.protect.md) 
+
+### [Ludza.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.private.md) 
+
+### [Ludza.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.personal.md) 
+
+### [Ludza.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Ciblas\CityLudza.secret.md)
+

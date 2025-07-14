@@ -40,11 +40,16 @@ markerFolder: ./Gulbene/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Gulbene|Gulbene]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Gulbene.public|Gulbene.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Gulbene.internal|Gulbene.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Gulbene.protect|Gulbene.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Gulbene.private|Gulbene.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Gulbene.personal|Gulbene.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Gulbene.secret|Gulbene.secret]] 
+
+### [Gulbene.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeGulbene.public.md) 
+
+### [Gulbene.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeGulbene.internal.md) 
+
+### [Gulbene.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeGulbene.protect.md) 
+
+### [Gulbene.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeGulbene.private.md) 
+
+### [Gulbene.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeGulbene.personal.md) 
+
+### [Gulbene.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeGulbene.secret.md)
 

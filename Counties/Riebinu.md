@@ -40,11 +40,16 @@ markerFolder: ./Riebinu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Riebinu|Riebinu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Riebinu.public|Riebinu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Riebinu.internal|Riebinu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Riebinu.protect|Riebinu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Riebinu.private|Riebinu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Riebinu.personal|Riebinu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Riebinu.secret|Riebinu.secret]] 
+
+### [Riebinu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRiebinu.public.md) 
+
+### [Riebinu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRiebinu.internal.md) 
+
+### [Riebinu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRiebinu.protect.md) 
+
+### [Riebinu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRiebinu.private.md) 
+
+### [Riebinu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRiebinu.personal.md) 
+
+### [Riebinu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRiebinu.secret.md)
 

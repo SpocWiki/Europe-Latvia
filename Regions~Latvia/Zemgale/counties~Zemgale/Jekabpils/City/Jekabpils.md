@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Jekabpils|Jekabpils]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Jekabpils.public|Jekabpils.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Jekabpils.internal|Jekabpils.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Jekabpils.protect|Jekabpils.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Jekabpils.private|Jekabpils.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Jekabpils.personal|Jekabpils.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Jekabpils.secret|Jekabpils.secret]] 
+
+### [Jekabpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.public.md) 
+
+### [Jekabpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.internal.md) 
+
+### [Jekabpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.protect.md) 
+
+### [Jekabpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.private.md) 
+
+### [Jekabpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.personal.md) 
+
+### [Jekabpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jekabpils\CityJekabpils.secret.md)
+

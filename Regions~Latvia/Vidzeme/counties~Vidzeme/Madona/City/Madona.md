@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Madona|Madona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Madona.public|Madona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Madona.internal|Madona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Madona.protect|Madona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Madona.private|Madona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Madona.personal|Madona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Madona.secret|Madona.secret]] 
+
+### [Madona.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityMadona.public.md) 
+
+### [Madona.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityMadona.internal.md) 
+
+### [Madona.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityMadona.protect.md) 
+
+### [Madona.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityMadona.private.md) 
+
+### [Madona.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityMadona.personal.md) 
+
+### [Madona.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityMadona.secret.md)
+

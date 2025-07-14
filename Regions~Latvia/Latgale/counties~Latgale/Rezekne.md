@@ -40,11 +40,16 @@ markerFolder: ./Rezekne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne|Rezekne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.public|Rezekne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.internal|Rezekne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.protect|Rezekne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.private|Rezekne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.personal|Rezekne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.secret|Rezekne.secret]] 
+
+### [Rezekne.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleRezekne.public.md) 
+
+### [Rezekne.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleRezekne.internal.md) 
+
+### [Rezekne.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleRezekne.protect.md) 
+
+### [Rezekne.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleRezekne.private.md) 
+
+### [Rezekne.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleRezekne.personal.md) 
+
+### [Rezekne.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleRezekne.secret.md)
 

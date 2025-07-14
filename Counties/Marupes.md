@@ -40,11 +40,16 @@ markerFolder: ./Marupes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Marupes|Marupes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Marupes.public|Marupes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Marupes.internal|Marupes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Marupes.protect|Marupes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Marupes.private|Marupes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Marupes.personal|Marupes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Marupes.secret|Marupes.secret]] 
+
+### [Marupes.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMarupes.public.md) 
+
+### [Marupes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMarupes.internal.md) 
+
+### [Marupes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMarupes.protect.md) 
+
+### [Marupes.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMarupes.private.md) 
+
+### [Marupes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMarupes.personal.md) 
+
+### [Marupes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMarupes.secret.md)
 

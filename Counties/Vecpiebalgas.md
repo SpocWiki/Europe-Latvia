@@ -40,11 +40,16 @@ markerFolder: ./Vecpiebalgas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas|Vecpiebalgas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.public|Vecpiebalgas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.internal|Vecpiebalgas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.protect|Vecpiebalgas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.private|Vecpiebalgas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.personal|Vecpiebalgas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.secret|Vecpiebalgas.secret]] 
+
+### [Vecpiebalgas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVecpiebalgas.public.md) 
+
+### [Vecpiebalgas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVecpiebalgas.internal.md) 
+
+### [Vecpiebalgas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVecpiebalgas.protect.md) 
+
+### [Vecpiebalgas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVecpiebalgas.private.md) 
+
+### [Vecpiebalgas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVecpiebalgas.personal.md) 
+
+### [Vecpiebalgas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVecpiebalgas.secret.md)
 

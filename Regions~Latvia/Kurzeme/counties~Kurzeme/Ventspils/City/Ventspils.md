@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Ventspils|Ventspils]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Ventspils.public|Ventspils.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Ventspils.internal|Ventspils.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Ventspils.protect|Ventspils.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Ventspils.private|Ventspils.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Ventspils.personal|Ventspils.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Ventspils.secret|Ventspils.secret]] 
+
+### [Ventspils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityVentspils.public.md) 
+
+### [Ventspils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityVentspils.internal.md) 
+
+### [Ventspils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityVentspils.protect.md) 
+
+### [Ventspils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityVentspils.private.md) 
+
+### [Ventspils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityVentspils.personal.md) 
+
+### [Ventspils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityVentspils.secret.md)
+

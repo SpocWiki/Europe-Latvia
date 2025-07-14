@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Jaunkahnava|Jaunkahnava]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Jaunkahnava.public|Jaunkahnava.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Jaunkahnava.internal|Jaunkahnava.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Jaunkahnava.protect|Jaunkahnava.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Jaunkahnava.private|Jaunkahnava.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Jaunkahnava.personal|Jaunkahnava.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Jaunkahnava.secret|Jaunkahnava.secret]] 
+
+### [Jaunkahnava.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityJaunkahnava.public.md) 
+
+### [Jaunkahnava.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityJaunkahnava.internal.md) 
+
+### [Jaunkahnava.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityJaunkahnava.protect.md) 
+
+### [Jaunkahnava.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityJaunkahnava.private.md) 
+
+### [Jaunkahnava.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityJaunkahnava.personal.md) 
+
+### [Jaunkahnava.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Madona\CityJaunkahnava.secret.md)
+

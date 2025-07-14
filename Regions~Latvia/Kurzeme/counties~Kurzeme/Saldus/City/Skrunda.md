@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Skrunda|Skrunda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Skrunda.public|Skrunda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Skrunda.internal|Skrunda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Skrunda.protect|Skrunda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Skrunda.private|Skrunda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Skrunda.personal|Skrunda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Skrunda.secret|Skrunda.secret]] 
+
+### [Skrunda.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.public.md) 
+
+### [Skrunda.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.internal.md) 
+
+### [Skrunda.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.protect.md) 
+
+### [Skrunda.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.private.md) 
+
+### [Skrunda.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.personal.md) 
+
+### [Skrunda.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Saldus\CitySkrunda.secret.md)
+

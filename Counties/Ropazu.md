@@ -40,11 +40,16 @@ markerFolder: ./Ropazu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu|Ropazu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.public|Ropazu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.internal|Ropazu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.protect|Ropazu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.private|Ropazu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.personal|Ropazu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.secret|Ropazu.secret]] 
+
+### [Ropazu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.public.md) 
+
+### [Ropazu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.internal.md) 
+
+### [Ropazu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.protect.md) 
+
+### [Ropazu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.private.md) 
+
+### [Ropazu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.personal.md) 
+
+### [Ropazu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRopazu.secret.md)
 

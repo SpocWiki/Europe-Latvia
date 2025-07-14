@@ -40,11 +40,16 @@ markerFolder: ./Jelgava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Jelgava|Jelgava]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Jelgava.public|Jelgava.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jelgava.internal|Jelgava.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Jelgava.protect|Jelgava.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Jelgava.private|Jelgava.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jelgava.personal|Jelgava.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Jelgava.secret|Jelgava.secret]] 
+
+### [Jelgava.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJelgava.public.md) 
+
+### [Jelgava.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJelgava.internal.md) 
+
+### [Jelgava.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJelgava.protect.md) 
+
+### [Jelgava.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJelgava.private.md) 
+
+### [Jelgava.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJelgava.personal.md) 
+
+### [Jelgava.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJelgava.secret.md)
 

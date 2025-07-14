@@ -40,11 +40,16 @@ markerFolder: ./Liepāja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja|Liepāja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.public|Liepāja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.internal|Liepāja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.protect|Liepāja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.private|Liepāja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.personal|Liepāja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.secret|Liepāja.secret]] 
+
+### [Liepāja.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeLiepāja.public.md) 
+
+### [Liepāja.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeLiepāja.internal.md) 
+
+### [Liepāja.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeLiepāja.protect.md) 
+
+### [Liepāja.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeLiepāja.private.md) 
+
+### [Liepāja.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeLiepāja.personal.md) 
+
+### [Liepāja.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~KurzemeLiepāja.secret.md)
 

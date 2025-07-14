@@ -40,11 +40,16 @@ markerFolder: ./Kokneses/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses|Kokneses]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.public|Kokneses.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.internal|Kokneses.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.protect|Kokneses.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.private|Kokneses.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.personal|Kokneses.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.secret|Kokneses.secret]] 
+
+### [Kokneses.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.public.md) 
+
+### [Kokneses.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.internal.md) 
+
+### [Kokneses.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.protect.md) 
+
+### [Kokneses.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.private.md) 
+
+### [Kokneses.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.personal.md) 
+
+### [Kokneses.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKokneses.secret.md)
 

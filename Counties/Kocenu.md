@@ -40,11 +40,16 @@ markerFolder: ./Kocenu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Kocenu|Kocenu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Kocenu.public|Kocenu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kocenu.internal|Kocenu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Kocenu.protect|Kocenu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Kocenu.private|Kocenu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kocenu.personal|Kocenu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Kocenu.secret|Kocenu.secret]] 
+
+### [Kocenu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKocenu.public.md) 
+
+### [Kocenu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKocenu.internal.md) 
+
+### [Kocenu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKocenu.protect.md) 
+
+### [Kocenu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKocenu.private.md) 
+
+### [Kocenu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKocenu.personal.md) 
+
+### [Kocenu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKocenu.secret.md)
 

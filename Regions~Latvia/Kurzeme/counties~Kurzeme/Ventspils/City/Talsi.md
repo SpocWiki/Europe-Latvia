@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Talsi|Talsi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Talsi.public|Talsi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Talsi.internal|Talsi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Talsi.protect|Talsi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Talsi.private|Talsi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Talsi.personal|Talsi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Talsi.secret|Talsi.secret]] 
+
+### [Talsi.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityTalsi.public.md) 
+
+### [Talsi.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityTalsi.internal.md) 
+
+### [Talsi.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityTalsi.protect.md) 
+
+### [Talsi.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityTalsi.private.md) 
+
+### [Talsi.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityTalsi.personal.md) 
+
+### [Talsi.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Kurzeme\counties~Kurzeme\Ventspils\CityTalsi.secret.md)
+

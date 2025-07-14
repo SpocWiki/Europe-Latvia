@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Saldus|Saldus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Saldus.public|Saldus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Saldus.internal|Saldus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Saldus.protect|Saldus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Saldus.private|Saldus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Saldus.personal|Saldus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Saldus.secret|Saldus.secret]] 
+
+### [Saldus.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.public.md) 
+
+### [Saldus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.internal.md) 
+
+### [Saldus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.protect.md) 
+
+### [Saldus.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.private.md) 
+
+### [Saldus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.personal.md) 
+
+### [Saldus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Brocenu\CitySaldus.secret.md)
+

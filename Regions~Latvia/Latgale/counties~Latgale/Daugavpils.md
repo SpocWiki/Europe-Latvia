@@ -40,11 +40,16 @@ markerFolder: ./Daugavpils/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Daugavpils|Daugavpils]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Daugavpils.public|Daugavpils.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Daugavpils.internal|Daugavpils.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Daugavpils.protect|Daugavpils.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Daugavpils.private|Daugavpils.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Daugavpils.personal|Daugavpils.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Daugavpils.secret|Daugavpils.secret]] 
+
+### [Daugavpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleDaugavpils.public.md) 
+
+### [Daugavpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleDaugavpils.internal.md) 
+
+### [Daugavpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleDaugavpils.protect.md) 
+
+### [Daugavpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleDaugavpils.private.md) 
+
+### [Daugavpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleDaugavpils.personal.md) 
+
+### [Daugavpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~LatgaleDaugavpils.secret.md)
 

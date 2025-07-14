@@ -40,11 +40,16 @@ markerFolder: ./Aknistes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Aknistes|Aknistes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Aknistes.public|Aknistes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aknistes.internal|Aknistes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Aknistes.protect|Aknistes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Aknistes.private|Aknistes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aknistes.personal|Aknistes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Aknistes.secret|Aknistes.secret]] 
+
+### [Aknistes.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAknistes.public.md) 
+
+### [Aknistes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAknistes.internal.md) 
+
+### [Aknistes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAknistes.protect.md) 
+
+### [Aknistes.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAknistes.private.md) 
+
+### [Aknistes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAknistes.personal.md) 
+
+### [Aknistes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesAknistes.secret.md)
 

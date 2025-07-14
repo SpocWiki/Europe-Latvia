@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Drusti|Drusti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Drusti.public|Drusti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Drusti.internal|Drusti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Drusti.protect|Drusti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Drusti.private|Drusti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Drusti.personal|Drusti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Drusti.secret|Drusti.secret]] 
+
+### [Drusti.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Raunas\CityDrusti.public.md) 
+
+### [Drusti.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Raunas\CityDrusti.internal.md) 
+
+### [Drusti.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Raunas\CityDrusti.protect.md) 
+
+### [Drusti.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Raunas\CityDrusti.private.md) 
+
+### [Drusti.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Raunas\CityDrusti.personal.md) 
+
+### [Drusti.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Raunas\CityDrusti.secret.md)
+

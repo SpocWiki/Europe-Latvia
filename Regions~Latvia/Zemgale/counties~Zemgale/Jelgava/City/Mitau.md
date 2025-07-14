@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Mitau|Mitau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Mitau.public|Mitau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Mitau.internal|Mitau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Mitau.protect|Mitau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Mitau.private|Mitau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Mitau.personal|Mitau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Mitau.secret|Mitau.secret]] 
+
+### [Mitau.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.public.md) 
+
+### [Mitau.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.internal.md) 
+
+### [Mitau.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.protect.md) 
+
+### [Mitau.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.private.md) 
+
+### [Mitau.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.personal.md) 
+
+### [Mitau.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Jelgava\CityMitau.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Riga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga|Riga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.public|Riga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.internal|Riga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.protect|Riga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.private|Riga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.personal|Riga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.secret|Riga.secret]] 
+
+### [Riga-county.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.public.md) 
+
+### [Riga-county.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.internal.md) 
+
+### [Riga-county.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.protect.md) 
+
+### [Riga-county.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.private.md) 
+
+### [Riga-county.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.personal.md) 
+
+### [Riga-county.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~RigaRiga-county.secret.md)
 

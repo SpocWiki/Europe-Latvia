@@ -40,11 +40,16 @@ markerFolder: ./Malpils/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Malpils|Malpils]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Malpils.public|Malpils.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Malpils.internal|Malpils.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Malpils.protect|Malpils.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Malpils.private|Malpils.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Malpils.personal|Malpils.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Malpils.secret|Malpils.secret]] 
+
+### [Malpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMalpils.public.md) 
+
+### [Malpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMalpils.internal.md) 
+
+### [Malpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMalpils.protect.md) 
+
+### [Malpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMalpils.private.md) 
+
+### [Malpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMalpils.personal.md) 
+
+### [Malpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesMalpils.secret.md)
 

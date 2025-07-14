@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Vallmiera|Vallmiera]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Vallmiera.public|Vallmiera.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Vallmiera.internal|Vallmiera.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Vallmiera.protect|Vallmiera.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Vallmiera.private|Vallmiera.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Vallmiera.personal|Vallmiera.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Vallmiera.secret|Vallmiera.secret]] 
+
+### [Vallmiera.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.public.md) 
+
+### [Vallmiera.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.internal.md) 
+
+### [Vallmiera.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.protect.md) 
+
+### [Vallmiera.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.private.md) 
+
+### [Vallmiera.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.personal.md) 
+
+### [Vallmiera.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valmiera\CityVallmiera.secret.md)
+

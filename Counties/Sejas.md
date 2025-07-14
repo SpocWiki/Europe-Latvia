@@ -40,11 +40,16 @@ markerFolder: ./Sejas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas|Sejas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.public|Sejas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.internal|Sejas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.protect|Sejas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.private|Sejas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.personal|Sejas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.secret|Sejas.secret]] 
+
+### [Sejas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSejas.public.md) 
+
+### [Sejas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSejas.internal.md) 
+
+### [Sejas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSejas.protect.md) 
+
+### [Sejas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSejas.private.md) 
+
+### [Sejas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSejas.personal.md) 
+
+### [Sejas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesSejas.secret.md)
 

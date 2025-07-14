@@ -131,12 +131,17 @@ Capital :: [[./Latvia/Counties/Riga]]
 [has_place_latitude::56.95] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia|Latvia]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Latvia.public|Latvia.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia.internal|Latvia.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia.protect|Latvia.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Latvia.private|Latvia.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia.personal|Latvia.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia.secret|Latvia.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\LatviaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\LatviaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\LatviaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\LatviaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\LatviaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\LatviaReadMe.secret.md)
+

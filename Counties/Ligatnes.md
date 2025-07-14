@@ -40,11 +40,16 @@ markerFolder: ./Ligatnes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes|Ligatnes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.public|Ligatnes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.internal|Ligatnes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.protect|Ligatnes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.private|Ligatnes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.personal|Ligatnes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Ligatnes.secret|Ligatnes.secret]] 
+
+### [Ligatnes.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.public.md) 
+
+### [Ligatnes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.internal.md) 
+
+### [Ligatnes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.protect.md) 
+
+### [Ligatnes.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.private.md) 
+
+### [Ligatnes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.personal.md) 
+
+### [Ligatnes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesLigatnes.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Brocenu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Brocenu|Brocenu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Brocenu.public|Brocenu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Brocenu.internal|Brocenu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Brocenu.protect|Brocenu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Brocenu.private|Brocenu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Brocenu.personal|Brocenu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Brocenu.secret|Brocenu.secret]] 
+
+### [Brocenu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBrocenu.public.md) 
+
+### [Brocenu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBrocenu.internal.md) 
+
+### [Brocenu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBrocenu.protect.md) 
+
+### [Brocenu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBrocenu.private.md) 
+
+### [Brocenu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBrocenu.personal.md) 
+
+### [Brocenu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesBrocenu.secret.md)
 

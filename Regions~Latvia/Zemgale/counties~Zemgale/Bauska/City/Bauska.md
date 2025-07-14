@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Bauska|Bauska]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Bauska.public|Bauska.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Bauska.internal|Bauska.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Bauska.protect|Bauska.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Bauska.private|Bauska.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Bauska.personal|Bauska.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Bauska.secret|Bauska.secret]] 
+
+### [Bauska.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Bauska\CityBauska.public.md) 
+
+### [Bauska.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Bauska\CityBauska.internal.md) 
+
+### [Bauska.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Bauska\CityBauska.protect.md) 
+
+### [Bauska.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Bauska\CityBauska.private.md) 
+
+### [Bauska.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Bauska\CityBauska.personal.md) 
+
+### [Bauska.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~Zemgale\Bauska\CityBauska.secret.md)
+

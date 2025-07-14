@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/City/Riga|Riga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/City/Riga.public|Riga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/City/Riga.internal|Riga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/City/Riga.protect|Riga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/City/Riga.private|Riga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/City/Riga.personal|Riga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/City/Riga.secret|Riga.secret]] 
+
+### [Riga.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.public.md) 
+
+### [Riga.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.internal.md) 
+
+### [Riga.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.protect.md) 
+
+### [Riga.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.private.md) 
+
+### [Riga.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.personal.md) 
+
+### [Riga.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Riga\counties~Riga\Riga-county\CityRiga.secret.md)
+

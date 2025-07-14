@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Koknese|Koknese]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Koknese.public|Koknese.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Koknese.internal|Koknese.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Koknese.protect|Koknese.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Koknese.private|Koknese.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Koknese.personal|Koknese.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Koknese.secret|Koknese.secret]] 
+
+### [Koknese.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Kokneses\CityKoknese.public.md) 
+
+### [Koknese.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Kokneses\CityKoknese.internal.md) 
+
+### [Koknese.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Kokneses\CityKoknese.protect.md) 
+
+### [Koknese.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Kokneses\CityKoknese.private.md) 
+
+### [Koknese.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Kokneses\CityKoknese.personal.md) 
+
+### [Koknese.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Kokneses\CityKoknese.secret.md)
+

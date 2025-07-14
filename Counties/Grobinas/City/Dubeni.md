@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Dubeni|Dubeni]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.public|Dubeni.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.internal|Dubeni.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.protect|Dubeni.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.private|Dubeni.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.personal|Dubeni.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.secret|Dubeni.secret]] 
+
+### [Dubeni.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.public.md) 
+
+### [Dubeni.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.internal.md) 
+
+### [Dubeni.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.protect.md) 
+
+### [Dubeni.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.private.md) 
+
+### [Dubeni.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.personal.md) 
+
+### [Dubeni.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Counties\Grobinas\CityDubeni.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Peeskau|Peeskau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Peeskau.public|Peeskau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Peeskau.internal|Peeskau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Peeskau.protect|Peeskau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Peeskau.private|Peeskau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Peeskau.personal|Peeskau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Peeskau.secret|Peeskau.secret]] 
+
+### [Peeskau.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valkas\CityPeeskau.public.md) 
+
+### [Peeskau.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valkas\CityPeeskau.internal.md) 
+
+### [Peeskau.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valkas\CityPeeskau.protect.md) 
+
+### [Peeskau.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valkas\CityPeeskau.private.md) 
+
+### [Peeskau.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valkas\CityPeeskau.personal.md) 
+
+### [Peeskau.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Valkas\CityPeeskau.secret.md)
+

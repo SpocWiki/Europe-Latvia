@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Juodkrantė|Juodkrantė]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Neu-Schwarzort.internal|Neu-Schwarzort.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Neu-Schwarzort.protect|Neu-Schwarzort.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Neu-Schwarzort.private|Neu-Schwarzort.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Neu-Schwarzort.personal|Neu-Schwarzort.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Neu-Schwarzort.secret|Neu-Schwarzort.secret]] 
+
+### [Juodkrantė.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.public.md) 
+
+### [Juodkrantė.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.internal.md) 
+
+### [Juodkrantė.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.protect.md) 
+
+### [Juodkrantė.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.private.md) 
+
+### [Juodkrantė.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.personal.md) 
+
+### [Juodkrantė.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CityJuodkrantė.secret.md)
+

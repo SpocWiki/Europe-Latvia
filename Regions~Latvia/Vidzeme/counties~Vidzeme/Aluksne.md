@@ -40,11 +40,16 @@ markerFolder: ./Aluksne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Aluksne|Aluksne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Aluksne.public|Aluksne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aluksne.internal|Aluksne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Aluksne.protect|Aluksne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Aluksne.private|Aluksne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aluksne.personal|Aluksne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Aluksne.secret|Aluksne.secret]] 
+
+### [Aluksne.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeAluksne.public.md) 
+
+### [Aluksne.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeAluksne.internal.md) 
+
+### [Aluksne.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeAluksne.protect.md) 
+
+### [Aluksne.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeAluksne.private.md) 
+
+### [Aluksne.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeAluksne.personal.md) 
+
+### [Aluksne.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~VidzemeAluksne.secret.md)
 

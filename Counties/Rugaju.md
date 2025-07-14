@@ -40,11 +40,16 @@ markerFolder: ./Rugaju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Rugaju|Rugaju]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Rugaju.public|Rugaju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rugaju.internal|Rugaju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Rugaju.protect|Rugaju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Rugaju.private|Rugaju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rugaju.personal|Rugaju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Rugaju.secret|Rugaju.secret]] 
+
+### [Rugaju.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRugaju.public.md) 
+
+### [Rugaju.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRugaju.internal.md) 
+
+### [Rugaju.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRugaju.protect.md) 
+
+### [Rugaju.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRugaju.private.md) 
+
+### [Rugaju.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRugaju.personal.md) 
+
+### [Rugaju.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRugaju.secret.md)
 

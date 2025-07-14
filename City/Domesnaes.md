@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Domesnaes|Domesnaes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Domesnaes.public|Domesnaes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Domesnaes.internal|Domesnaes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Domesnaes.protect|Domesnaes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Domesnaes.private|Domesnaes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Domesnaes.personal|Domesnaes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Domesnaes.secret|Domesnaes.secret]] 
+
+### [Domesnaes.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CityDomesnaes.public.md) 
+
+### [Domesnaes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CityDomesnaes.internal.md) 
+
+### [Domesnaes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CityDomesnaes.protect.md) 
+
+### [Domesnaes.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CityDomesnaes.private.md) 
+
+### [Domesnaes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CityDomesnaes.personal.md) 
+
+### [Domesnaes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CityDomesnaes.secret.md)
+

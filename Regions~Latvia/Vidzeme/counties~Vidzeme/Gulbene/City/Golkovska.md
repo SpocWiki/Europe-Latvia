@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Golkovska|Golkovska]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Golkovska.public|Golkovska.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Golkovska.internal|Golkovska.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Golkovska.protect|Golkovska.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Golkovska.private|Golkovska.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Golkovska.personal|Golkovska.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Golkovska.secret|Golkovska.secret]] 
+
+### [Golkovska.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.public.md) 
+
+### [Golkovska.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.internal.md) 
+
+### [Golkovska.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.protect.md) 
+
+### [Golkovska.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.private.md) 
+
+### [Golkovska.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.personal.md) 
+
+### [Golkovska.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Vidzeme\counties~Vidzeme\Gulbene\CityGolkovska.secret.md)
+

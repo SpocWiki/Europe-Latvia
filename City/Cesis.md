@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Cesis|Cesis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Cesis.public|Cesis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Cesis.internal|Cesis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Cesis.protect|Cesis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Cesis.private|Cesis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Cesis.personal|Cesis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Cesis.secret|Cesis.secret]] 
+
+### [Cesis.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.public.md) 
+
+### [Cesis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.internal.md) 
+
+### [Cesis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.protect.md) 
+
+### [Cesis.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.private.md) 
+
+### [Cesis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.personal.md) 
+
+### [Cesis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CityCesis.secret.md)
+

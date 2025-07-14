@@ -40,11 +40,16 @@ markerFolder: ./Varaklanu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu|Varaklanu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.public|Varaklanu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.internal|Varaklanu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.protect|Varaklanu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.private|Varaklanu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.personal|Varaklanu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.secret|Varaklanu.secret]] 
+
+### [Varaklanu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVaraklanu.public.md) 
+
+### [Varaklanu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVaraklanu.internal.md) 
+
+### [Varaklanu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVaraklanu.protect.md) 
+
+### [Varaklanu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVaraklanu.private.md) 
+
+### [Varaklanu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVaraklanu.personal.md) 
+
+### [Varaklanu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesVaraklanu.secret.md)
 

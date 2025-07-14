@@ -40,11 +40,16 @@ markerFolder: ./Iecavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas|Iecavas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.public|Iecavas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.internal|Iecavas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.protect|Iecavas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.private|Iecavas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.personal|Iecavas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.secret|Iecavas.secret]] 
+
+### [Iecavas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIecavas.public.md) 
+
+### [Iecavas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIecavas.internal.md) 
+
+### [Iecavas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIecavas.protect.md) 
+
+### [Iecavas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIecavas.private.md) 
+
+### [Iecavas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIecavas.personal.md) 
+
+### [Iecavas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesIecavas.secret.md)
 

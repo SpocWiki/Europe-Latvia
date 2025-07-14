@@ -40,11 +40,16 @@ markerFolder: ./Olaines/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Olaines|Olaines]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Olaines.public|Olaines.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Olaines.internal|Olaines.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Olaines.protect|Olaines.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Olaines.private|Olaines.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Olaines.personal|Olaines.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Olaines.secret|Olaines.secret]] 
+
+### [Olaines.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOlaines.public.md) 
+
+### [Olaines.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOlaines.internal.md) 
+
+### [Olaines.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOlaines.protect.md) 
+
+### [Olaines.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOlaines.private.md) 
+
+### [Olaines.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOlaines.personal.md) 
+
+### [Olaines.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesOlaines.secret.md)
 

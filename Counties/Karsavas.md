@@ -40,11 +40,16 @@ markerFolder: ./Karsavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Karsavas|Karsavas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Karsavas.public|Karsavas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Karsavas.internal|Karsavas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Karsavas.protect|Karsavas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Karsavas.private|Karsavas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Karsavas.personal|Karsavas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Karsavas.secret|Karsavas.secret]] 
+
+### [Karsavas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKarsavas.public.md) 
+
+### [Karsavas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKarsavas.internal.md) 
+
+### [Karsavas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKarsavas.protect.md) 
+
+### [Karsavas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKarsavas.private.md) 
+
+### [Karsavas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKarsavas.personal.md) 
+
+### [Karsavas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesKarsavas.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Jekabpils/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Jekabpils|Jekabpils]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Jekabpils.public|Jekabpils.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jekabpils.internal|Jekabpils.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Jekabpils.protect|Jekabpils.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Jekabpils.private|Jekabpils.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jekabpils.personal|Jekabpils.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Jekabpils.secret|Jekabpils.secret]] 
+
+### [Jekabpils.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.public.md) 
+
+### [Jekabpils.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.internal.md) 
+
+### [Jekabpils.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.protect.md) 
+
+### [Jekabpils.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.private.md) 
+
+### [Jekabpils.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.personal.md) 
+
+### [Jekabpils.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Zemgale\counties~ZemgaleJekabpils.secret.md)
 

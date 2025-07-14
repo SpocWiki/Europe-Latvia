@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Duenaburg|Duenaburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Duenaburg.public|Duenaburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Duenaburg.internal|Duenaburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Duenaburg.protect|Duenaburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Duenaburg.private|Duenaburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Duenaburg.personal|Duenaburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Duenaburg.secret|Duenaburg.secret]] 
+
+### [Duenaburg.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.public.md) 
+
+### [Duenaburg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.internal.md) 
+
+### [Duenaburg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.protect.md) 
+
+### [Duenaburg.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.private.md) 
+
+### [Duenaburg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.personal.md) 
+
+### [Duenaburg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\Regions~Latvia\Latgale\counties~Latgale\Daugavpils\CityDuenaburg.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Rundales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales|Rundales]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.public|Rundales.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.internal|Rundales.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.protect|Rundales.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.private|Rundales.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.personal|Rundales.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.secret|Rundales.secret]] 
+
+### [Rundales.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRundales.public.md) 
+
+### [Rundales.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRundales.internal.md) 
+
+### [Rundales.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRundales.protect.md) 
+
+### [Rundales.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRundales.private.md) 
+
+### [Rundales.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRundales.personal.md) 
+
+### [Rundales.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesRundales.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Grobinas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas|Grobinas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.public|Grobinas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.internal|Grobinas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.protect|Grobinas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.private|Grobinas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.personal|Grobinas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.secret|Grobinas.secret]] 
+
+### [Grobinas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesGrobinas.public.md) 
+
+### [Grobinas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesGrobinas.internal.md) 
+
+### [Grobinas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesGrobinas.protect.md) 
+
+### [Grobinas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesGrobinas.private.md) 
+
+### [Grobinas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesGrobinas.personal.md) 
+
+### [Grobinas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesGrobinas.secret.md)
 

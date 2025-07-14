@@ -40,11 +40,16 @@ markerFolder: ./Nauksenu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu|Nauksenu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.public|Nauksenu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.internal|Nauksenu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.protect|Nauksenu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.private|Nauksenu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.personal|Nauksenu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Nauksenu.secret|Nauksenu.secret]] 
+
+### [Nauksenu.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.public.md) 
+
+### [Nauksenu.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.internal.md) 
+
+### [Nauksenu.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.protect.md) 
+
+### [Nauksenu.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.private.md) 
+
+### [Nauksenu.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.personal.md) 
+
+### [Nauksenu.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNauksenu.secret.md)
 

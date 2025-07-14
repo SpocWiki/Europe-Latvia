@@ -40,11 +40,16 @@ markerFolder: ./Nicas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas|Nicas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.public|Nicas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.internal|Nicas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.protect|Nicas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.private|Nicas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.personal|Nicas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.secret|Nicas.secret]] 
+
+### [Nicas.public](/_public/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNicas.public.md) 
+
+### [Nicas.internal](/_internal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNicas.internal.md) 
+
+### [Nicas.protect](/_protect/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNicas.protect.md) 
+
+### [Nicas.private](/_private/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNicas.private.md) 
+
+### [Nicas.personal](/_personal/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNicas.personal.md) 
+
+### [Nicas.secret](/_secret/\Earth\Continent\Europe\Europe~North\Latvia\CountiesNicas.secret.md)
 
