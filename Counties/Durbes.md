@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Durbes
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Durbes/
 markerFolder: ./Durbes/

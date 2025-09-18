@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Engures
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Engures/
 markerFolder: ./Engures/

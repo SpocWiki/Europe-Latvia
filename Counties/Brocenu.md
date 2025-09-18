@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Brocenu
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Brocenu/
 markerFolder: ./Brocenu/

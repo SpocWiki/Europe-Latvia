@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kraslavas
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kraslavas/
 markerFolder: ./Kraslavas/

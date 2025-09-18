@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Tervetes
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tervetes/
 markerFolder: ./Tervetes/
