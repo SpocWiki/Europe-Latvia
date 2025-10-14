@@ -21,7 +21,7 @@ State ::
 Country :: [[Latvia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
