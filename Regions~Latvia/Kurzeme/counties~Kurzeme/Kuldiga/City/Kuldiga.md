@@ -1,16 +1,19 @@
 ---
-location: [56.98,21.98] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kuldiga
+location:
+  - 56.98
+  - 21.98
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31686
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

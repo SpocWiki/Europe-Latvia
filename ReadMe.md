@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Latvia
+  - Letonia
+  - Lettonie
+  - لاتفيا
+  - 拉脱维亚
+  - Латвия
+  - the Republic of Latvia
+  - la República de Letonia
+  - ReadMe
 location:
   - 56.95
   - 24.11
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Latvia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Latvia
-  - Letonia
-  - Lettonie
-  - لاتفيا
-  - 拉脱维亚
-  - Латвия
-  - the Republic of Latvia
-  - la República de Letonia
+publishDate: ''
+expiryDate: ''
 Languages:
   - lv
   - ru

@@ -1,16 +1,19 @@
 ---
-location: [56.5,21.02] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Libau
+location:
+  - 56.5
+  - 21.02
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31974
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
