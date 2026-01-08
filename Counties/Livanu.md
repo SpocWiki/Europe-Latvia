@@ -40,17 +40,17 @@ markerFolder: ./Livanu/
 
 ## Confidential Links & Embeds: 
 
-### [Livanu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu|Livanu]] 
 
-### [Livanu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.public|Livanu.public]] 
 
-### [Livanu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.internal|Livanu.internal]] 
 
-### [Livanu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.protect|Livanu.protect]] 
 
-### [Livanu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.private|Livanu.private]] 
 
-### [Livanu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.personal|Livanu.personal]] 
 
-### [Livanu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Livanu.secret|Livanu.secret]] 
 

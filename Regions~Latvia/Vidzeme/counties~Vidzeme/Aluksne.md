@@ -40,17 +40,17 @@ markerFolder: ./Aluksne/
 
 ## Confidential Links & Embeds: 
 
-### [Aluksne](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne|Aluksne]] 
 
-### [Aluksne.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.public|Aluksne.public]] 
 
-### [Aluksne.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.internal|Aluksne.internal]] 
 
-### [Aluksne.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.protect|Aluksne.protect]] 
 
-### [Aluksne.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.private|Aluksne.private]] 
 
-### [Aluksne.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.personal|Aluksne.personal]] 
 
-### [Aluksne.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Aluksne.secret|Aluksne.secret]] 
 

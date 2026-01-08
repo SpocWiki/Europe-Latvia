@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31538
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.43
+dv_has_place_latitude: 56.68
+dv_name: Koknese
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.43] 
-[has_place_latitude::56.68] 
-[name::Koknese] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koknese](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese|Koknese]] 
 
-### [Koknese.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.public|Koknese.public]] 
 
-### [Koknese.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.internal|Koknese.internal]] 
 
-### [Koknese.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.protect|Koknese.protect]] 
 
-### [Koknese.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.private|Koknese.private]] 
 
-### [Koknese.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.personal|Koknese.personal]] 
 
-### [Koknese.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kokneses/City/Koknese.secret|Koknese.secret]] 
 

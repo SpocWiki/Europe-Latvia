@@ -40,17 +40,17 @@ markerFolder: ./Durbes/
 
 ## Confidential Links & Embeds: 
 
-### [Durbes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes|Durbes]] 
 
-### [Durbes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.public|Durbes.public]] 
 
-### [Durbes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.internal|Durbes.internal]] 
 
-### [Durbes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.protect|Durbes.protect]] 
 
-### [Durbes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.private|Durbes.private]] 
 
-### [Durbes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.personal|Durbes.personal]] 
 
-### [Durbes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Durbes.secret|Durbes.secret]] 
 

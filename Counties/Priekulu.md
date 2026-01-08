@@ -40,17 +40,17 @@ markerFolder: ./Priekulu/
 
 ## Confidential Links & Embeds: 
 
-### [Priekulu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu|Priekulu]] 
 
-### [Priekulu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.public|Priekulu.public]] 
 
-### [Priekulu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.internal|Priekulu.internal]] 
 
-### [Priekulu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.protect|Priekulu.protect]] 
 
-### [Priekulu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.private|Priekulu.private]] 
 
-### [Priekulu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.personal|Priekulu.personal]] 
 
-### [Priekulu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.secret|Priekulu.secret]] 
 

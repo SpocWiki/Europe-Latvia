@@ -40,17 +40,17 @@ markerFolder: ./Ikskiles/
 
 ## Confidential Links & Embeds: 
 
-### [Ikskiles](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles|Ikskiles]] 
 
-### [Ikskiles.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.public|Ikskiles.public]] 
 
-### [Ikskiles.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.internal|Ikskiles.internal]] 
 
-### [Ikskiles.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.protect|Ikskiles.protect]] 
 
-### [Ikskiles.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.private|Ikskiles.private]] 
 
-### [Ikskiles.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.personal|Ikskiles.personal]] 
 
-### [Ikskiles.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ikskiles.secret|Ikskiles.secret]] 
 

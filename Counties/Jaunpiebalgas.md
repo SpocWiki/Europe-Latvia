@@ -40,17 +40,17 @@ markerFolder: ./Jaunpiebalgas/
 
 ## Confidential Links & Embeds: 
 
-### [Jaunpiebalgas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas|Jaunpiebalgas]] 
 
-### [Jaunpiebalgas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.public|Jaunpiebalgas.public]] 
 
-### [Jaunpiebalgas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.internal|Jaunpiebalgas.internal]] 
 
-### [Jaunpiebalgas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.protect|Jaunpiebalgas.protect]] 
 
-### [Jaunpiebalgas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.private|Jaunpiebalgas.private]] 
 
-### [Jaunpiebalgas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.personal|Jaunpiebalgas.personal]] 
 
-### [Jaunpiebalgas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.secret|Jaunpiebalgas.secret]] 
 

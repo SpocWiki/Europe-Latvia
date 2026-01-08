@@ -40,17 +40,17 @@ markerFolder: ./Ventspils/
 
 ## Confidential Links & Embeds: 
 
-### [Ventspils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils|Ventspils]] 
 
-### [Ventspils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.public|Ventspils.public]] 
 
-### [Ventspils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.internal|Ventspils.internal]] 
 
-### [Ventspils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.protect|Ventspils.protect]] 
 
-### [Ventspils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.private|Ventspils.private]] 
 
-### [Ventspils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.personal|Ventspils.personal]] 
 
-### [Ventspils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Ventspils.secret|Ventspils.secret]] 
 

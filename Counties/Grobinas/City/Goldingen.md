@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30495
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.3
+dv_has_place_latitude: 56.53
+dv_name: Goldingen
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.3] 
-[has_place_latitude::56.53] 
-[name::Goldingen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goldingen](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen|Goldingen]] 
 
-### [Goldingen.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.public|Goldingen.public]] 
 
-### [Goldingen.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.internal|Goldingen.internal]] 
 
-### [Goldingen.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.protect|Goldingen.protect]] 
 
-### [Goldingen.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.private|Goldingen.private]] 
 
-### [Goldingen.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.personal|Goldingen.personal]] 
 
-### [Goldingen.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Grobinas/City/Goldingen.secret|Goldingen.secret]] 
 

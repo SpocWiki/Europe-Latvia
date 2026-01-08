@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35035
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.17
+dv_has_place_latitude: 57
+dv_name: Tukumus
+dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.17] 
-[has_place_latitude::57] 
-[name::Tukumus] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tukumus](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus|Tukumus]] 
 
-### [Tukumus.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.public|Tukumus.public]] 
 
-### [Tukumus.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.internal|Tukumus.internal]] 
 
-### [Tukumus.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.protect|Tukumus.protect]] 
 
-### [Tukumus.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.private|Tukumus.private]] 
 
-### [Tukumus.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.personal|Tukumus.personal]] 
 
-### [Tukumus.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums/City/Tukumus.secret|Tukumus.secret]] 
 

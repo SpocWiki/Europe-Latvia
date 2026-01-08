@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29927
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.5
+dv_has_place_latitude: 57
+dv_name: Dzelvalva
+dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.5] 
-[has_place_latitude::57] 
-[name::Dzelvalva] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dzelvalva](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva|Dzelvalva]] 
 
-### [Dzelvalva.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.public|Dzelvalva.public]] 
 
-### [Dzelvalva.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.internal|Dzelvalva.internal]] 
 
-### [Dzelvalva.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.protect|Dzelvalva.protect]] 
 
-### [Dzelvalva.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.private|Dzelvalva.private]] 
 
-### [Dzelvalva.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.personal|Dzelvalva.personal]] 
 
-### [Dzelvalva.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Dzelvalva.secret|Dzelvalva.secret]] 
 

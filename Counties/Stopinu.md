@@ -40,17 +40,17 @@ markerFolder: ./Stopinu/
 
 ## Confidential Links & Embeds: 
 
-### [Stopinu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu|Stopinu]] 
 
-### [Stopinu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.public|Stopinu.public]] 
 
-### [Stopinu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.internal|Stopinu.internal]] 
 
-### [Stopinu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.protect|Stopinu.protect]] 
 
-### [Stopinu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.private|Stopinu.private]] 
 
-### [Stopinu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.personal|Stopinu.personal]] 
 
-### [Stopinu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.secret|Stopinu.secret]] 
 

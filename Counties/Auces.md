@@ -40,17 +40,17 @@ markerFolder: ./Auces/
 
 ## Confidential Links & Embeds: 
 
-### [Auces](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces|Auces]] 
 
-### [Auces.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.public|Auces.public]] 
 
-### [Auces.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.internal|Auces.internal]] 
 
-### [Auces.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.protect|Auces.protect]] 
 
-### [Auces.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.private|Auces.private]] 
 
-### [Auces.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.personal|Auces.personal]] 
 
-### [Auces.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Auces.secret|Auces.secret]] 
 

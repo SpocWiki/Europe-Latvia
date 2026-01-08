@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32117
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.78
+dv_has_place_latitude: 56.88
+dv_name: Lubhahn
+dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.78] 
-[has_place_latitude::56.88] 
-[name::Lubhahn] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lubhahn](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn|Lubhahn]] 
 
-### [Lubhahn.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.public|Lubhahn.public]] 
 
-### [Lubhahn.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.internal|Lubhahn.internal]] 
 
-### [Lubhahn.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.protect|Lubhahn.protect]] 
 
-### [Lubhahn.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.private|Lubhahn.private]] 
 
-### [Lubhahn.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.personal|Lubhahn.personal]] 
 
-### [Lubhahn.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona/City/Lubhahn.secret|Lubhahn.secret]] 
 

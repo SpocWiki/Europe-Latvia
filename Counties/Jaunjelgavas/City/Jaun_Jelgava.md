@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31175
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.17
+dv_has_place_latitude: 56.55
+dv_name: Jaun Jelgava
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.17] 
-[has_place_latitude::56.55] 
-[name::Jaun Jelgava] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jaun_Jelgava](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava|Jaun_Jelgava]] 
 
-### [Jaun_Jelgava.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.public|Jaun_Jelgava.public]] 
 
-### [Jaun_Jelgava.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.internal|Jaun_Jelgava.internal]] 
 
-### [Jaun_Jelgava.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.protect|Jaun_Jelgava.protect]] 
 
-### [Jaun_Jelgava.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.private|Jaun_Jelgava.private]] 
 
-### [Jaun_Jelgava.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.personal|Jaun_Jelgava.personal]] 
 
-### [Jaun_Jelgava.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas/City/Jaun_Jelgava.secret|Jaun_Jelgava.secret]] 
 

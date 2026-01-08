@@ -40,17 +40,17 @@ markerFolder: ./Rujienas/
 
 ## Confidential Links & Embeds: 
 
-### [Rujienas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas|Rujienas]] 
 
-### [Rujienas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.public|Rujienas.public]] 
 
-### [Rujienas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.internal|Rujienas.internal]] 
 
-### [Rujienas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.protect|Rujienas.protect]] 
 
-### [Rujienas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.private|Rujienas.private]] 
 
-### [Rujienas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.personal|Rujienas.personal]] 
 
-### [Rujienas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rujienas.secret|Rujienas.secret]] 
 

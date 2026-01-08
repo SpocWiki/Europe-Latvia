@@ -40,17 +40,17 @@ markerFolder: ./Alojas/
 
 ## Confidential Links & Embeds: 
 
-### [Alojas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas|Alojas]] 
 
-### [Alojas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.public|Alojas.public]] 
 
-### [Alojas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.internal|Alojas.internal]] 
 
-### [Alojas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.protect|Alojas.protect]] 
 
-### [Alojas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.private|Alojas.private]] 
 
-### [Alojas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.personal|Alojas.personal]] 
 
-### [Alojas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alojas.secret|Alojas.secret]] 
 

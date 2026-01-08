@@ -40,17 +40,17 @@ markerFolder: ./Bauska/
 
 ## Confidential Links & Embeds: 
 
-### [Bauska](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska|Bauska]] 
 
-### [Bauska.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.public|Bauska.public]] 
 
-### [Bauska.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.internal|Bauska.internal]] 
 
-### [Bauska.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.protect|Bauska.protect]] 
 
-### [Bauska.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.private|Bauska.private]] 
 
-### [Bauska.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.personal|Bauska.personal]] 
 
-### [Bauska.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Bauska.secret|Bauska.secret]] 
 

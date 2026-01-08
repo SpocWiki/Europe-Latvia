@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33882
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.5
+dv_has_place_latitude: 56.67
+dv_name: Saldus
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.5] 
-[has_place_latitude::56.67] 
-[name::Saldus] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saldus](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus|Saldus]] 
 
-### [Saldus.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.public|Saldus.public]] 
 
-### [Saldus.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.internal|Saldus.internal]] 
 
-### [Saldus.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.protect|Saldus.protect]] 
 
-### [Saldus.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.private|Saldus.private]] 
 
-### [Saldus.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.personal|Saldus.personal]] 
 
-### [Saldus.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Brocenu/City/Saldus.secret|Saldus.secret]] 
 

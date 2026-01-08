@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35537
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.93
+dv_has_place_latitude: 57.32
+dv_name: Wenden
+dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.93] 
-[has_place_latitude::57.32] 
-[name::Wenden] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wenden](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden|Wenden]] 
 
-### [Wenden.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.public|Wenden.public]] 
 
-### [Wenden.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.internal|Wenden.internal]] 
 
-### [Wenden.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.protect|Wenden.protect]] 
 
-### [Wenden.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.private|Wenden.private]] 
 
-### [Wenden.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.personal|Wenden.personal]] 
 
-### [Wenden.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi/City/Wenden.secret|Wenden.secret]] 
 

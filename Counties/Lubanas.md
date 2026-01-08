@@ -40,17 +40,17 @@ markerFolder: ./Lubanas/
 
 ## Confidential Links & Embeds: 
 
-### [Lubanas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas|Lubanas]] 
 
-### [Lubanas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.public|Lubanas.public]] 
 
-### [Lubanas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.internal|Lubanas.internal]] 
 
-### [Lubanas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.protect|Lubanas.protect]] 
 
-### [Lubanas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.private|Lubanas.private]] 
 
-### [Lubanas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.personal|Lubanas.personal]] 
 
-### [Lubanas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.secret|Lubanas.secret]] 
 

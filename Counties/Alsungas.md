@@ -40,17 +40,17 @@ markerFolder: ./Alsungas/
 
 ## Confidential Links & Embeds: 
 
-### [Alsungas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas|Alsungas]] 
 
-### [Alsungas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.public|Alsungas.public]] 
 
-### [Alsungas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.internal|Alsungas.internal]] 
 
-### [Alsungas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.protect|Alsungas.protect]] 
 
-### [Alsungas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.private|Alsungas.private]] 
 
-### [Alsungas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.personal|Alsungas.personal]] 
 
-### [Alsungas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.secret|Alsungas.secret]] 
 

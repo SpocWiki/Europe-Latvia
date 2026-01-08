@@ -40,17 +40,17 @@ markerFolder: ./Cesvaines/
 
 ## Confidential Links & Embeds: 
 
-### [Cesvaines](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines|Cesvaines]] 
 
-### [Cesvaines.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.public|Cesvaines.public]] 
 
-### [Cesvaines.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.internal|Cesvaines.internal]] 
 
-### [Cesvaines.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.protect|Cesvaines.protect]] 
 
-### [Cesvaines.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.private|Cesvaines.private]] 
 
-### [Cesvaines.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.personal|Cesvaines.personal]] 
 
-### [Cesvaines.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.secret|Cesvaines.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Ilukstes/
 
 ## Confidential Links & Embeds: 
 
-### [Ilukstes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes|Ilukstes]] 
 
-### [Ilukstes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.public|Ilukstes.public]] 
 
-### [Ilukstes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.internal|Ilukstes.internal]] 
 
-### [Ilukstes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.protect|Ilukstes.protect]] 
 
-### [Ilukstes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.private|Ilukstes.private]] 
 
-### [Ilukstes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.personal|Ilukstes.personal]] 
 
-### [Ilukstes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ilukstes.secret|Ilukstes.secret]] 
 

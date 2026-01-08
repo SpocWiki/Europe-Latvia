@@ -40,17 +40,17 @@ markerFolder: ./Zilupes/
 
 ## Confidential Links & Embeds: 
 
-### [Zilupes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes|Zilupes]] 
 
-### [Zilupes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.public|Zilupes.public]] 
 
-### [Zilupes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.internal|Zilupes.internal]] 
 
-### [Zilupes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.protect|Zilupes.protect]] 
 
-### [Zilupes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.private|Zilupes.private]] 
 
-### [Zilupes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.personal|Zilupes.personal]] 
 
-### [Zilupes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes.secret|Zilupes.secret]] 
 

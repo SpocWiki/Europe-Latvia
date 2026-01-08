@@ -40,17 +40,17 @@ markerFolder: ./Talsi/
 
 ## Confidential Links & Embeds: 
 
-### [Talsi](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi|Talsi]] 
 
-### [Talsi.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.public|Talsi.public]] 
 
-### [Talsi.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.internal|Talsi.internal]] 
 
-### [Talsi.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.protect|Talsi.protect]] 
 
-### [Talsi.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.private|Talsi.private]] 
 
-### [Talsi.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.personal|Talsi.personal]] 
 
-### [Talsi.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Talsi.secret|Talsi.secret]] 
 

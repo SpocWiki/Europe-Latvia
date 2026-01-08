@@ -40,17 +40,17 @@ markerFolder: ./Madona/
 
 ## Confidential Links & Embeds: 
 
-### [Madona](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona|Madona]] 
 
-### [Madona.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.public|Madona.public]] 
 
-### [Madona.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.internal|Madona.internal]] 
 
-### [Madona.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.protect|Madona.protect]] 
 
-### [Madona.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.private|Madona.private]] 
 
-### [Madona.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.personal|Madona.personal]] 
 
-### [Madona.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Madona.secret|Madona.secret]] 
 

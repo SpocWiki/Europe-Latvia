@@ -40,17 +40,17 @@ markerFolder: ./Preilu/
 
 ## Confidential Links & Embeds: 
 
-### [Preilu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu|Preilu]] 
 
-### [Preilu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.public|Preilu.public]] 
 
-### [Preilu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.internal|Preilu.internal]] 
 
-### [Preilu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.protect|Preilu.protect]] 
 
-### [Preilu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.private|Preilu.private]] 
 
-### [Preilu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.personal|Preilu.personal]] 
 
-### [Preilu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Preilu.secret|Preilu.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Keguma/
 
 ## Confidential Links & Embeds: 
 
-### [Keguma](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma|Keguma]] 
 
-### [Keguma.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.public|Keguma.public]] 
 
-### [Keguma.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.internal|Keguma.internal]] 
 
-### [Keguma.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.protect|Keguma.protect]] 
 
-### [Keguma.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.private|Keguma.private]] 
 
-### [Keguma.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.personal|Keguma.personal]] 
 
-### [Keguma.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Keguma.secret|Keguma.secret]] 
 

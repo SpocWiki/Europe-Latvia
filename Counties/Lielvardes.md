@@ -40,17 +40,17 @@ markerFolder: ./Lielvardes/
 
 ## Confidential Links & Embeds: 
 
-### [Lielvardes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes|Lielvardes]] 
 
-### [Lielvardes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.public|Lielvardes.public]] 
 
-### [Lielvardes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.internal|Lielvardes.internal]] 
 
-### [Lielvardes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.protect|Lielvardes.protect]] 
 
-### [Lielvardes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.private|Lielvardes.private]] 
 
-### [Lielvardes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.personal|Lielvardes.personal]] 
 
-### [Lielvardes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.secret|Lielvardes.secret]] 
 

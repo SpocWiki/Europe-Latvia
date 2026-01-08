@@ -40,17 +40,17 @@ markerFolder: ./Garkalnes/
 
 ## Confidential Links & Embeds: 
 
-### [Garkalnes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes|Garkalnes]] 
 
-### [Garkalnes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.public|Garkalnes.public]] 
 
-### [Garkalnes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.internal|Garkalnes.internal]] 
 
-### [Garkalnes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.protect|Garkalnes.protect]] 
 
-### [Garkalnes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.private|Garkalnes.private]] 
 
-### [Garkalnes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.personal|Garkalnes.personal]] 
 
-### [Garkalnes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.secret|Garkalnes.secret]] 
 

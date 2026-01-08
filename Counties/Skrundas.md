@@ -40,17 +40,17 @@ markerFolder: ./Skrundas/
 
 ## Confidential Links & Embeds: 
 
-### [Skrundas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas|Skrundas]] 
 
-### [Skrundas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.public|Skrundas.public]] 
 
-### [Skrundas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.internal|Skrundas.internal]] 
 
-### [Skrundas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.protect|Skrundas.protect]] 
 
-### [Skrundas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.private|Skrundas.private]] 
 
-### [Skrundas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.personal|Skrundas.personal]] 
 
-### [Skrundas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skrundas.secret|Skrundas.secret]] 
 

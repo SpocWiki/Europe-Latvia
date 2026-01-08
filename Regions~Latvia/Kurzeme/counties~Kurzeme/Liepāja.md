@@ -40,17 +40,17 @@ markerFolder: ./Liepāja/
 
 ## Confidential Links & Embeds: 
 
-### [Liepāja](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja|Liepāja]] 
 
-### [Liepāja.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.public|Liepāja.public]] 
 
-### [Liepāja.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.internal|Liepāja.internal]] 
 
-### [Liepāja.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.protect|Liepāja.protect]] 
 
-### [Liepāja.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.private|Liepāja.private]] 
 
-### [Liepāja.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.personal|Liepāja.personal]] 
 
-### [Liepāja.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Liepāja.secret|Liepāja.secret]] 
 

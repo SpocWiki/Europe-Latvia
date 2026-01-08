@@ -40,17 +40,17 @@ markerFolder: ./Aglonas/
 
 ## Confidential Links & Embeds: 
 
-### [Aglonas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas|Aglonas]] 
 
-### [Aglonas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.public|Aglonas.public]] 
 
-### [Aglonas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.internal|Aglonas.internal]] 
 
-### [Aglonas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.protect|Aglonas.protect]] 
 
-### [Aglonas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.private|Aglonas.private]] 
 
-### [Aglonas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.personal|Aglonas.personal]] 
 
-### [Aglonas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.secret|Aglonas.secret]] 
 

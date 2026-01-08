@@ -40,17 +40,17 @@ markerFolder: ./Rucavas/
 
 ## Confidential Links & Embeds: 
 
-### [Rucavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas|Rucavas]] 
 
-### [Rucavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.public|Rucavas.public]] 
 
-### [Rucavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.internal|Rucavas.internal]] 
 
-### [Rucavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.protect|Rucavas.protect]] 
 
-### [Rucavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.private|Rucavas.private]] 
 
-### [Rucavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.personal|Rucavas.personal]] 
 
-### [Rucavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.secret|Rucavas.secret]] 
 

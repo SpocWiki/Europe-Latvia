@@ -40,17 +40,17 @@ markerFolder: ./Gulbene/
 
 ## Confidential Links & Embeds: 
 
-### [Gulbene](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene|Gulbene]] 
 
-### [Gulbene.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.public|Gulbene.public]] 
 
-### [Gulbene.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.internal|Gulbene.internal]] 
 
-### [Gulbene.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.protect|Gulbene.protect]] 
 
-### [Gulbene.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.private|Gulbene.private]] 
 
-### [Gulbene.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.personal|Gulbene.personal]] 
 
-### [Gulbene.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Vidzeme/counties~Vidzeme/Gulbene.secret|Gulbene.secret]] 
 

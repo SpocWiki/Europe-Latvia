@@ -40,17 +40,17 @@ markerFolder: ./Engures/
 
 ## Confidential Links & Embeds: 
 
-### [Engures](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures|Engures]] 
 
-### [Engures.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.public|Engures.public]] 
 
-### [Engures.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.internal|Engures.internal]] 
 
-### [Engures.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.protect|Engures.protect]] 
 
-### [Engures.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.private|Engures.private]] 
 
-### [Engures.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.personal|Engures.personal]] 
 
-### [Engures.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Engures.secret|Engures.secret]] 
 

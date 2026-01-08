@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.11
+dv_has_place_latitude: 56.95
+dv_name: Riga
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Riga,1773|WD~Riga,1773]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Riga,1773|WD~Riga,1773]]"
+
 has_time_started: 1201-01-01 
 aliases:
   - Riga
@@ -234,15 +242,15 @@ YouTube_handle: riga_1201
 # [[Riga]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.11] 
-[has_place_latitude::56.95] 
-[name::Riga] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Latvia]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Riga,1773|WD~Riga,1773]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -292,19 +300,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Riga) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Riga](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga|Riga]] 
 
-### [Riga.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.public|Riga.public]] 
 
-### [Riga.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.internal|Riga.internal]] 
 
-### [Riga.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.protect|Riga.protect]] 
 
-### [Riga.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.private|Riga.private]] 
 
-### [Riga.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.personal|Riga.personal]] 
 
-### [Riga.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Riga-county/City/Riga.secret|Riga.secret]] 
 

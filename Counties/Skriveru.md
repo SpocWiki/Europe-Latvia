@@ -40,17 +40,17 @@ markerFolder: ./Skriveru/
 
 ## Confidential Links & Embeds: 
 
-### [Skriveru](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru|Skriveru]] 
 
-### [Skriveru.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.public|Skriveru.public]] 
 
-### [Skriveru.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.internal|Skriveru.internal]] 
 
-### [Skriveru.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.protect|Skriveru.protect]] 
 
-### [Skriveru.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.private|Skriveru.private]] 
 
-### [Skriveru.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.personal|Skriveru.personal]] 
 
-### [Skriveru.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.secret|Skriveru.secret]] 
 

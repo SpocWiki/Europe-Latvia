@@ -40,17 +40,17 @@ markerFolder: ./Siguldas/
 
 ## Confidential Links & Embeds: 
 
-### [Siguldas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas|Siguldas]] 
 
-### [Siguldas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.public|Siguldas.public]] 
 
-### [Siguldas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.internal|Siguldas.internal]] 
 
-### [Siguldas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.protect|Siguldas.protect]] 
 
-### [Siguldas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.private|Siguldas.private]] 
 
-### [Siguldas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.personal|Siguldas.personal]] 
 
-### [Siguldas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Siguldas.secret|Siguldas.secret]] 
 

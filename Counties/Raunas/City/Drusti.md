@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29891
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.83
+dv_has_place_latitude: 57.23
+dv_name: Drusti
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.83] 
-[has_place_latitude::57.23] 
-[name::Drusti] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Drusti](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti|Drusti]] 
 
-### [Drusti.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.public|Drusti.public]] 
 
-### [Drusti.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.internal|Drusti.internal]] 
 
-### [Drusti.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.protect|Drusti.protect]] 
 
-### [Drusti.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.private|Drusti.private]] 
 
-### [Drusti.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.personal|Drusti.personal]] 
 
-### [Drusti.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas/City/Drusti.secret|Drusti.secret]] 
 

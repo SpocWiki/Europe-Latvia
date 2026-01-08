@@ -40,17 +40,17 @@ markerFolder: ./Jekabpils/
 
 ## Confidential Links & Embeds: 
 
-### [Jekabpils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils|Jekabpils]] 
 
-### [Jekabpils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.public|Jekabpils.public]] 
 
-### [Jekabpils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.internal|Jekabpils.internal]] 
 
-### [Jekabpils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.protect|Jekabpils.protect]] 
 
-### [Jekabpils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.private|Jekabpils.private]] 
 
-### [Jekabpils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.personal|Jekabpils.personal]] 
 
-### [Jekabpils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils.secret|Jekabpils.secret]] 
 

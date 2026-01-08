@@ -40,17 +40,17 @@ markerFolder: ./Daugavpils/
 
 ## Confidential Links & Embeds: 
 
-### [Daugavpils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils|Daugavpils]] 
 
-### [Daugavpils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.public|Daugavpils.public]] 
 
-### [Daugavpils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.internal|Daugavpils.internal]] 
 
-### [Daugavpils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.protect|Daugavpils.protect]] 
 
-### [Daugavpils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.private|Daugavpils.private]] 
 
-### [Daugavpils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.personal|Daugavpils.personal]] 
 
-### [Daugavpils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Daugavpils.secret|Daugavpils.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Vecumnieku/
 
 ## Confidential Links & Embeds: 
 
-### [Vecumnieku](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku|Vecumnieku]] 
 
-### [Vecumnieku.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.public|Vecumnieku.public]] 
 
-### [Vecumnieku.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.internal|Vecumnieku.internal]] 
 
-### [Vecumnieku.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.protect|Vecumnieku.protect]] 
 
-### [Vecumnieku.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.private|Vecumnieku.private]] 
 
-### [Vecumnieku.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.personal|Vecumnieku.personal]] 
 
-### [Vecumnieku.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vecumnieku.secret|Vecumnieku.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Tukums/
 
 ## Confidential Links & Embeds: 
 
-### [Tukums](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums|Tukums]] 
 
-### [Tukums.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.public|Tukums.public]] 
 
-### [Tukums.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.internal|Tukums.internal]] 
 
-### [Tukums.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.protect|Tukums.protect]] 
 
-### [Tukums.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.private|Tukums.private]] 
 
-### [Tukums.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.personal|Tukums.personal]] 
 
-### [Tukums.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Tukums.secret|Tukums.secret]] 
 

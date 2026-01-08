@@ -40,17 +40,17 @@ markerFolder: ./Baldones/
 
 ## Confidential Links & Embeds: 
 
-### [Baldones](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones|Baldones]] 
 
-### [Baldones.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.public|Baldones.public]] 
 
-### [Baldones.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.internal|Baldones.internal]] 
 
-### [Baldones.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.protect|Baldones.protect]] 
 
-### [Baldones.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.private|Baldones.private]] 
 
-### [Baldones.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.personal|Baldones.personal]] 
 
-### [Baldones.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baldones.secret|Baldones.secret]] 
 

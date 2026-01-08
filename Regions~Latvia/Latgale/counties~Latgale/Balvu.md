@@ -40,17 +40,17 @@ markerFolder: ./Balvu/
 
 ## Confidential Links & Embeds: 
 
-### [Balvu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu|Balvu]] 
 
-### [Balvu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.public|Balvu.public]] 
 
-### [Balvu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.internal|Balvu.internal]] 
 
-### [Balvu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.protect|Balvu.protect]] 
 
-### [Balvu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.private|Balvu.private]] 
 
-### [Balvu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.personal|Balvu.personal]] 
 
-### [Balvu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Balvu.secret|Balvu.secret]] 
 

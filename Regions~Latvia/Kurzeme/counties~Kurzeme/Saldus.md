@@ -40,17 +40,17 @@ markerFolder: ./Saldus/
 
 ## Confidential Links & Embeds: 
 
-### [Saldus](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus|Saldus]] 
 
-### [Saldus.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.public|Saldus.public]] 
 
-### [Saldus.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.internal|Saldus.internal]] 
 
-### [Saldus.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.protect|Saldus.protect]] 
 
-### [Saldus.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.private|Saldus.private]] 
 
-### [Saldus.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.personal|Saldus.personal]] 
 
-### [Saldus.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Kurzeme/counties~Kurzeme/Saldus.secret|Saldus.secret]] 
 

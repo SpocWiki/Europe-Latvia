@@ -40,17 +40,17 @@ markerFolder: ./Jaunjelgavas/
 
 ## Confidential Links & Embeds: 
 
-### [Jaunjelgavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas|Jaunjelgavas]] 
 
-### [Jaunjelgavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.public|Jaunjelgavas.public]] 
 
-### [Jaunjelgavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.internal|Jaunjelgavas.internal]] 
 
-### [Jaunjelgavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.protect|Jaunjelgavas.protect]] 
 
-### [Jaunjelgavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.private|Jaunjelgavas.private]] 
 
-### [Jaunjelgavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.personal|Jaunjelgavas.personal]] 
 
-### [Jaunjelgavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.secret|Jaunjelgavas.secret]] 
 

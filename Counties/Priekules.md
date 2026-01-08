@@ -40,17 +40,17 @@ markerFolder: ./Priekules/
 
 ## Confidential Links & Embeds: 
 
-### [Priekules](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules|Priekules]] 
 
-### [Priekules.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.public|Priekules.public]] 
 
-### [Priekules.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.internal|Priekules.internal]] 
 
-### [Priekules.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.protect|Priekules.protect]] 
 
-### [Priekules.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.private|Priekules.private]] 
 
-### [Priekules.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.personal|Priekules.personal]] 
 
-### [Priekules.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Priekules.secret|Priekules.secret]] 
 

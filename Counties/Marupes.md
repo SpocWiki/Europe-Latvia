@@ -40,17 +40,17 @@ markerFolder: ./Marupes/
 
 ## Confidential Links & Embeds: 
 
-### [Marupes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes|Marupes]] 
 
-### [Marupes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.public|Marupes.public]] 
 
-### [Marupes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.internal|Marupes.internal]] 
 
-### [Marupes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.protect|Marupes.protect]] 
 
-### [Marupes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.private|Marupes.private]] 
 
-### [Marupes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.personal|Marupes.personal]] 
 
-### [Marupes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Marupes.secret|Marupes.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Neretas/
 
 ## Confidential Links & Embeds: 
 
-### [Neretas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas|Neretas]] 
 
-### [Neretas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.public|Neretas.public]] 
 
-### [Neretas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.internal|Neretas.internal]] 
 
-### [Neretas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.protect|Neretas.protect]] 
 
-### [Neretas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.private|Neretas.private]] 
 
-### [Neretas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.personal|Neretas.personal]] 
 
-### [Neretas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Neretas.secret|Neretas.secret]] 
 

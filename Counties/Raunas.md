@@ -40,17 +40,17 @@ markerFolder: ./Raunas/
 
 ## Confidential Links & Embeds: 
 
-### [Raunas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas|Raunas]] 
 
-### [Raunas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.public|Raunas.public]] 
 
-### [Raunas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.internal|Raunas.internal]] 
 
-### [Raunas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.protect|Raunas.protect]] 
 
-### [Raunas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.private|Raunas.private]] 
 
-### [Raunas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.personal|Raunas.personal]] 
 
-### [Raunas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Raunas.secret|Raunas.secret]] 
 

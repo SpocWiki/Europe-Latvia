@@ -40,17 +40,17 @@ markerFolder: ./Pargaujas/
 
 ## Confidential Links & Embeds: 
 
-### [Pargaujas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas|Pargaujas]] 
 
-### [Pargaujas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.public|Pargaujas.public]] 
 
-### [Pargaujas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.internal|Pargaujas.internal]] 
 
-### [Pargaujas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.protect|Pargaujas.protect]] 
 
-### [Pargaujas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.private|Pargaujas.private]] 
 
-### [Pargaujas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.personal|Pargaujas.personal]] 
 
-### [Pargaujas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.secret|Pargaujas.secret]] 
 

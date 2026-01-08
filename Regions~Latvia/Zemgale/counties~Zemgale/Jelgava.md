@@ -40,17 +40,17 @@ markerFolder: ./Jelgava/
 
 ## Confidential Links & Embeds: 
 
-### [Jelgava](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava|Jelgava]] 
 
-### [Jelgava.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.public|Jelgava.public]] 
 
-### [Jelgava.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.internal|Jelgava.internal]] 
 
-### [Jelgava.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.protect|Jelgava.protect]] 
 
-### [Jelgava.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.private|Jelgava.private]] 
 
-### [Jelgava.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.personal|Jelgava.personal]] 
 
-### [Jelgava.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jelgava.secret|Jelgava.secret]] 
 

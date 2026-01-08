@@ -40,17 +40,17 @@ markerFolder: ./Beverinas/
 
 ## Confidential Links & Embeds: 
 
-### [Beverinas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas|Beverinas]] 
 
-### [Beverinas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.public|Beverinas.public]] 
 
-### [Beverinas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.internal|Beverinas.internal]] 
 
-### [Beverinas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.protect|Beverinas.protect]] 
 
-### [Beverinas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.private|Beverinas.private]] 
 
-### [Beverinas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.personal|Beverinas.personal]] 
 
-### [Beverinas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Beverinas.secret|Beverinas.secret]] 
 

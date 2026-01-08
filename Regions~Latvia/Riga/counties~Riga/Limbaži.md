@@ -40,17 +40,17 @@ markerFolder: ./Limbaži/
 
 ## Confidential Links & Embeds: 
 
-### [Limbaži](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži|Limbaži]] 
 
-### [Limbaži.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.public|Limbaži.public]] 
 
-### [Limbaži.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.internal|Limbaži.internal]] 
 
-### [Limbaži.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.protect|Limbaži.protect]] 
 
-### [Limbaži.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.private|Limbaži.private]] 
 
-### [Limbaži.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.personal|Limbaži.personal]] 
 
-### [Limbaži.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Limbaži.secret|Limbaži.secret]] 
 

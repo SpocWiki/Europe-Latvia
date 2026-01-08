@@ -40,17 +40,17 @@ markerFolder: ./Apes/
 
 ## Confidential Links & Embeds: 
 
-### [Apes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes|Apes]] 
 
-### [Apes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.public|Apes.public]] 
 
-### [Apes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.internal|Apes.internal]] 
 
-### [Apes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.protect|Apes.protect]] 
 
-### [Apes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.private|Apes.private]] 
 
-### [Apes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.personal|Apes.personal]] 
 
-### [Apes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Apes.secret|Apes.secret]] 
 

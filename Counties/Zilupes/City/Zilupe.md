@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35835
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.12
+dv_has_place_latitude: 56.38
+dv_name: Zilupe
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.12] 
-[has_place_latitude::56.38] 
-[name::Zilupe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zilupe](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe|Zilupe]] 
 
-### [Zilupe.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.public|Zilupe.public]] 
 
-### [Zilupe.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.internal|Zilupe.internal]] 
 
-### [Zilupe.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.protect|Zilupe.protect]] 
 
-### [Zilupe.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.private|Zilupe.private]] 
 
-### [Zilupe.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.personal|Zilupe.personal]] 
 
-### [Zilupe.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Zilupes/City/Zilupe.secret|Zilupe.secret]] 
 

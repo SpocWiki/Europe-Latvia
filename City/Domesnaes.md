@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29831
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.5
+dv_has_place_latitude: 57.78
+dv_name: Domesnaes
+dv_Country: "[[../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.5] 
-[has_place_latitude::57.78] 
-[name::Domesnaes] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Domesnaes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes|Domesnaes]] 
 
-### [Domesnaes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.public|Domesnaes.public]] 
 
-### [Domesnaes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.internal|Domesnaes.internal]] 
 
-### [Domesnaes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.protect|Domesnaes.protect]] 
 
-### [Domesnaes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.private|Domesnaes.private]] 
 
-### [Domesnaes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.personal|Domesnaes.personal]] 
 
-### [Domesnaes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/City/Domesnaes.secret|Domesnaes.secret]] 
 

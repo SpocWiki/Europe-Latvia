@@ -40,17 +40,17 @@ markerFolder: ./Kraslavas/
 
 ## Confidential Links & Embeds: 
 
-### [Kraslavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas|Kraslavas]] 
 
-### [Kraslavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.public|Kraslavas.public]] 
 
-### [Kraslavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.internal|Kraslavas.internal]] 
 
-### [Kraslavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.protect|Kraslavas.protect]] 
 
-### [Kraslavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.private|Kraslavas.private]] 
 
-### [Kraslavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.personal|Kraslavas.personal]] 
 
-### [Kraslavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Kraslavas.secret|Kraslavas.secret]] 
 

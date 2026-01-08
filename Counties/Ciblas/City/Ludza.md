@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32132
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.73
+dv_has_place_latitude: 56.55
+dv_name: Ludza
+dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.73] 
-[has_place_latitude::56.55] 
-[name::Ludza] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ludza](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza|Ludza]] 
 
-### [Ludza.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.public|Ludza.public]] 
 
-### [Ludza.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.internal|Ludza.internal]] 
 
-### [Ludza.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.protect|Ludza.protect]] 
 
-### [Ludza.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.private|Ludza.private]] 
 
-### [Ludza.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.personal|Ludza.personal]] 
 
-### [Ludza.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Ciblas/City/Ludza.secret|Ludza.secret]] 
 

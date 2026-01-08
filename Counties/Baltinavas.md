@@ -40,17 +40,17 @@ markerFolder: ./Baltinavas/
 
 ## Confidential Links & Embeds: 
 
-### [Baltinavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas|Baltinavas]] 
 
-### [Baltinavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.public|Baltinavas.public]] 
 
-### [Baltinavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.internal|Baltinavas.internal]] 
 
-### [Baltinavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.protect|Baltinavas.protect]] 
 
-### [Baltinavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.private|Baltinavas.private]] 
 
-### [Baltinavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.personal|Baltinavas.personal]] 
 
-### [Baltinavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Baltinavas.secret|Baltinavas.secret]] 
 

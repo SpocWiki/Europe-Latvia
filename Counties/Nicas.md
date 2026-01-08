@@ -40,17 +40,17 @@ markerFolder: ./Nicas/
 
 ## Confidential Links & Embeds: 
 
-### [Nicas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas|Nicas]] 
 
-### [Nicas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.public|Nicas.public]] 
 
-### [Nicas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.internal|Nicas.internal]] 
 
-### [Nicas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.protect|Nicas.protect]] 
 
-### [Nicas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.private|Nicas.private]] 
 
-### [Nicas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.personal|Nicas.personal]] 
 
-### [Nicas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Nicas.secret|Nicas.secret]] 
 

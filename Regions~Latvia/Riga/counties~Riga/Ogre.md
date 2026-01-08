@@ -40,17 +40,17 @@ markerFolder: ./Ogre/
 
 ## Confidential Links & Embeds: 
 
-### [Ogre](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre|Ogre]] 
 
-### [Ogre.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.public|Ogre.public]] 
 
-### [Ogre.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.internal|Ogre.internal]] 
 
-### [Ogre.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.protect|Ogre.protect]] 
 
-### [Ogre.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.private|Ogre.private]] 
 
-### [Ogre.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.personal|Ogre.personal]] 
 
-### [Ogre.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Riga/counties~Riga/Ogre.secret|Ogre.secret]] 
 

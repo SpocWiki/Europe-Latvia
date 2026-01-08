@@ -40,17 +40,17 @@ markerFolder: ./Varkavas/
 
 ## Confidential Links & Embeds: 
 
-### [Varkavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas|Varkavas]] 
 
-### [Varkavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.public|Varkavas.public]] 
 
-### [Varkavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.internal|Varkavas.internal]] 
 
-### [Varkavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.protect|Varkavas.protect]] 
 
-### [Varkavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.private|Varkavas.private]] 
 
-### [Varkavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.personal|Varkavas.personal]] 
 
-### [Varkavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.secret|Varkavas.secret]] 
 

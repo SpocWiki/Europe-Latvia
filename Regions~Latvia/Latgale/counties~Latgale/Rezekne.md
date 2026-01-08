@@ -40,17 +40,17 @@ markerFolder: ./Rezekne/
 
 ## Confidential Links & Embeds: 
 
-### [Rezekne](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne|Rezekne]] 
 
-### [Rezekne.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.public|Rezekne.public]] 
 
-### [Rezekne.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.internal|Rezekne.internal]] 
 
-### [Rezekne.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.protect|Rezekne.protect]] 
 
-### [Rezekne.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.private|Rezekne.private]] 
 
-### [Rezekne.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.personal|Rezekne.personal]] 
 
-### [Rezekne.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Latgale/counties~Latgale/Rezekne.secret|Rezekne.secret]] 
 

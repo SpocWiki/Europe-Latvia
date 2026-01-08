@@ -40,17 +40,17 @@ markerFolder: ./Pavilostas/
 
 ## Confidential Links & Embeds: 
 
-### [Pavilostas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas|Pavilostas]] 
 
-### [Pavilostas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.public|Pavilostas.public]] 
 
-### [Pavilostas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.internal|Pavilostas.internal]] 
 
-### [Pavilostas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.protect|Pavilostas.protect]] 
 
-### [Pavilostas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.private|Pavilostas.private]] 
 
-### [Pavilostas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.personal|Pavilostas.personal]] 
 
-### [Pavilostas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.secret|Pavilostas.secret]] 
 

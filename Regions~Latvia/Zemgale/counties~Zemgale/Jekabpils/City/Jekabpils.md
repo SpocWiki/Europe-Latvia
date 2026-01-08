@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31179
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.87
+dv_has_place_latitude: 56.48
+dv_name: Jekabpils
+dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.87] 
-[has_place_latitude::56.48] 
-[name::Jekabpils] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jekabpils](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils|Jekabpils]] 
 
-### [Jekabpils.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.public|Jekabpils.public]] 
 
-### [Jekabpils.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.internal|Jekabpils.internal]] 
 
-### [Jekabpils.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.protect|Jekabpils.protect]] 
 
-### [Jekabpils.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.private|Jekabpils.private]] 
 
-### [Jekabpils.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.personal|Jekabpils.personal]] 
 
-### [Jekabpils.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Regions~Latvia/Zemgale/counties~Zemgale/Jekabpils/City/Jekabpils.secret|Jekabpils.secret]] 
 

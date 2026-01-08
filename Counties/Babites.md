@@ -40,17 +40,17 @@ markerFolder: ./Babites/
 
 ## Confidential Links & Embeds: 
 
-### [Babites](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites|Babites]] 
 
-### [Babites.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.public|Babites.public]] 
 
-### [Babites.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.internal|Babites.internal]] 
 
-### [Babites.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.protect|Babites.protect]] 
 
-### [Babites.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.private|Babites.private]] 
 
-### [Babites.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.personal|Babites.personal]] 
 
-### [Babites.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Babites.secret|Babites.secret]] 
 

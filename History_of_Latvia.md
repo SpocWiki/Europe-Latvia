@@ -5,11 +5,14 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Latvia,1052234
 instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 facet_of: "[[_Standards/WikiData/WD~Latvia,211]]"
 Commons_category: History of Latvia
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Latvia,209655]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Latvia,209655]]"
 ---
 
 # [[History_of_Latvia]] 
 
-#is_/same_as :: [[WD~History_of_Latvia,209655]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -37,4 +40,21 @@ Commons_category: History of Latvia
 > Latvia's economy suffered greatly during the Great Recession which caused the 2008 Latvian financial crisis. Worsening economic conditions and better job opportunities in Western Europe have caused a massive Latvian emigration.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Latvia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/History_of_Latvia|History_of_Latvia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/History_of_Latvia.public|History_of_Latvia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/History_of_Latvia.internal|History_of_Latvia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/History_of_Latvia.protect|History_of_Latvia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/History_of_Latvia.private|History_of_Latvia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/History_of_Latvia.personal|History_of_Latvia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/History_of_Latvia.secret|History_of_Latvia.secret]] 
 

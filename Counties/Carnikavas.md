@@ -40,17 +40,17 @@ markerFolder: ./Carnikavas/
 
 ## Confidential Links & Embeds: 
 
-### [Carnikavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas|Carnikavas]] 
 
-### [Carnikavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.public|Carnikavas.public]] 
 
-### [Carnikavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.internal|Carnikavas.internal]] 
 
-### [Carnikavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.protect|Carnikavas.protect]] 
 
-### [Carnikavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.private|Carnikavas.private]] 
 
-### [Carnikavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.personal|Carnikavas.personal]] 
 
-### [Carnikavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.secret|Carnikavas.secret]] 
 

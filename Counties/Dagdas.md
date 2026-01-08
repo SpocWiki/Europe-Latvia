@@ -40,17 +40,17 @@ markerFolder: ./Dagdas/
 
 ## Confidential Links & Embeds: 
 
-### [Dagdas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas|Dagdas]] 
 
-### [Dagdas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.public|Dagdas.public]] 
 
-### [Dagdas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.internal|Dagdas.internal]] 
 
-### [Dagdas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.protect|Dagdas.protect]] 
 
-### [Dagdas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.private|Dagdas.private]] 
 
-### [Dagdas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.personal|Dagdas.personal]] 
 
-### [Dagdas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Dagdas.secret|Dagdas.secret]] 
 

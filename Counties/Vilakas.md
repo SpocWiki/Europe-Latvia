@@ -40,17 +40,17 @@ markerFolder: ./Vilakas/
 
 ## Confidential Links & Embeds: 
 
-### [Vilakas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas|Vilakas]] 
 
-### [Vilakas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.public|Vilakas.public]] 
 
-### [Vilakas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.internal|Vilakas.internal]] 
 
-### [Vilakas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.protect|Vilakas.protect]] 
 
-### [Vilakas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.private|Vilakas.private]] 
 
-### [Vilakas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.personal|Vilakas.personal]] 
 
-### [Vilakas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.secret|Vilakas.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Salas/
 
 ## Confidential Links & Embeds: 
 
-### [Salas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas|Salas]] 
 
-### [Salas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.public|Salas.public]] 
 
-### [Salas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.internal|Salas.internal]] 
 
-### [Salas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.protect|Salas.protect]] 
 
-### [Salas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.private|Salas.private]] 
 
-### [Salas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.personal|Salas.personal]] 
 
-### [Salas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Salas.secret|Salas.secret]] 
 

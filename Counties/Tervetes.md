@@ -40,17 +40,17 @@ markerFolder: ./Tervetes/
 
 ## Confidential Links & Embeds: 
 
-### [Tervetes](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes|Tervetes]] 
 
-### [Tervetes.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.public|Tervetes.public]] 
 
-### [Tervetes.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.internal|Tervetes.internal]] 
 
-### [Tervetes.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.protect|Tervetes.protect]] 
 
-### [Tervetes.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.private|Tervetes.private]] 
 
-### [Tervetes.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.personal|Tervetes.personal]] 
 
-### [Tervetes.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.secret|Tervetes.secret]] 
 

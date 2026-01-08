@@ -40,17 +40,17 @@ markerFolder: ./Kekavas/
 
 ## Confidential Links & Embeds: 
 
-### [Kekavas](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas|Kekavas]] 
 
-### [Kekavas.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.public|Kekavas.public]] 
 
-### [Kekavas.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.internal|Kekavas.internal]] 
 
-### [Kekavas.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.protect|Kekavas.protect]] 
 
-### [Kekavas.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.private|Kekavas.private]] 
 
-### [Kekavas.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.personal|Kekavas.personal]] 
 
-### [Kekavas.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.secret|Kekavas.secret]] 
 

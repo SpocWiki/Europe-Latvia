@@ -40,17 +40,17 @@ markerFolder: ./Vilanu/
 
 ## Confidential Links & Embeds: 
 
-### [Vilanu](/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu|Vilanu]] 
 
-### [Vilanu.public](/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.public|Vilanu.public]] 
 
-### [Vilanu.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.internal|Vilanu.internal]] 
 
-### [Vilanu.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.protect|Vilanu.protect]] 
 
-### [Vilanu.private](/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.private|Vilanu.private]] 
 
-### [Vilanu.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.personal|Vilanu.personal]] 
 
-### [Vilanu.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/Counties/Vilanu.secret|Vilanu.secret]] 
 
