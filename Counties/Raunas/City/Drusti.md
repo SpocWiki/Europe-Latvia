@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.83
 dv_has_place_latitude: 57.23
-dv_name: Drusti
+dv_has_name_: Drusti
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

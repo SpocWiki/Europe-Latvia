@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.12
 dv_has_place_latitude: 56.38
-dv_name: Zilupe
+dv_has_name_: Zilupe
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

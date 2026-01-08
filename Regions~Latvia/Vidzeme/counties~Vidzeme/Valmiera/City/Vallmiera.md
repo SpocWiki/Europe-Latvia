@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.43
 dv_has_place_latitude: 57.55
-dv_name: Vallmiera
+dv_has_name_: Vallmiera
 dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

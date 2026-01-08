@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.48
 dv_has_place_latitude: 55.88
-dv_name: Duenaburg
+dv_has_name_: Duenaburg
 dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

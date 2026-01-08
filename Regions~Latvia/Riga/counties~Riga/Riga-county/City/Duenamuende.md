@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.02
 dv_has_place_latitude: 57.05
-dv_name: Duenamuende
+dv_has_name_: Duenamuende
 dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

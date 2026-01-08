@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.6
 dv_has_place_latitude: 37.32
-dv_name: Cesis
+dv_has_name_: Cesis
 dv_Country: "[[../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

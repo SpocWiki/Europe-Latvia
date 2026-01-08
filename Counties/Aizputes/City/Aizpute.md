@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.62
 dv_has_place_latitude: 56.73
-dv_name: Aizpute
+dv_has_name_: Aizpute
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

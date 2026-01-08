@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.18
 dv_has_place_latitude: 56.53
-dv_name: Grobina
+dv_has_name_: Grobina
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.5
 dv_has_place_latitude: 57
-dv_name: Dzelvalva
+dv_has_name_: Dzelvalva
 dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

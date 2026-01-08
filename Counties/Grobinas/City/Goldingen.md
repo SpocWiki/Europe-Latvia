@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.3
 dv_has_place_latitude: 56.53
-dv_name: Goldingen
+dv_has_name_: Goldingen
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.02
 dv_has_place_latitude: 56.43
-dv_name: Skrunda
+dv_has_name_: Skrunda
 dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

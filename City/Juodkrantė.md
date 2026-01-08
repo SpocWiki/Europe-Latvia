@@ -17,8 +17,8 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.12
 dv_has_place_latitude: 55.52
-dv_name: Juodkrantė
-dv_name-de: Neu-Schwarzort
+dv_has_name_: Juodkrantė
+dv_has_name_de: Neu-Schwarzort
 dv_Country: "[[../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
@@ -26,7 +26,7 @@ is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_name` 
-name-de = `=this.dv_name-de` 
+has_name_de = `=this.dv_has_name_de` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

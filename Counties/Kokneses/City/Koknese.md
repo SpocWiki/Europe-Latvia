@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.43
 dv_has_place_latitude: 56.68
-dv_name: Koknese
+dv_has_name_: Koknese
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.5
 dv_has_place_latitude: 56.67
-dv_name: Saldus
+dv_has_name_: Saldus
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

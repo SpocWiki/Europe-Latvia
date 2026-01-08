@@ -43,15 +43,13 @@ dv_ISO4217-currency_country_name: LATVIA
 dv_Telephone: 371
 dv_Global: true
 dv_Global_Name: World
-dv_name: Latvia
-dv_name-en:
-  - Latvia
-  - Latvia
-dv_name-es: Letonia
-dv_name-fr: Lettonie
-dv_name-cn: 拉脱维亚
-dv_name-ar: لاتفيا
-dv_name-ru: Латвия
+dv_has_name_: Latvia
+dv_has_name_en: Latvia
+dv_has_name_es: Letonia
+dv_has_name_fr: Lettonie
+dv_has_name_cn: 拉脱维亚
+dv_has_name_ar: لاتفيا
+dv_has_name_ru: Латвия
 dv_CLDR_display_name: Latvia
 dv_UNTERM_English: Latvia
 dv_UNTERM_English_Formal: the Republic of Latvia
@@ -88,7 +86,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 428
 dv_ISO2: LV
 dv_ISO3: LVA
-dv_name-de: Lettland
+dv_has_name_de: Lettland
 dv_Area-Total: 64589
 dv_Area-Land: 62050
 dv_Continent: "[[../../../Europe]]"
@@ -114,12 +112,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Latvia ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Latvia ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -179,8 +177,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Latvia] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Latvia] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

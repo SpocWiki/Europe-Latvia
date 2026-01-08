@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.93
 dv_has_place_latitude: 56.7
-dv_name: Jaunkahnava
+dv_has_name_: Jaunkahnava
 dv_Country: "[[../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

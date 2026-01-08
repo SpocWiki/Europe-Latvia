@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.28
 dv_has_place_latitude: 57.07
-dv_name: Nitau
+dv_has_name_: Nitau
 dv_Country: "[[../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
