@@ -1,40 +1,316 @@
 ---
-aliases:
-  - Latvia
-  - Letonia
-  - Lettonie
-  - لاتفيا
-  - 拉脱维亚
-  - Латвия
-  - the Republic of Latvia
-  - la República de Letonia
-  - ReadMe
-location:
-  - 56.95
-  - 24.11
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 26954
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Latvia
-linkTitle: ""
-keywords: ""
-layout: ""
-draft: false
-publishDate: ""
-expiryDate: ""
-Languages:
-  - lv
-  - ru
-  - lt
+dv_has_:
+  name_:
+    ab: Латвиа
+    ace: Latvia
+    ady: Латвие
+    aeb_arab: لاتڥيا
+    af: Letland
+    am: ላትቪያ
+    ami: Latvia
+    an: Letonia
+    ang: Lettland
+    ann: Lativia
+    anp: लाट्विया
+    ar: لاتفيا
+    arc: ܠܐܛܒܝܐ
+    ary: لاتڤيا
+    arz: لاتفيا
+    ast: Letonia
+    av: Латвия
+    avk: Latvia
+    awa: लातविया
+    az: Latviya
+    azb: لتونی
+    ba: Латвия
+    ban: Latvia
+    bar: Lettland
+    bcl: Latbya
+    be: Латвія
+    be_tarask: Латвія
+    bew: Lètlan
+    bg: Латвия
+    bgn: لاتویا
+    bho: लैटविया
+    bi: Latvia
+    blk: လတ်ဗီယာခမ်းထီ
+    bn: লাতভিয়া
+    bo: ལ་ཊ་ཝིཡ།
+    bpy: লাতভিয়া
+    br: Latvia
+    bs: Latvija
+    bxr: Латви
+    ca: Letònia
+    cbk_zam: Letonia
+    cdo: Latvia
+    ce: Латви
+    ceb: Latvia
+    ch: Letonia
+    chr: ᎳᏘᏫᎠ
+    ckb: لاتڤیا
+    co: Lettonia
+    crh: Latviya
+    crh_latn: Latviya
+    cs: Lotyšsko
+    csb: Łotewskô
+    cu: Латвїꙗ
+    cv: Латви
+    cy: Latfia
+    da: Letland
+    dag: Latvia
+    de: Lettland
+    de-at: Lettland
+    de_ch: Lettland
+    diq: Letonya
+    dsb: Letiska
+    dty: लात्भिया
+    dv: ލެޓުވިއާ
+    dz: ལེཊི་བི་ཡ།
+    ee: Latvia
+    el: Λετονία
+    eml: Lettògna
+    en: Latvia
+    en_ca: Latvia
+    en_gb: Latvia
+    eo: Latvio
+    es: Letonia
+    et: Läti
+    eu: Letonia
+    ext: Letónia
+    fa: لتونی
+    ff: Latvia
+    fi: Latvia
+    fo: Lettland
+    fr: Lettonie
+    frp: Lètonie
+    frr: Letlun
+    fur: Letonie
+    fy: Letlân
+    ga: an Laitvia
+    gag: Latviya
+    gcr: Létoni
+    gd: An Laitbhe
+    gl: Letonia
+    glk: لتؤني
+    gn: Letóña
+    gom: लाटविया
+    gom-deva: लाटविया
+    gom_latn: Latvia
+    got: "\U0001033B\U00010330\U00010339\U00010344\U00010330\U0001033B\U00010330\U0001033D\U00010333"
+    gpe: Latvia
+    gsw: Lettland
+    gu: લાટવિયા
+    gv: y Latvey
+    ha: Laitfiya
+    hak: Latvia
+    haw: Lakawia
+    he: לטביה
+    hi: लातविया
+    hif: Latvia
+    hr: Latvija
+    hsb: Letiska
+    ht: Letoni
+    hu: Lettország
+    hy: Լատվիա
+    hyw: Լաթվիա
+    ia: Lettonia
+    id: Latvia
+    ie: Latvia
+    ig: Latvia
+    ilo: Letonia
+    io: Latvia
+    is: Lettland
+    it: Lettonia
+    ja: ラトビア
+    jam: Latvia
+    jv: Lètlan
+    ka: ლატვია
+    kaa: Latviya
+    kab: Liṭṭunya
+    kbd: Латвиэ
+    kbp: Lɛtonii
+    kg: Latvia
+    kge: Latvia
+    kk: Латвия
+    kl: Letlandi
+    km: ឡេតូនី
+    kn: ಲಾಟ್ವಿಯಾ
+    ko: 라트비아
+    koi: Латвия
+    ko-kp: 라뜨비야
+    krc: Латвия
+    ku: Letonya
+    kv: Латвия
+    kw: Latvi
+    ky: Латвия
+    la: Lettonia
+    lad: Letonia
+    lb: Lettland
+    lez: Латвия
+    lfn: Latvia
+    lg: Latvia
+    li: Letland
+    lij: Letònia
+    liv: Leţmō
+    lld: Letonia
+    lmo: Latvia
+    ln: Letoni
+    lo: ປະເທດແລດໂຕນີ
+    lrc: لاتویا
+    lt: Latvija
+    ltg: Latveja
+    lv: Latvija
+    lzh: 拉脫維亞
+    mad: Latvia
+    mai: लैटविया
+    map_bms: Latvia
+    mdf: Латвия
+    mg: Latvia
+    mhr: Латвий
+    mi: Rāwhia
+    min: Latvia
+    mk: Латвија
+    ml: ലാത്വിയ
+    mn: Латви
+    mni: ꯂꯦꯠꯚꯤꯌꯥ
+    mo: Летония
+    mr: लात्व्हिया
+    mrj: Латви
+    ms: Latvia
+    ms_arab: لتۏيا
+    mt: Latvja
+    mwl: Lhetónia
+    my: လတ်ဗီယာနိုင်ငံ
+    myv: Латвия Мастор
+    mzn: لاتویا
+    na: Ratebiya
+    nah: Letonia
+    nan: Latvia
+    nb: Latvia
+    nds: Lettland
+    nds_nl: Letlaand
+    ne: लात्भिया
+    new: लात्भिया
+    nl: Letland
+    nn: Latvia
+    nov: Latvia
+    nrm: Lettonnie
+    nv: Dahńdzílgaiʼnii Bikéyah
+    oc: Letònia
+    olo: Latvii
+    om: Laativiyaa
+    or: ଲାଟଭିଆ
+    os: Латви
+    pa: ਲਾਤਵੀਆ
+    pag: Latbia
+    pam: Letonia
+    pap: Letonia
+    pcd: Létonie
+    pdc: Lettlond
+    pfl: Lettlond
+    pi: लाट्विया
+    pih: Latwya
+    pl: Łotwa
+    pms: Letònia
+    pnb: لیٹویا
+    pnt: Λετονία
+    prg: Lattawa
+    ps: لاتويا
+    pt: Letónia
+    pt_br: Letônia
+    qu: Litunya
+    rm: Lettonia
+    rmy: Latviya
+    ro: Letonia
+    roa-tara: Lettonie
+    ru: Латвия
+    rue: Латвія
+    rup: Letonia
+    rw: Lativiya
+    sa: लाट्विया
+    sah: Латвия
+    sat: ᱞᱟᱛᱵᱷᱤᱭᱟ
+    sc: Lettonia
+    scn: Lettunia
+    sco: Latvie
+    sd: ليٽويا
+    sdc: Lettònia
+    se: Latvia
+    sgs: Latvėjė
+    sh: Letonija
+    shn: မိူင်းလၢတ်ႈဝီႇယႃႇ
+    si: ලැට්වියාව
+    sk: Lotyšsko
+    sl: Latvija
+    sm: Lativia
+    sma: Lettlaante
+    smn: Latvia
+    sms: Latvia
+    sn: Latvia
+    so: Latfiya
+    sq: Letonia
+    sr: Летонија
+    sr_ec: Летонија
+    sr_el: Letonija
+    srn: Letlenikondre
+    ss: ILathiviya
+    st: Latvia
+    stq: Letlound
+    su: Latvia
+    sv: Lettland
+    sw: Latvia
+    szl: Łotwa
+    szy: Latvia
+    ta: லாத்வியா
+    tay: Latvia
+    te: లాట్వియా
+    tet: Letónia
+    tg: Латвия
+    th: ประเทศลัตเวีย
+    tk: Latwiýa
+    tl: Latvia
+    tly: Latviyə
+    to: Lativia
+    tok: ma Lawi
+    tpi: Latvia
+    tr: Letonya
+    trv: Latvia
+    ts: Latvia
+    tt: Латвия
+    tum: Latvia
+    tw: Latvia
+    udm: Латвия
+    ug: لاتۋىيە
+    uk: Латвія
+    ur: لٹویا
+    uz: Latviya
+    vec: Letònia
+    vep: Latvii
+    vi: Latvia
+    vls: Letland
+    vo: Latviyän
+    vro: Läti
+    wa: Letoneye
+    war: Letonia
+    wo: Letóoni
+    wuu: 拉脱维亚
+    xal: Латдин Орн
+    xmf: ლატვია
+    yi: לעטלאנד
+    yo: Látfíà
+    yue: 拉脫維亞
+    za: Latvia
+    zea: Letland
+    zgh: ⵍⴰⵜⴼⵢⴰ
+    zh: 拉脫維亞
+    zh_cn: 拉脱维亚
+    zh_hans: 拉脱维亚
+    zh_hant: 拉脫維亞
+    zh_hk: 拉脫維亞
+    zh_tw: 拉脫維亞
+    zu: ILatviya
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Latvia
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -63,9 +339,9 @@ dv_UNTERM_Chinese_Formal: 拉脱维亚共和国
 dv_UNTERM_French_Formal: la République de Lettonie
 dv_UNTERM_Russian: Латвия
 dv_UNTERM_Russian_Formal: Латвийская Республика
-dv_Region_Name: "[[../../../Europe]]"
-dv_Intermediate_Region_Name: "[[ReadMe]]"
-dv_Sub-region_Name: "[[Northern Europe]]"
+dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Intermediate_Region_Name: '[[Latvia]]'
+dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
 dv_Sub-region: 154
 dv_Geoname-ID: 458258
@@ -86,128 +362,827 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 428
 dv_ISO2: LV
 dv_ISO3: LVA
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Latvia,211|WD~Latvia,211]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/Latvia|Latvia]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/Latvia.public|Latvia.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal|Latvia.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/Latvia.protect|Latvia.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/Latvia.private|Latvia.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/Latvia.personal|Latvia.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/Latvia.secret|Latvia.secret]]'
 dv_has_name_de: Lettland
 dv_Area-Total: 64589
 dv_Area-Land: 62050
-dv_Continent: "[[../../../Europe]]"
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: LV
-dv_Capital: "[[./Latvia/Counties/Riga]]"
+dv_Capital: '[[./Latvia/Counties/Riga|Riga]]'
 dv_Alcohol-l: 12.5
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 24.11
 dv_has_place_latitude: 56.95
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Latvia
 dv_developed_developing_countries: Developed
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Latvia,211|WD~Latvia,211]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/Latvia|Latvia]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/Latvia.public|Latvia.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal|Latvia.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/Latvia.protect|Latvia.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/Latvia.private|Latvia.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/Latvia.personal|Latvia.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/Latvia.secret|Latvia.secret]]'
+aliases:
+- An Laitbhe
+- an Laitvia
+- Dahńdzílgaiʼnii Bikéyah
+- ILathiviya
+- ILatviya
+- la República de Letonia
+- Laativiyaa
+- Laitfiya
+- Lakawia
+- Latbia
+- Latbya
+- Latfia
+- Latfiya
+- Lativia
+- Lativiya
+- Lattawa
+- Latveja
+- Latvi
+- Latvia
+- Latvie
+- Latvii
+- Latvija
+- Latvio
+- Latviya
+- Latviyän
+- Latviyə
+- Latvja
+- Latvėjė
+- Latwiýa
+- Latwya
+- Letiska
+- Letlaand
+- Letland
+- Letlandi
+- Letlenikondre
+- Letlound
+- Letlun
+- Letlân
+- Letoneye
+- Letoni
+- Letonia
+- Letonie
+- Letonija
+- Letonya
+- Lettlaante
+- Lettland
+- Lettlond
+- Lettonia
+- Lettonie
+- Lettonnie
+- Lettország
+- Lettunia
+- Lettògna
+- Lettònia
+- Letònia
+- Letónia
+- Letóoni
+- Letóña
+- Letônia
+- Leţmō
+- Lhetónia
+- Litunya
+- Liṭṭunya
+- Lotyšsko
+- Látfíà
+- Läti
+- Lètlan
+- Lètonie
+- Létoni
+- Létonie
+- Lɛtonii
+- ma Lawi
+- Ratebiya
+- Rāwhia
+- the Republic of Latvia
+- y Latvey
+- Łotewskô
+- Łotwa
+- Λετονία
+- Латвія
+- Латвїꙗ
+- Латви
+- Латвија
+- Латвиа
+- Латвие
+- Латвий
+- Латвиэ
+- Латвия
+- Латвия Мастор
+- Латдин Орн
+- Летонија
+- Летония
+- Լաթվիա
+- Լատվիա
+- לטביה
+- לעטלאנד
+- لاتفيا
+- لاتويا
+- لاتویا
+- لاتڤيا
+- لاتڤیا
+- لاتڥيا
+- لاتۋىيە
+- لتؤني
+- لتونی
+- لتۏيا
+- ليٽويا
+- لٹویا
+- لیٹویا
+- ܠܐܛܒܝܐ
+- ލެޓުވިއާ
+- लाटविया
+- लाट्विया
+- लातविया
+- लात्भिया
+- लात्व्हिया
+- लैटविया
+- লাতভিয়া
+- ਲਾਤਵੀਆ
+- લાટવિયા
+- ଲାଟଭିଆ
+- லாத்வியா
+- లాట్వియా
+- ಲಾಟ್ವಿಯಾ
+- ലാത്വിയ
+- ලැට්වියාව
+- ประเทศลัตเวีย
+- ປະເທດແລດໂຕນີ
+- ལ་ཊ་ཝིཡ།
+- ལེཊི་བི་ཡ།
+- မိူင်းလၢတ်ႈဝီႇယႃႇ
+- လတ်ဗီယာခမ်းထီ
+- လတ်ဗီယာနိုင်ငံ
+- ლატვია
+- ላትቪያ
+- ᎳᏘᏫᎠ
+- ឡេតូនី
+- ᱞᱟᱛᱵᱷᱤᱭᱟ
+- ⵍⴰⵜⴼⵢⴰ
+- ラトビア
+- 拉脫維亞
+- 拉脱维亚
+- ꯂꯦꯠꯚꯤꯌꯥ
+- 라뜨비야
+- 라트비아
+- "\U0001033B\U00010330\U00010339\U00010344\U00010330\U0001033B\U00010330\U0001033D\U00010333"
+has_id_wikidata: Q211
+contains_the_administrative_territorial_entity:
+- '[[/_Standards/WikiData/WD~Daugavpils,80021|WD~Daugavpils,80021]]'
+- '[[/_Standards/WikiData/WD~Ventspils,104036|WD~Ventspils,104036]]'
+- '[[/_Standards/WikiData/WD~Valmiera,108037|WD~Valmiera,108037]]'
+- '[[/_Standards/WikiData/WD~Liepāja,167668|WD~Liepāja,167668]]'
+- '[[/_Standards/WikiData/WD~Jūrmala,178382|WD~Jūrmala,178382]]'
+- '[[/_Standards/WikiData/WD~Jelgava,179830|WD~Jelgava,179830]]'
+- '[[/_Standards/WikiData/WD~Rēzekne,180379|WD~Rēzekne,180379]]'
+- '[[/_Standards/WikiData/WD~Jēkabpils,191120|WD~Jēkabpils,191120]]'
+- '[[/_Standards/WikiData/WD~Gulbene_Municipality,209187|WD~Gulbene_Municipality,209187]]'
+- '[[/_Standards/WikiData/WD~Lielvārde_Municipality,279004|WD~Lielvārde_Municipality,279004]]'
+- '[[/_Standards/WikiData/WD~Tukums_Municipality,369007|WD~Tukums_Municipality,369007]]'
+- '[[/_Standards/WikiData/WD~Saulkrasti_Municipality,371429|WD~Saulkrasti_Municipality,371429]]'
+- '[[/_Standards/WikiData/WD~Varakļāni_Municipality,432596|WD~Varakļāni_Municipality,432596]]'
+- '[[/_Standards/WikiData/WD~Vaiņode_Municipality,511151|WD~Vaiņode_Municipality,511151]]'
+- '[[/_Standards/WikiData/WD~Dobele_Municipality,519580|WD~Dobele_Municipality,519580]]'
+- '[[/_Standards/WikiData/WD~Naukšēni_Municipality,773027|WD~Naukšēni_Municipality,773027]]'
+- '[[/_Standards/WikiData/WD~Pļaviņas_Municipality,865649|WD~Pļaviņas_Municipality,865649]]'
+- '[[/_Standards/WikiData/WD~Aknīste_Municipality,865658|WD~Aknīste_Municipality,865658]]'
+- '[[/_Standards/WikiData/WD~Aizkraukle_Municipality,865676|WD~Aizkraukle_Municipality,865676]]'
+- '[[/_Standards/WikiData/WD~Koknese_Municipality,865682|WD~Koknese_Municipality,865682]]'
+- '[[/_Standards/WikiData/WD~Brocēni_Municipality,865717|WD~Brocēni_Municipality,865717]]'
+- '[[/_Standards/WikiData/WD~Ludza_Municipality,932445|WD~Ludza_Municipality,932445]]'
+- '[[/_Standards/WikiData/WD~Daugavpils_Municipality,960572|WD~Daugavpils_Municipality,960572]]'
+- '[[/_Standards/WikiData/WD~Līgatne_Municipality,1023736|WD~Līgatne_Municipality,1023736]]'
+- '[[/_Standards/WikiData/WD~Vārkava_Municipality,1023757|WD~Vārkava_Municipality,1023757]]'
+- '[[/_Standards/WikiData/WD~Ventspils_Municipality,1345325|WD~Ventspils_Municipality,1345325]]'
+- '[[/_Standards/WikiData/WD~Rēzekne_Municipality,1518841|WD~Rēzekne_Municipality,1518841]]'
+- '[[/_Standards/WikiData/WD~Limbaži_Municipality,1579076|WD~Limbaži_Municipality,1579076]]'
+- '[[/_Standards/WikiData/WD~Jēkabpils_Municipality,1579101|WD~Jēkabpils_Municipality,1579101]]'
+- '[[/_Standards/WikiData/WD~Jelgava_Municipality,1579113|WD~Jelgava_Municipality,1579113]]'
+- '[[/_Standards/WikiData/WD~Krāslava_Municipality,1831695|WD~Krāslava_Municipality,1831695]]'
+- '[[/_Standards/WikiData/WD~Rugāji_Municipality,1837354|WD~Rugāji_Municipality,1837354]]'
+- '[[/_Standards/WikiData/WD~Viļaka_Municipality,1869075|WD~Viļaka_Municipality,1869075]]'
+- '[[/_Standards/WikiData/WD~Amata_Municipality,1892063|WD~Amata_Municipality,1892063]]'
+- '[[/_Standards/WikiData/WD~Vecpiebalga_Municipality,1920815|WD~Vecpiebalga_Municipality,1920815]]'
+- '[[/_Standards/WikiData/WD~Auce_Municipality,1934932|WD~Auce_Municipality,1934932]]'
+- '[[/_Standards/WikiData/WD~Pāvilosta_Municipality,1942469|WD~Pāvilosta_Municipality,1942469]]'
+- '[[/_Standards/WikiData/WD~Valka_Municipality,1945263|WD~Valka_Municipality,1945263]]'
+- '[[/_Standards/WikiData/WD~Nīca_Municipality,1950456|WD~Nīca_Municipality,1950456]]'
+- '[[/_Standards/WikiData/WD~Cibla_Municipality,1955102|WD~Cibla_Municipality,1955102]]'
+- '[[/_Standards/WikiData/WD~Smiltene_Municipality,1959984|WD~Smiltene_Municipality,1959984]]'
+- '[[/_Standards/WikiData/WD~Durbe_Municipality,1962356|WD~Durbe_Municipality,1962356]]'
+- '[[/_Standards/WikiData/WD~Cēsis_Municipality,1989164|WD~Cēsis_Municipality,1989164]]'
+- '[[/_Standards/WikiData/WD~Alsunga_Municipality,1995769|WD~Alsunga_Municipality,1995769]]'
+- '[[/_Standards/WikiData/WD~Balvi_Municipality,2018672|WD~Balvi_Municipality,2018672]]'
+- '[[/_Standards/WikiData/WD~Viļāni_Municipality,2018681|WD~Viļāni_Municipality,2018681]]'
+- '[[/_Standards/WikiData/WD~Beverīna_Municipality,2018692|WD~Beverīna_Municipality,2018692]]'
+- '[[/_Standards/WikiData/WD~Kandava_Municipality,2024643|WD~Kandava_Municipality,2024643]]'
+- '[[/_Standards/WikiData/WD~Ilūkste_Municipality,2025473|WD~Ilūkste_Municipality,2025473]]'
+- '[[/_Standards/WikiData/WD~Baldone_Municipality,2030886|WD~Baldone_Municipality,2030886]]'
+- '[[/_Standards/WikiData/WD~Aglona_Municipality,2045300|WD~Aglona_Municipality,2045300]]'
+- '[[/_Standards/WikiData/WD~Jaunpils_Municipality,2072154|WD~Jaunpils_Municipality,2072154]]'
+- '[[/_Standards/WikiData/WD~Lubāna_Municipality,2072165|WD~Lubāna_Municipality,2072165]]'
+- '[[/_Standards/WikiData/WD~Ķegums_Municipality,2072209|WD~Ķegums_Municipality,2072209]]'
+- '[[/_Standards/WikiData/WD~Babīte_Municipality,2079353|WD~Babīte_Municipality,2079353]]'
+- '[[/_Standards/WikiData/WD~Ērgļi_Municipality,2079406|WD~Ērgļi_Municipality,2079406]]'
+- '[[/_Standards/WikiData/WD~Burtnieki_Municipality,2079428|WD~Burtnieki_Municipality,2079428]]'
+- '[[/_Standards/WikiData/WD~Engure_Municipality,2079455|WD~Engure_Municipality,2079455]]'
+- '[[/_Standards/WikiData/WD~Viesīte_Municipality,2093996|WD~Viesīte_Municipality,2093996]]'
+- '[[/_Standards/WikiData/WD~Riebiņi_Municipality,2106159|WD~Riebiņi_Municipality,2106159]]'
+- '[[/_Standards/WikiData/WD~Rundāle_Municipality,2122124|WD~Rundāle_Municipality,2122124]]'
+- '[[/_Standards/WikiData/WD~Rauna_Municipality,2124808|WD~Rauna_Municipality,2124808]]'
+- '[[/_Standards/WikiData/WD~Rucava_Municipality,2124995|WD~Rucava_Municipality,2124995]]'
+- '[[/_Standards/WikiData/WD~Salaspils_Municipality,2140753|WD~Salaspils_Municipality,2140753]]'
+- '[[/_Standards/WikiData/WD~Nereta_Municipality,2161795|WD~Nereta_Municipality,2161795]]'
+- '[[/_Standards/WikiData/WD~Garkalne_Municipality,2171669|WD~Garkalne_Municipality,2171669]]'
+- '[[/_Standards/WikiData/WD~Madona_Municipality,2198472|WD~Madona_Municipality,2198472]]'
+- '[[/_Standards/WikiData/WD~Mārupe_Municipality,2232018|WD~Mārupe_Municipality,2232018]]'
+- '[[/_Standards/WikiData/WD~Salacgrīva_Municipality,2251931|WD~Salacgrīva_Municipality,2251931]]'
+- '[[/_Standards/WikiData/WD~Inčukalns_Municipality,2252820|WD~Inčukalns_Municipality,2252820]]'
+- '[[/_Standards/WikiData/WD~Ķekava_Municipality,2268947|WD~Ķekava_Municipality,2268947]]'
+- '[[/_Standards/WikiData/WD~Tērvete_Municipality,2269685|WD~Tērvete_Municipality,2269685]]'
+- '[[/_Standards/WikiData/WD~Dundaga_Municipality,2274832|WD~Dundaga_Municipality,2274832]]'
+- '[[/_Standards/WikiData/WD~Preiļi_Municipality,2277469|WD~Preiļi_Municipality,2277469]]'
+- '[[/_Standards/WikiData/WD~Krustpils_Municipality,2277478|WD~Krustpils_Municipality,2277478]]'
+- '[[/_Standards/WikiData/WD~Līvāni_Municipality,2277489|WD~Līvāni_Municipality,2277489]]'
+- '[[/_Standards/WikiData/WD~Mazsalaca_Municipality,2283334|WD~Mazsalaca_Municipality,2283334]]'
+- '[[/_Standards/WikiData/WD~Skrīveri_Municipality,2286864|WD~Skrīveri_Municipality,2286864]]'
+- '[[/_Standards/WikiData/WD~Stopiņi_Municipality,2299214|WD~Stopiņi_Municipality,2299214]]'
+- '[[/_Standards/WikiData/WD~Strenči_Municipality,2299223|WD~Strenči_Municipality,2299223]]'
+- '[[/_Standards/WikiData/WD~Priekuļi_Municipality,2299231|WD~Priekuļi_Municipality,2299231]]'
+- '[[/_Standards/WikiData/WD~Skrunda_Municipality,2299239|WD~Skrunda_Municipality,2299239]]'
+- '[[/_Standards/WikiData/WD~Sigulda_Municipality,2299251|WD~Sigulda_Municipality,2299251]]'
+- '[[/_Standards/WikiData/WD~Saldus_Municipality,2299261|WD~Saldus_Municipality,2299261]]'
+- '[[/_Standards/WikiData/WD~Rūjiena_Municipality,2299415|WD~Rūjiena_Municipality,2299415]]'
+- '[[/_Standards/WikiData/WD~Vecumnieki_Municipality,2299436|WD~Vecumnieki_Municipality,2299436]]'
+- '[[/_Standards/WikiData/WD~Sēja_Municipality,2299447|WD~Sēja_Municipality,2299447]]'
+- '[[/_Standards/WikiData/WD~Talsi_Municipality,2302964|WD~Talsi_Municipality,2302964]]'
+- '[[/_Standards/WikiData/WD~Roja_Municipality,2302986|WD~Roja_Municipality,2302986]]'
+- '[[/_Standards/WikiData/WD~Krimulda_Municipality,2302998|WD~Krimulda_Municipality,2302998]]'
+- '[[/_Standards/WikiData/WD~Pārgauja_Municipality,2304831|WD~Pārgauja_Municipality,2304831]]'
+- '[[/_Standards/WikiData/WD~Kocēni_Municipality,2304840|WD~Kocēni_Municipality,2304840]]'
+- '[[/_Standards/WikiData/WD~Priekule_Municipality,2304893|WD~Priekule_Municipality,2304893]]'
+- '[[/_Standards/WikiData/WD~Mālpils_Municipality,2304902|WD~Mālpils_Municipality,2304902]]'
+- '[[/_Standards/WikiData/WD~Ozolnieki_Municipality,2304926|WD~Ozolnieki_Municipality,2304926]]'
+- '[[/_Standards/WikiData/WD~Jaunpiebalga_Municipality,2306846|WD~Jaunpiebalga_Municipality,2306846]]'
+- '[[/_Standards/WikiData/WD~Grobiņa_Municipality,2320320|WD~Grobiņa_Municipality,2320320]]'
+- '[[/_Standards/WikiData/WD~Ogre_Municipality,2321579|WD~Ogre_Municipality,2321579]]'
+- '[[/_Standards/WikiData/WD~Cesvaine_Municipality,2327041|WD~Cesvaine_Municipality,2327041]]'
+- '[[/_Standards/WikiData/WD~Kuldīga_Municipality,2337188|WD~Kuldīga_Municipality,2337188]]'
+- '[[/_Standards/WikiData/WD~Iecava_Municipality,2337266|WD~Iecava_Municipality,2337266]]'
+- '[[/_Standards/WikiData/WD~Ikšķile_Municipality,2337298|WD~Ikšķile_Municipality,2337298]]'
+- '[[/_Standards/WikiData/WD~Ape_Municipality,2343837|WD~Ape_Municipality,2343837]]'
+- '[[/_Standards/WikiData/WD~Baltinava_Municipality,2361012|WD~Baltinava_Municipality,2361012]]'
+- '[[/_Standards/WikiData/WD~Dagda_Municipality,2361131|WD~Dagda_Municipality,2361131]]'
+- '[[/_Standards/WikiData/WD~Bauska_Municipality,2365998|WD~Bauska_Municipality,2365998]]'
+- '[[/_Standards/WikiData/WD~Sala_Municipality,2375848|WD~Sala_Municipality,2375848]]'
+- '[[/_Standards/WikiData/WD~Kārsava_Municipality,2395952|WD~Kārsava_Municipality,2395952]]'
+- '[[/_Standards/WikiData/WD~Mērsrags_Municipality,2416186|WD~Mērsrags_Municipality,2416186]]'
+- '[[/_Standards/WikiData/WD~Olaine_Municipality,2451375|WD~Olaine_Municipality,2451375]]'
+- '[[/_Standards/WikiData/WD~Carnikava_Municipality,2453125|WD~Carnikava_Municipality,2453125]]'
+- '[[/_Standards/WikiData/WD~Aizpute_Municipality,2485015|WD~Aizpute_Municipality,2485015]]'
+- '[[/_Standards/WikiData/WD~Jaunjelgava_Municipality,2880128|WD~Jaunjelgava_Municipality,2880128]]'
+- '[[/_Standards/WikiData/WD~Aloja_Municipality,2989420|WD~Aloja_Municipality,2989420]]'
+- '[[/_Standards/WikiData/WD~Ādaži_Municipality,3019837|WD~Ādaži_Municipality,3019837]]'
+- '[[/_Standards/WikiData/WD~Zilupe_Municipality,3274762|WD~Zilupe_Municipality,3274762]]'
+- '[[/_Standards/WikiData/WD~Alūksne_Municipality,3393445|WD~Alūksne_Municipality,3393445]]'
+- '[[/_Standards/WikiData/WD~Ropaži_Municipality,11068461|WD~Ropaži_Municipality,11068461]]'
+- '[[/_Standards/WikiData/WD~Riga,1773|WD~Riga,1773]]'
+member_of:
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[/_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[/_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[/_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
+- '[[/_Standards/WikiData/WD~Baltic_Assembly,670356|WD~Baltic_Assembly,670356]]'
+- '[[/_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]'
+- '[[/_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769|WD~Council_of_the_Baltic_Sea_States,789769]]'
+- '[[/_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428|WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[/_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[/_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[/_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]'
+- '[[/_Standards/WikiData/WD~Nordic_Battle_Group,1998131|WD~Nordic_Battle_Group,1998131]]'
+- '[[/_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537|WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[/_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[/_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]'
+- '[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[/_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+- '[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[/_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[/_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]'
+flag: '[[/_Standards/WikiData/WD~flag_of_Latvia,130449|WD~flag_of_Latvia,130449]]'
+anthem: '[[/_Standards/WikiData/WD~Dievs,_svētī_Latviju!,156914|WD~Dievs,_svētī_Latviju!,156914]]'
+coat_of_arms: '[[/_Standards/WikiData/WD~Coat_of_arms_of_Latvia,184275|WD~Coat_of_arms_of_Latvia,184275]]'
+history_of_topic: '[[/_Standards/WikiData/WD~history_of_Latvia,209655|WD~history_of_Latvia,209655]]'
+office_held_by_head_of_state: '[[/_Standards/WikiData/WD~President_of_Latvia,218014|WD~President_of_Latvia,218014]]'
+office_held_by_head_of_government: '[[/_Standards/WikiData/WD~Prime_Minister_of_Latvia,369500|WD~Prime_Minister_of_Latvia,369500]]'
+central_bank: '[[/_Standards/WikiData/WD~Bank_of_Latvia,687709|WD~Bank_of_Latvia,687709]]'
+legislative_body: '[[/_Standards/WikiData/WD~Saeima,822919|WD~Saeima,822919]]'
+diplomatic_relation:
+- "[[/_Standards/WikiData/WD~Belarusian_People's_Republic,842199|WD~Belarusian_People's_Republic,842199]]"
+- '[[/_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[/_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[/_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[/_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[/_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[/_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[/_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[/_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[/_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+- '[[/_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[/_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[/_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
+- '[[/_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[/_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[/_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]'
+- '[[/_Standards/WikiData/WD~Iceland,189|WD~Iceland,189]]'
+- '[[/_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[/_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
+- '[[/_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Latvia,950091|WD~geography_of_Latvia,950091]]'
+highest_point: '[[/_Standards/WikiData/WD~Gaiziņkalns,1122342|WD~Gaiziņkalns,1122342]]'
+electrical_plug_type:
+- '[[/_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+replaces:
+- '[[/_Standards/WikiData/WD~Pskov_Governorate,1458686|WD~Pskov_Governorate,1458686]]'
+- '[[/_Standards/WikiData/WD~Latvian_Socialist_Soviet_Republic,2300296|WD~Latvian_Socialist_Soviet_Republic,2300296]]'
+economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Latvia,1902255|WD~economy_of_Latvia,1902255]]'
+demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Latvia,2329836|WD~demographics_of_Latvia,2329836]]'
+highest_judicial_authority: '[[/_Standards/WikiData/WD~Constitutional_Court_of_the_Republic_of_Latvia,2498135|WD~Constitutional_Court_of_the_Republic_of_Latvia,2498135]]'
+executive_body: '[[/_Standards/WikiData/WD~Government_of_Latvia,2502537|WD~Government_of_Latvia,2502537]]'
+culture: '[[/_Standards/WikiData/WD~culture_of_Latvia,2991765|WD~culture_of_Latvia,2991765]]'
+head_of_state: '[[/_Standards/WikiData/WD~Edgars_Rinkēvičs,3047551|WD~Edgars_Rinkēvičs,3047551]]'
+has_characteristic: '[[/_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+instance_of:
+- '[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[/_Standards/WikiData/WD~country_bordering_the_Baltic_Sea,63791824|WD~country_bordering_the_Baltic_Sea,63791824]]'
+- '[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+basic_form_of_government:
+- '[[/_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
+- '[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+described_by_source:
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+language_used:
+- '[[/_Standards/WikiData/WD~Latvian_Sign_Language,6497414|WD~Latvian_Sign_Language,6497414]]'
+- '[[/_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
+- '[[/_Standards/WikiData/WD~Latvian,9078|WD~Latvian,9078]]'
+- '[[/_Standards/WikiData/WD~Livonian,33698|WD~Livonian,33698]]'
+- '[[/_Standards/WikiData/WD~Latgalian,36212|WD~Latgalian,36212]]'
+Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_Latvia,7112331|WD~outline_of_Latvia,7112331]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Latvia,8255703|WD~WikiProject_Latvia,8255703]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Latvia,10297918|WD~Portal_Latvia,10297918]]'
+permanent_duplicated_item:
+- '[[/_Standards/WikiData/WD~Q13205601,13205601|WD~Q13205601,13205601]]'
+- '[[/_Standards/WikiData/WD~Q122639356,122639356|WD~Q122639356,122639356]]'
+railway_traffic_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+driving_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+emergency_phone_number:
+- '[[/_Standards/WikiData/WD~113,25648804|WD~113,25648804]]'
+- '[[/_Standards/WikiData/WD~110,25648823|WD~110,25648823]]'
+head_of_government: '[[/_Standards/WikiData/WD~Evika_Siliņa,61121565|WD~Evika_Siliņa,61121565]]'
+open_data_portal: '[[/_Standards/WikiData/WD~The_Latvian_Open_data_portal,71306789|WD~The_Latvian_Open_data_portal,71306789]]'
+UMLS_CUI: C0023128
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Lettland.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Lettland.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Letonia.wav
+demonym:
+- لاتڤي
+- لاتڤية
+- لاتڤيين
+- لاتڤيات
+- Laitviach
+- لاتفي
+- لاتفيون
+- letón
+- letona
+- লাতভীয়
+- letona
+- letons
+- Latvians
+- letona
+- lätlased
+- latvialainen
+- latvialaiset
+- Lettonne
+- לטבי
+- Latviano
+- lettoni
+- latviete
+- latvietis
+- Let
+- leton
+- letoni
+- латвиец
+- латвийка
+- латвийцы
+- латвієць
+- латвійка
+- латвійці
+- латиш
+- латиші
+- латишка
+- lètona
+- lètone
+- lètoni
+- Latviyänan
+- Latvian
+- لاتفية
+- letó
+- letón
+- Letton
+- לטבית
+- lett
+- lettone
+- latvisce
+- letonă
+- lètono
+- Lette
+- Lettin
+ISNI: 121518114
+nominal_GDP:
+- 39725383601
+- 41153912663
+coordinates_of_northernmost_point: Point(25.2 58.08)
+official_website:
+- https://www.president.lv/
+- https://www.mk.gov.lv/
+motto_text:
+- I'w fwynhau'n araf!
+- Per la Pàtria i la llibertat
+- Best enjoyed slowly
+- Tēvzemei un Brīvībai
+MeSH_tree_code: Z01.542.248.136.560
+coordinates_of_easternmost_point: Point(28.24140787 56.27805488)
+part_of:
+- '[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[/_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]'
+- '[[/_Standards/WikiData/WD~Northern_Europe,27479|WD~Northern_Europe,27479]]'
+- '[[/_Standards/WikiData/WD~Baltic_states,39731|WD~Baltic_states,39731]]'
+lowest_point: '[[/_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]'
+located_in_or_next_to_body_of_water: '[[/_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]'
+headquarters_locations: '[[/_Standards/WikiData/WD~Riga,1773|WD~Riga,1773]]'
+capital: '[[/_Standards/WikiData/WD~Riga,1773|WD~Riga,1773]]'
+located_in_time_zone:
+- '[[/_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+- '[[/_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]'
+official_language: '[[/_Standards/WikiData/WD~Latvian,9078|WD~Latvian,9078]]'
+shares_border_with:
+- '[[/_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[/_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
+- '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[/_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
+- '[[/_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]'
+continent: '[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+country: '[[/_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
+BTI_Governance_Index:
+- 7
+- 6.71
+- 6.81
+- 6.82
+- 6.92
+- 6.97
+- 7.11
+water_as_percent_of_area: 1.5
+marriageable_age: 18
+age_of_majority: 18
+VAT_rate: 21
+mains_voltage: 230
+BTI_Status_Index:
+- 8.2
+- 8.6
+- 8.8
+- 8.31
+- 8.41
+- 8.51
+- 8.63
+- 8.68
+- 8.75
+birth_rate:
+- 8.5
+- 9.2
+- 9.8
+unemployment_rate: 9.4
+death_rate:
+- 14.5
+- 15.2
+- 16.4
+- 18.4
+total_fertility_rate: 1.52
+suicide_rate: 16.1
+located_in_on_physical_feature: '[[/_Standards/WikiData/WD~Baltic_states,39731|WD~Baltic_states,39731]]'
+top_level_Internet_domain: '[[/_Standards/WikiData/WD~.lv,41629|WD~.lv,41629]]'
+Happy_Planet_Index_score: 34.1
+Gini_coefficient: 34.5
+UIC_numerical_country_code: 25
+retirement_age: 62.5
+Democracy_Index: 7.24
+Inequality_adjusted_Human_Development_Index: 0.792
+Human_Development_Index: 0.863
+mobile_country_code: 247
+ISO_3166_1_numeric_code: 428
+M49_code: 428
+GS1_country_code: 475
+maritime_identification_digits: 275
+number_of_out_of_school_children: 6581
+IAB_code: 1336
+Dewey_Decimal_Classification: 2--4796
+OmegaWiki_Defined_Meaning: 8351
+male_population:
+- 883240
+- 871746
+- 872894
+- 878681
+FIPS_10_4_countries_and_regions_: LG
+licence_plate_code: LV
+ISO_3166_1_alpha_2_code: LV
+NUTS_code:
+- LV
+- LV0
+- LV00
+WIPO_ST_3: LV
+UIC_alphabetical_country_code: LV
+INSEE_countries_and_foreign_territories_code: 99107
+IOC_country_code: LAT
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg
+ISO_3166_1_alpha_3_code: LVA
+ITU_letter_code: LVA
+PM20_geo_code: A58
+rural_population:
+- 591254
+- 595103
+- 602157
+- 608174
+female_population:
+- 1007636
+- 1011596
+- 1021768
+- 1030582
+urban_population:
+- 1288129
+- 1289387
+- 1298292
+- 1305648
+population: 1871882
+coordinates_of_westernmost_point: Point(20.97017527 56.35502738)
+postal_code: LV-1919
+Colon_Classification: SG--5973
+Krugosvet_article: strany-mira/latviya
+official_name:
+- Läti Vabariik
+- République de Lettonie
+- Latvijas Republika
+- Republiken Lettland
+short_name: "\U0001F1F1\U0001F1FB"
+coordinate_location: Point(25.0 57.0)
+inception: 1918-11-18
+has_time_started: 1918-11-18
+coordinates_of_southernmost_point: Point(26.5967685 55.67478947)
+area:
+- 62226.85
+- 64593.76
+U_S_National_Archives_Identifier: 10045234
+life_expectancy: 74.52927
+native_label: Latvija
+Commons_category: Latvia
+DPLA_subject_term: Latvia
+subreddit: Latvia
+hashtag: Latvia
+Commons_gallery: Latvija
+Image_Archive_Herder_Institute: Q211
+geoshape: http://commons.wikimedia.org/data/main/Data:Latvia.map
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Latvia.svg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Latvia%20on%20the%20globe%20%28Europe%20centered%29.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Riga%20and%20Daugava%20banner.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Latvia%20in%20March%202003.jpg
+country_calling_code: 371
+Legal_Entity_Identifier: 25490002QDEB2KTLNK39
+BHCL_UUID: c08becbc-31e5-48c5-8c76-80899bc99154
+Provenio_UUID: ead4868c-5ad0-4c8c-b2cf-3d8d3e1e055e
+GitHub_topic: latvia
+CIVICUS_Monitor_country_entry: latvia
+location:
+- 56.95
+- 24.11
+type: Country
+tags:
+- geo/Country
+SpocWebEntityId: 26954
+isDeleted: false
+confidential: public
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclasses:
+- Country
+publish: true
+title: Latvia
+linkTitle: ''
+keywords: ''
+layout: ''
+draft: false
+publishDate: ''
+expiryDate: ''
+Languages:
+- lv
+- ru
+- lt
+icon: flag-lv
+Unicode_character: 🇱🇻
 ---
 
+# [[Latvia]] 🇱🇻 
 
-ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
-ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
-ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
-ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
-ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
+## #has_/properties 
 
-Telephone = `=this.dv_Telephone` 
 
-Global = `=this.dv_Global` 
-Global_Name = `=this.dv_Global_Name` 
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-name = `=this.dv_has_name` 
-[	has_name_en	 :: Latvia ] 
-has_name_es = `=this.dv_has_name_es` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_cn = `=this.dv_has_name_cn` 
-has_name_ar = `=this.dv_has_name_ar` 
-has_name_ru = `=this.dv_has_name_ru` 
+[[Latvia/ReadMe|ReadMe]] 
 
-CLDR_display_name = `=this.dv_CLDR_display_name` 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-UNTERM_English = `=this.dv_UNTERM_English` 
-UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
-UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
-UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
-UNTERM_French = `=this.dv_UNTERM_French` 
-UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
-UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
-UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
-UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
-UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
-UNTERM_Russian = `=this.dv_UNTERM_Russian` 
-UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_has_name`
+[	has_name_en	 :: Latvia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
 Region_Name = `=this.dv_Region_Name`
 Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
 Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region = `=this.dv_Region` 
+Region = `=this.dv_Region`
 [	Intermediate_Region = `=this.dv_Region`
-Sub-region = `=this.dv_Sub-region` 
+Sub-region = `=this.dv_Sub-region`
 
-Geoname-ID = `=this.dv_Geoname-ID` 
-FIPS = `=this.dv_FIPS` 
-FIFA = `=this.dv_FIFA` 
-IOC = `=this.dv_IOC` 
-MARC = `=this.dv_MARC` 
-GAUL = `=this.dv_GAUL` 
-WMO = `=this.dv_WMO` 
-ITU = `=this.dv_ITU` 
-DS = `=this.dv_DS` 
-TLD = `=this.dv_TLD` 
-EDGAR = `=this.dv_EDGAR` 
-M49 = `=this.dv_M49` 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-is_independent = `=this.dv_is_independent` 
-developed_developing_countries = `=this.dv_developed_developing_countries` 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_is_a_ = `=this.dv_is_a_`
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
 
-ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-
-
-ISO2 = `=this.dv_ISO2` 
+ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
+
+is_a = `=this.dv_is_a_`
+
+## #has_/map  
 
 ```leaflet
 id: Latvia
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: .//
+geojsonFolder: ./Latvia//
+markerFolder: ./Latvia//
+coordinates: [[Latvia]] 
+markerFile: [[Latvia]] 
+defaultZoom: 5 
 ```
 
+
+### #has_map_/topologic 
+
+```leaflet
+id: Latvia_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Latvia//
+markerFolder: ./Latvia/
+coordinates: [[Latvia]] 
+markerFile: [[Latvia]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 [has_name_en::Latvia] 
-has_name_de = `=this.dv_has_name_de` 
-Area-Total = `=this.dv_Area-Total` 
-Area-Land = `=this.dv_Area-Land` 
-Continent = `=this.dv_Continent`
-VehicleCode = `=this.dv_VehicleCode` 
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Coat_of_arms_of_Latvia.svg|650]] 
-![[Anthem-Latvia.mp3]] 
-![[Flag_of_Latvia.svg|350]] 
-Alcohol-l = `=this.dv_Alcohol-l` 
-[Language-Id::] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude` 
-has_place_latitude = `=this.dv_has_place_latitude` 
+![[Coat_of_arms_of_Latvia.svg|650]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Latvia.mp3|Anthem-Latvia.mp3]]
+![[Flag_of_Latvia.svg|350]]
+Alcohol-l = `=this.dv_Alcohol-l`
+[Language-Id::]
+
+
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+## #has_/text_of_/abstract 
+
+> **Latvia** (  LAT-vee-ə, sometimes  LAHT-vee-ə; Latvian: Latvija [ˈlatvija] ), officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the three Baltic states, along with Estonia to the north and Lithuania to the south. It borders Russia to the east and Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians, who are the titular nation and comprise 63.0% of the country's population, belong to the ethnolinguistic group of the Balts and speak Latvian. Russians are the most prominent minority in the country, at almost a quarter of the population; 37.7% of the population speak Russian as their native tongue.
+>
+> After centuries of Teutonic, Swedish, Polish-Lithuanian, and Russian rule, the independent Republic of Latvia was established on 18 November 1918 after breaking away from the German Empire in the aftermath of World War I. The country became increasingly autocratic after the coup in 1934 established the dictatorship of Kārlis Ulmanis. Latvia's de facto independence was interrupted at the outset of World War II, beginning with Latvia's forcible incorporation into the Soviet Union, followed by the invasion and occupation by Nazi Germany in 1941 and the re-occupation by the Soviets in 1944, which formed the Latvian SSR for the next 45 years. As a result of extensive immigration during the Soviet occupation, ethnic Russians became the most prominent minority in the country. The peaceful Singing Revolution started in 1987 among the Baltic Soviet republics and ended with the restoration of both de facto and official independence on 21 August 1991. Latvia has since been a democratic unitary parliamentary republic.
+>
+> Latvia is a developed country with a high-income, advanced economy ranking 39th in the Human Development Index. It is a member of the European Union, Eurozone, NATO, the Council of Europe, the United Nations, the Council of the Baltic Sea States, the International Monetary Fund, the Nordic-Baltic Eight, the Nordic Investment Bank, the Organisation for Economic Co-operation and Development, the Organization for Security and Co-operation in Europe, and the World Trade Organization.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Latvia) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Latvia|Latvia]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Latvia.public|Latvia.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal|Latvia.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Latvia.protect|Latvia.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Latvia.private|Latvia.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Latvia.personal|Latvia.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Latvia.secret|Latvia.secret]] 
 
