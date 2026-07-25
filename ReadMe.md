@@ -339,7 +339,7 @@ dv_UNTERM_Chinese_Formal: 拉脱维亚共和国
 dv_UNTERM_French_Formal: la République de Lettonie
 dv_UNTERM_Russian: Латвия
 dv_UNTERM_Russian_Formal: Латвийская Республика
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Latvia]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -364,7 +364,7 @@ dv_ISO2: LV
 dv_ISO3: LVA
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Latvia,211|WD~Latvia,211]]'
+  - '[[../../../../../WikiData/WD~Latvia,211|WD~Latvia,211]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Latvia|Latvia]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Latvia.public|Latvia.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal|Latvia.internal]]'
@@ -375,17 +375,17 @@ dv_is_:
 dv_has_name_de: Lettland
 dv_Area-Total: 64589
 dv_Area-Land: 62050
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: LV
-dv_Capital: '[[./Latvia/Counties/Riga|Riga]]'
+dv_Capital: '[[Counties/Riga|Riga]]'
 dv_Alcohol-l: 12.5
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 24.11
 dv_has_place_latitude: 56.95
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Latvia
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Latvia,211|WD~Latvia,211]]'
+- '[[../../../../../WikiData/WD~Latvia,211|WD~Latvia,211]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Latvia|Latvia]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Latvia.public|Latvia.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal|Latvia.internal]]'
@@ -662,7 +662,7 @@ contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Ropaži_Municipality,11068461|WD~Ropaži_Municipality,11068461]]'
 - '[[/_Standards/WikiData/WD~Riga,1773|WD~Riga,1773]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
 - '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
@@ -1031,7 +1031,7 @@ Unicode_character: 🇱🇻
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Latvia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1120,7 +1120,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Latvia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1147,7 +1147,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Latvia.svg|650]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Latvia.mp3|Anthem-Latvia.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Latvia.mp3|Anthem-Latvia.mp3]]
 ![[Flag_of_Latvia.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
